@@ -134,3 +134,7 @@ feeds:
   - url: https://philippart-s.github.io/blog/rss.xml
     name: Ourson's Blog (Stéphane Philippart)
     categories: [Programmation, DevOps, IA]
+
+  - url: https://blog.zenika.com/feed/
+    name: Zenika
+    categories: [Programmation, Web, IA, DevOps]

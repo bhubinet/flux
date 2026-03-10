@@ -424,6 +424,38 @@
       "image": "https://standblog.org/dc-blog/public/2026/ISS_public_domain_NASA.jpg"
     },
     {
+      "id": "820cad9e368d",
+      "title": "ADK, Gemini & Javelit = 😍",
+      "description": "Tandis que les épisodes de notre podcast Zenikast se succèdent, la nécessité de produire la transcription de chaque épisode est",
+      "link": "https://blog.zenika.com/2026/01/21/adk-gemini-javelit-%f0%9f%98%8d/",
+      "pubDate": "2026-01-21T10:06:14.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f601.png"
+    },
+    {
+      "id": "a69000294755",
+      "title": "Web3 : Le bilan de Google Cloud sur la blockchain en 2025",
+      "description": "Bilan 2025 de Google Cloud dans le Web3 : comment Google Cloud accélère dans le Web3 avec sa blockchain maison, son système de paiements numériques et l’essor des agents d’intelligence artificielle capables d’interagir avec les applications décentralisées.",
+      "link": "https://blog.zenika.com/2026/01/21/web3-le-bilan-de-google-cloud-sur-la-blockchain-en-2025/",
+      "pubDate": "2026-01-21T09:50:19.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/media2.dev.to/dynamic/image/width%3D800%2Cheight%3D%2Cfit%3Dscale-down%2Cgravity%3Dauto%2Cformat%3Dauto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffqrp9v4zt5asp83h2522.png?w=800&#038;ssl=1"
+    },
+    {
       "id": "27d9505a1759",
       "title": "GitLab Runners : Maîtrisez les différents executors pour optimiser vos pipelines CI/CD",
       "description": "L'intégration continue et le déploiement continu (CI/CD) sont devenus des pratiques incontournables. Au cœur de ces pipelines se trouve un composant essentiel mais souvent mal compris : le GitLab Runner. Cet agent d'exécution est le moteur qui transforme",

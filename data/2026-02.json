@@ -313,6 +313,22 @@
       "image": null
     },
     {
+      "id": "aaf979fd4407",
+      "title": "JavaScript : Pourquoi l’API Temporal va (enfin) enterrer l’objet Date",
+      "description": "Si vous développez en JavaScript, vous avez forcément déjà vécu ce moment de frustration intense face à l’objet Date. Entre l’indexation",
+      "link": "https://blog.zenika.com/2026/02/23/javascript-pourquoi-lapi-temporal-va-enfin-enterrer-lobjet-date/",
+      "pubDate": "2026-02-23T12:56:42.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": null
+    },
+    {
       "id": "353fb233137c",
       "title": "🔄 Apprendre à son agent à réfléchir avec le pattern ReAct et LangChain4j 🤖",
       "description": "I’m not a man. I’m something that evolved. @Skynet",
@@ -432,6 +448,22 @@
         "Web"
       ],
       "image": null
+    },
+    {
+      "id": "a450da4eda0b",
+      "title": "Votre IA a peut-être une porte dérobée : démonstration pratique du Data Poisoning",
+      "description": "Nous vivons une ruée vers l’or de l’IA. Les entreprises se battent pour collecter les plus gros datasets possibles. Mais",
+      "link": "https://blog.zenika.com/2026/02/19/votre-ia-a-peut-etre-une-porte-derobee-demonstration-pratique-du-data-poisoning/",
+      "pubDate": "2026-02-19T15:02:12.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2935.png"
     },
     {
       "id": "ac3b557f1988",
@@ -802,6 +834,22 @@
       "image": "https://blog.zwindler.fr/2026/02/tnt26-entree.webp"
     },
     {
+      "id": "eed7f5897378",
+      "title": "How to build and serve custom simplified maps with OpenMapTiles",
+      "description": "If you need to display a map on your website and do not plan to use online mapping services such",
+      "link": "https://blog.zenika.com/2026/02/12/how-to-build-and-serve-custom-simplified-maps-with-openmaptiles/",
+      "pubDate": "2026-02-12T13:43:27.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/dev-to-uploads.s3.amazonaws.com/uploads/articles/1yf6q4vacqcvsmlbjb1t.png?w=800&#038;ssl=1"
+    },
+    {
       "id": "6a6d9bc370f9",
       "title": "Le guide définitif : quand utiliser type vs interface en TypeScript",
       "description": "J’ai épluché toutes les sources récentes sur type vs interface. Voici ce qu’il faut retenir ainsi que la règle que j’applique depuis plusieurs mois.",
@@ -845,6 +893,22 @@
         "IA"
       ],
       "image": "https://les-tilleuls.coop/wp-content/uploads/2026/02/image-145-1024x567.png"
+    },
+    {
+      "id": "5ea20c4076f5",
+      "title": "Les language tags : Mieux comprendre ce concept clé d’i18n et l10n",
+      "description": "Lorsque l’on démarre le sujet de l’internationalisation et de la localisation, on est vite perdu dans cet océan de locales,",
+      "link": "https://blog.zenika.com/2026/02/10/les-language-tags-mieux-comprendre-ce-concept-cle-di18n-et-l10n/",
+      "pubDate": "2026-02-10T15:00:00.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2025/12/image-11.png?resize=193%2C66&#038;ssl=1"
     },
     {
       "id": "946f5d145622",
