@@ -49,6 +49,24 @@
       "image": "https://blog.ippon.fr/content/images/2026/01/Design-sans-titre--18--1.png"
     },
     {
+      "id": "da86ccbb4404",
+      "title": "MACI #152 - Europe, Open Source et souveraineté numérique - Avec François Fouquet de DataThings",
+      "description": "Dans cet épisode de Message à Caractère Informatique, nous parlons open source en Europe, des initiatives portées par les institutions européennes et de la nécessité de créer les conditions pour permettre aux acteurs de la tech de se structurer et d’industrialiser leurs offres, afin de poser les…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-152-europe-open-source-et-souverainete-numerique-avec-francois-fouquet-de-datathings",
+      "pubDate": "2026-01-30T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.ausha.co/B1GkLTpY0W2n.mp3?t=1768837694",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/B1GkLTpY0W2n.mp3?t=1768837694",
+      "duration": "57:35"
+    },
+    {
       "id": "a256d0ce91ae",
       "title": "La veille de Wittouck - Fin janvier 2026",
       "description": "Janvier est passé à toute vitesse. En cette fin de mois, j’ai consulté pas mal de vidéos intéressantes que je voulais partager. Je me pose aussi pas mal de questions quant à la mise à disposition du contenu de ce site ou pas aux IA Gens, donc je me renseigne pas mal sur ce qui est fait par d’autres…",
@@ -388,6 +406,24 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/01/Gemini_Generated_Image_1lrzpf1lrzpf1lrz.png"
+    },
+    {
+      "id": "748114a3f340",
+      "title": "MACI #151 - IA et Digital Twin - Avec François Fouquet de DataThings",
+      "description": "Dans ce premier épisode 2026 de Message à Caractère Informatique, nous parlons Spec-Kit et Specification Driven Development, de l’impact concret de l’IA générative sur le développement logiciel, avant de nous pencher sur les Digital Twins opérationnels au cœur de l’offre DataThings, et sur les…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-151-ia-et-digital-twin-avec-francois-fouquet-de-datathings",
+      "pubDate": "2026-01-23T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.ausha.co/bWw2PCmMzXjZ.mp3?t=1768837667",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/bWw2PCmMzXjZ.mp3?t=1768837667",
+      "duration": "55:19"
     },
     {
       "id": "a8fc168ee41e",

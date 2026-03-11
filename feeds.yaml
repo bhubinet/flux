@@ -157,3 +157,13 @@ feeds:
     name: Code-Garage (Podcast)
     type: podcast
     categories: [Programmation, Web]
+
+  - url: https://feed.ausha.co/BxW2S9Mex0Vb
+    name: Artisan Développeur
+    type: podcast
+    categories: [Programmation]
+
+  - url: https://feed.ausha.co/yJpOltDVvJzN
+    name: Message à caractère informatique
+    type: podcast
+    categories: [Programmation, IA, Web]

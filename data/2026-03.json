@@ -237,6 +237,22 @@
       "image": null
     },
     {
+      "id": "dc5f234ea930",
+      "title": "L'architecte avec David Berthier",
+      "description": "Pendant longtemps, l’architecte d’entreprise était perçu comme une figure omnisciente, définissant les standards depuis une tour d’ivoire. Mais ce rôle est en train de profondément évoluer. Dans cet épisode, nous explorons ce tournant : comment l’architecte passe d’une posture de contrôle à un rôle…",
+      "link": "https://podcast.ausha.co/artisan-developpeur/l-architecte-avec-david-berthier",
+      "pubDate": "2026-03-08T16:48:59.000Z",
+      "source": "Artisan Développeur",
+      "sourceUrl": "https://feed.ausha.co/BxW2S9Mex0Vb",
+      "categories": [
+        "Programmation"
+      ],
+      "image": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/abl8NhK8LZjb.mp3?t=1772988523",
+      "type": "podcast",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/abl8NhK8LZjb.mp3?t=1772988523",
+      "duration": "13:09"
+    },
+    {
       "id": "dd21347be7bf",
       "title": "Mon positionnement sur l'Intelligence Artificielle Générative",
       "description": "En 2026, l'IA n'est plus une option mais un exosquelette. Entre productivité décuplée et nouveaux risques éthiques, le défi n'est plus de coder, mais d'orchestrer la valeur avec responsabilité.",

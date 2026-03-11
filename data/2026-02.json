@@ -86,6 +86,24 @@
       "image": "https://blog.ippon.fr/content/images/2026/02/llm.png"
     },
     {
+      "id": "d5b085f3ce8c",
+      "title": "MACI #155 - IA, veille techno et société - Avec Sébastien Prunier de SERLI",
+      "description": "Dans cet épisode de Message à Caractère Informatique, nos invités explorent l’impact concret des outils d’IA générative sur le développement logiciel et le déploiement d’applications en ligne. Nous parlons d’agents, de modèles exécutables localement, et des nouvelles interfaces comme MCP qui…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-154-ia-veille-techno-et-societe-avec-sebastien-prunier-de-serli-2",
+      "pubDate": "2026-02-27T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.ausha.co/oK516hw65k66.mp3?t=1771327753",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/oK516hw65k66.mp3?t=1771327753",
+      "duration": "55:04"
+    },
+    {
       "id": "a3a3d551cbc5",
       "title": "WebMCP : Quand vos pages web parlent directement à l'IA",
       "description": "Et si votre page web pouvait parler directement à l'IA ? Avec WebMCP, c'est possible. On construit ensemble MiamMCP, une app Symfony de commande de nourriture pilotée par Claude via le navigateur — d'abord à la main, puis avec WebMcpBundle.",
@@ -451,6 +469,24 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/Jg8L3SbgZ3o"
+    },
+    {
+      "id": "15fa5c248e78",
+      "title": "MACI #154 - IA, veille techno et société - Avec Sébastien Prunier de SERLI",
+      "description": "Dans cet épisode de Message à Caractère Informatique, nos invités explorent l’impact concret des outils d’IA générative sur le développement logiciel et le déploiement d’applications en ligne. Nous parlons d’agents, de modèles exécutables localement, et des nouvelles interfaces comme MCP qui…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-154-ia-veille-techno-et-societe-avec-sebastien-prunier-de-serli",
+      "pubDate": "2026-02-20T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.ausha.co/ygDLnsDkxKw3.mp3?t=1771324754",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/ygDLnsDkxKw3.mp3?t=1771324754",
+      "duration": "58:24"
     },
     {
       "id": "8bf0cf8a59a9",
@@ -918,6 +954,24 @@
       "image": "https://images.unsplash.com/photo-1597733336794-12d05021d510?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw1fHx0ZWNofGVufDB8fHx8MTc2NjU4MDMyNHww&ixlib=rb-4.1.0&q=80&w=1080"
     },
     {
+      "id": "d7a8e286ef7e",
+      "title": "MACI #153 - LLM mobile, open source et jQuery 4 - Avec David Caussinus",
+      "description": "Dans cet épisode de Message à Caractère Informatique, nos invités explorent une série d’actualités techniques qui illustrent l’évolution rapide de l’écosystème logiciel. Nous parlons d’Adventure Log et de nouveaux usages orientés produit, d’OpenClaw et de l’automatisation via des agents, avant de…",
+      "link": "https://podcast.ausha.co/message-a-caractere-informatique/maci-153-llm-mobile-open-source-et-jquery-4-avec-david-caussinus",
+      "pubDate": "2026-02-13T06:30:00.000Z",
+      "source": "Message à caractère informatique",
+      "sourceUrl": "https://feed.ausha.co/yJpOltDVvJzN",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://audio.ausha.co/brp32hYGQX88.mp3?t=1770643521",
+      "type": "podcast",
+      "audioUrl": "https://audio.ausha.co/brp32hYGQX88.mp3?t=1770643521",
+      "duration": "1:00:10"
+    },
+    {
       "id": "baa08262ea12",
       "title": "Touraine Tech 2026 - Récap du jour 1",
       "description": "De retour à Touraine Tech ! Pour la 2ème fois, j’ai participé à la conférence Touraine Tech (la première fois c’était en 2022). Contrairement à 2022, la conférence a maintenant lieu à l’Université de Sciences de Tours (et non plus à Polytech) et se déroule sur 2 jours. L’occasion de revenir…",
@@ -1276,6 +1330,22 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/02/Design-sans-titre--18-.png"
+    },
+    {
+      "id": "ead675b77edf",
+      "title": "Construire le programme d'une conf avec Yannick Grenzinger",
+      "description": "Yannick kiffe préparer le programme de FlowCon. Mais attends, ça veut dire quoi en fait ? T'es-tu déjà demandé comment était fait le programme d'une conf ? Yannick est clairement passionné, ça s'entend et c'est contagieux. Alors, si tu as envie de savoir pourquoi il fait ça, ce que ça lui apporte…",
+      "link": "https://podcast.ausha.co/artisan-developpeur/construire-le-programme-d-une-conf-avec-yannick-grenzinger",
+      "pubDate": "2026-02-04T08:00:23.000Z",
+      "source": "Artisan Développeur",
+      "sourceUrl": "https://feed.ausha.co/BxW2S9Mex0Vb",
+      "categories": [
+        "Programmation"
+      ],
+      "image": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/Bq8Zhp1GK8mb.mp3?t=1770192009",
+      "type": "podcast",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/audio.ausha.co/Bq8Zhp1GK8mb.mp3?t=1770192009",
+      "duration": "17:58"
     },
     {
       "id": "40e7913e699e",
