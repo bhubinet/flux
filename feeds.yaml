@@ -152,3 +152,8 @@ feeds:
     name: Double Slash
     type: podcast
     categories: [Programmation, Web]
+
+  - url: https://anchor.fm/s/f961679c/podcast/rss
+    name: Code-Garage (Podcast)
+    type: podcast
+    categories: [Programmation, Web]

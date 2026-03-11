@@ -298,6 +298,23 @@
       "image": "https://substackcdn.com/image/fetch/$s_!EEz5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F338804e6-f3e1-4233-b9e2-efe5de215c93_1920x1252.webp"
     },
     {
+      "id": "7fa4be398c16",
+      "title": "Comment fonctionne Docker ?",
+      "description": "Tout le monde parle de Docker, mais comment ça fonctionne exactement ? Et quelle est la différence avec une machine virtuelle classique ? Notes de l'épisode : Le fonctionnement interne en détails (vidéo) : https://code-garage.com/videos?id=59 Notre sponsor : https://www.secretpdf.io",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Comment-fonctionne-Docker-e3fhiiu",
+      "pubDate": "2026-02-24T11:20:21.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://anchor.fm/s/f961679c/podcast/play/115968030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2Fd3642c9d-28fa-609b-8368-b161588fbb8c.mp3",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/115968030/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2Fd3642c9d-28fa-609b-8368-b161588fbb8c.mp3",
+      "duration": "00:12:16"
+    },
+    {
       "id": "6f78fd24792c",
       "title": "Votre prochain git push --force écrasera peut-être le travail de quelqu'un (voici comment l'éviter)",
       "description": "Un flag Git méconnu protège votre équipe des force push accidentels. Mais il a une faille que votre IDE peut exploiter sans que vous le sachiez.",
@@ -635,6 +652,23 @@
         "Web"
       ],
       "image": null
+    },
+    {
+      "id": "77806009a0c3",
+      "title": "Pourquoi on a créé le format PDF ?",
+      "description": "Quand est-ce qu'il a été créé ? Par qui ? Et surtout pour résoudre quels problèmes ? Notes de l'épisode : Le sponsor : https://www.secretpdf.io/ Combien de PDF créé chaque jour ? : https://www.secretpdf.io/blog/how-many-pdfs-are-generated-every-day Notre référentiel des écoles de code :…",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Pourquoi-on-a-cr-le-format-PDF-e3f7baj",
+      "pubDate": "2026-02-17T14:45:28.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://anchor.fm/s/f961679c/podcast/play/115632915/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2Ffefc1ddf-554f-78e7-090a-b0c7d2b8b10d.mp3",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/115632915/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2Ffefc1ddf-554f-78e7-090a-b0c7d2b8b10d.mp3",
+      "duration": "00:09:15"
     },
     {
       "id": "63bc66f58a3c",
@@ -1242,6 +1276,23 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/02/Design-sans-titre--18-.png"
+    },
+    {
+      "id": "40e7913e699e",
+      "title": "Annonce: Il est enfin sorti !!",
+      "description": "On a besoin de votre participation sur notre référentiel des écoles : https://code-garage.com/schools/search",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Annonce-Il-est-enfin-sorti-e3ejnje",
+      "pubDate": "2026-02-04T06:00:00.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://anchor.fm/s/f961679c/podcast/play/114990126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-3%2Fd02f92fa-4ee0-d3bb-156b-1d40b6e3164e.mp3",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/114990126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-3%2Fd02f92fa-4ee0-d3bb-156b-1d40b6e3164e.mp3",
+      "duration": "00:03:22"
     },
     {
       "id": "d0469117cb08",

@@ -134,6 +134,23 @@
       "image": "https://domopi.eu/content/images/2025/11/ChatGPT-Image-10-nov.-2025--12_28_22.png"
     },
     {
+      "id": "bd6d01b907e4",
+      "title": "RabbitMQ, Kafka et les messages brokers",
+      "description": "Quand des services indépendants deviennent nombreux, la communication directe devient fragile. C’est précisément pour résoudre ce problème que l’on utilise des messages brokers comme RabbitMQ. Notes de l'épisode : Notre sponsor : https://www.secretpdf.io/",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/RabbitMQ--Kafka-et-les-messages-brokers-e3g6hqo",
+      "pubDate": "2026-03-09T21:28:29.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://anchor.fm/s/f961679c/podcast/play/116655384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F9b42758a-48de-a973-07e3-734adaefe515.mp3",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/116655384/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F9b42758a-48de-a973-07e3-734adaefe515.mp3",
+      "duration": "00:10:35"
+    },
+    {
       "id": "9541cc796fe7",
       "title": "KubeSolo sur Raspberry Pi Zero : mon article dans Sysops Pratique",
       "description": "Kubernetes sur 512 Mo de RAM, c’est possible Après avoir teasé sur Bluesky, je peux enfin vous annoncer (fièrement) la publication de mon article dans le numéro de mars/avril de Sysops Pratique (le successeur de Linux Pratique, magazine bien connu des administrateurs système francophones). Le sujet…",
@@ -521,6 +538,23 @@
         "IA"
       ],
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/15f04a2b-d5a0-49e2-92b8-f64b5b8e3020_1344x896.jpeg"
+    },
+    {
+      "id": "1c7d9e7d29e7",
+      "title": "La qualité indispensable pour un·e dev",
+      "description": "Et si la qualité la plus importante n'était pas la compréhension du code ? Notes de l'épisode : Notre sponsor : https://www.secretpdf.io/",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/La-qualit-indispensable-pour-une-dev-e3fr3r5",
+      "pubDate": "2026-03-02T16:58:01.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://anchor.fm/s/f961679c/podcast/play/116280613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2F2cbbc5cf-b384-16e1-22bb-b8cd0610d003.mp3",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/116280613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2F2cbbc5cf-b384-16e1-22bb-b8cd0610d003.mp3",
+      "duration": "00:10:24"
     },
     {
       "id": "574f65f05006",

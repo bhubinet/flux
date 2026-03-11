@@ -78,6 +78,23 @@
       "image": null
     },
     {
+      "id": "b9a71b63521d",
+      "title": "La bibliothèque d'Alexandrie et les données publiques",
+      "description": "Ce n'est pas parce que des données sont publiques que vous avez le droit de les réutiliser ! Notes de l'épisode : Formation juridique pour les devs : https://code-garage.com/courses/juridique?utm_source=podcast Source 1 : https://www.dastra.eu/fr/guide/le-scraping-et-le-rgpd/52038 Source 2 :…",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/La-bibliothque-dAlexandrie-et-les-donnes-publiques-e3ec15q",
+      "pubDate": "2026-01-29T15:22:52.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://anchor.fm/s/f961679c/podcast/play/114737786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F6a6c31aa-5197-7cdd-e9b6-df15dd80626a.mp3",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/114737786/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F6a6c31aa-5197-7cdd-e9b6-df15dd80626a.mp3",
+      "duration": "00:08:39"
+    },
+    {
       "id": "eae2d029acf4",
       "title": "Les délimiteurs Twig : ce problème d'espace blanc que vous ignorez",
       "description": "Gaps inline-block, diffs bruyants, layouts instables : comprenez l'impact des délimiteurs Twig sur l'espace blanc et adoptez les bonnes pratiques avec {%- et {{-.",
@@ -585,6 +602,23 @@
       "image": "https://blog.seboss666.info/wp-content/uploads/2026/01/placard-small.jpg"
     },
     {
+      "id": "df674772cd83",
+      "title": "Pourquoi le format .ics est plus sous-estimé du web",
+      "description": "Episode #142 - Derrière les invitations calendrier se cache un format vieux, simple… et redoutablement efficace. Dans cet épisode, on décortique le fichier .ics, son fonctionnement, ses règles et ses vrais cas d’usage côté développeur.",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Pourquoi-le-format--ics-est-plus-sous-estim-du-web-e3dtnve",
+      "pubDate": "2026-01-20T08:40:20.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://anchor.fm/s/f961679c/podcast/play/114269614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2Ffab890ce-ef0d-d6a3-dd4b-ba0dd2cdeb01.mp3",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/114269614/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-20%2Ffab890ce-ef0d-d6a3-dd4b-ba0dd2cdeb01.mp3",
+      "duration": "00:09:25"
+    },
+    {
       "id": "ac021478adcc",
       "title": "Le code ne suffit plus : pourquoi vos soft skills sont votre meilleur atout",
       "description": "85 % du succès professionnel vient des soft skills, pas du code. Voici les compétences que j'ai développées et qui font la différence dans mon quotidien.",
@@ -973,6 +1007,23 @@
         "Web"
       ],
       "image": null
+    },
+    {
+      "id": "0bbcd28c5b7f",
+      "title": "Comprendre les bases du SEO pour les devs",
+      "description": "Le SEO fait peur aux devs ? Avec les bonnes connaissances il n'y a pas de raisons ! Notes de l'épisode : Notre formation SEO : https://code-garage.com/courses/seo Outil de vérification SEO : https://code-garage.com/blog/seo-outil-ultime-pour-verifier-tous-vos-pages-et-liens",
+      "link": "https://podcasters.spotify.com/pod/show/nicolas-brondin/episodes/Comprendre-les-bases-du-SEO-pour-les-devs-e3dj7lk",
+      "pubDate": "2026-01-13T12:51:57.000Z",
+      "source": "Code-Garage (Podcast)",
+      "sourceUrl": "https://anchor.fm/s/f961679c/podcast/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://anchor.fm/s/f961679c/podcast/play/113925236/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-13%2Fe2036c8c-f8cf-5bc4-3b87-e84eeecfe6b6.mp3",
+      "type": "podcast",
+      "audioUrl": "https://anchor.fm/s/f961679c/podcast/play/113925236/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-13%2Fe2036c8c-f8cf-5bc4-3b87-e84eeecfe6b6.mp3",
+      "duration": "00:13:33"
     },
     {
       "id": "e9e3f453fe0a",
