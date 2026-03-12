@@ -113,9 +113,19 @@ YOUTUBE_API_KEY=votre_clé_ici
 | `npm run preview` | Prévisualiser le build |
 | `npm run fetch-feeds` | Récupérer les flux RSS |
 
-## Déploiement
+## Déploiement (GitHub Pages)
 
-Le site est déployé automatiquement sur Netlify à chaque push. L'action GitHub `fetch-feeds` tourne chaque matin à 4h UTC et commit les nouveaux articles, ce qui déclenche un redéploiement.
+Le site est déployé automatiquement sur **GitHub Pages** à chaque push sur `main` via le workflow `deploy.yml`.
+
+### Configuration
+
+1. Aller dans **Settings > Pages** du repo GitHub
+2. Dans **Source**, sélectionner **GitHub Actions**
+
+### Fonctionnement
+
+- Le workflow **`deploy.yml`** se déclenche à chaque push sur `main` : il builde le site Astro et le déploie sur GitHub Pages.
+- Le workflow **`fetch-feeds.yml`** tourne chaque matin à 4h UTC, récupère les nouveaux articles et les commit, ce qui déclenche automatiquement un redéploiement.
 
 ## Licence
 

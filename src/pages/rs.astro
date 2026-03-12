@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import { loadAllArticles, formatDate } from '../utils/articles';
 
 const allArticles = loadAllArticles();
-const siteUrl = 'https://flux.yoandev.co';
+const siteUrl = Astro.site?.toString().replace(/\/$/, '') || '';
 ---
 
 <Layout title="Partage Twitter" description="Generez des tweets pour partager les articles de veille." noindex>
@@ -127,7 +127,7 @@ const siteUrl = 'https://flux.yoandev.co';
   </div>
 </Layout>
 
-<script define:vars={{ articlesJson: JSON.stringify(allArticles), siteUrl: 'https://flux.yoandev.co' }}>
+<script define:vars={{ articlesJson: JSON.stringify(allArticles), siteUrl, basePath: import.meta.env.BASE_URL.replace(/\/$/, '') }}>
   const allArticles = JSON.parse(articlesJson);
   let visibleArticles = [];
   let currentDays = 1;
@@ -412,7 +412,7 @@ const siteUrl = 'https://flux.yoandev.co';
 
   async function generateTweet(article) {
     const apiKey = getApiKey();
-    const fluxUrl = `${siteUrl}/article/${article.id}`;
+    const fluxUrl = `${siteUrl}${basePath}/article/${article.id}`;
 
     const prompt = `Tu vas consulter l'URL suivante et rediger un tweet en francais pour partager cette ressource.
 

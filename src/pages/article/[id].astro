@@ -14,12 +14,13 @@ export function getStaticPaths() {
 const { article, allArticles } = Astro.props;
 const related = getRelatedArticles(article, allArticles);
 const badge = getFreshnessBadge(article.pubDate);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
 <Layout title={`${article.title} (${article.source})`} description={article.description} image={article.image || undefined} canonicalOverride={article.link} noindex={true}>
   <article class="max-w-3xl mx-auto fade-in-up">
     <!-- Back link -->
-    <a href="/" class="inline-flex items-center gap-1.5 text-sm text-zinc-400 hover:text-white transition-colors mb-6">
+    <a href={`${base}/`} class="inline-flex items-center gap-1.5 text-sm text-zinc-400 hover:text-white transition-colors mb-6">
       <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
       </svg>

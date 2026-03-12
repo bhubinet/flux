@@ -15,8 +15,10 @@ interface Props {
 
 const { articles, categories, sources, types, currentPage, totalPages } = Astro.props;
 
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
 function pageUrl(page: number): string {
-  return page === 1 ? '/' : `/page/${page}`;
+  return page === 1 ? `${base}/` : `${base}/page/${page}`;
 }
 
 const pages: (number | string)[] = [];
@@ -29,7 +31,7 @@ for (let i = 1; i <= totalPages; i++) {
 }
 ---
 
-<div class="flex flex-col gap-6">
+<div class="flex flex-col gap-6" data-base={base}>
   <!-- Search + Filters -->
   <div class="flex flex-col gap-3 sm:gap-5 p-3 sm:p-5 rounded-2xl bg-[var(--color-surface-1)]/50 border border-zinc-800/50 backdrop-blur-sm">
     <div class="flex items-center gap-2">
@@ -160,7 +162,8 @@ for (let i = 1; i <= totalPages; i++) {
 
   async function loadSearchIndex(): Promise<SearchArticle[]> {
     if (searchIndex) return searchIndex;
-    const res = await fetch('/search-index.json');
+    const base = document.querySelector('[data-base]')?.getAttribute('data-base') || '';
+    const res = await fetch(`${base}/search-index.json`);
     searchIndex = await res.json();
     return searchIndex!;
   }
@@ -216,6 +219,7 @@ for (let i = 1; i <= totalPages; i++) {
   function renderCard(a: SearchArticle): string {
     const badge = getFreshnessBadge(a.pubDate);
     const gradient = getCatGradient(a.categories);
+    const base = document.querySelector('[data-base]')?.getAttribute('data-base') || '';
 
     const catsHtml = a.categories
       .map((c) => `<span class="px-2 py-0.5 text-xs font-medium rounded-full border ${getCatColor(c)}">${escapeHtml(c)}</span>`)
@@ -237,7 +241,7 @@ for (let i = 1; i <= totalPages; i++) {
       : '';
 
     return `<article class="card-hover group rounded-xl border border-zinc-800 bg-[var(--color-surface-1)] overflow-hidden fade-in-up flex flex-col">
-      <a href="/article/${escapeHtml(a.id)}" class="block relative aspect-[16/9] overflow-hidden">
+      <a href="${base}/article/${escapeHtml(a.id)}" class="block relative aspect-[16/9] overflow-hidden">
         ${imageHtml}
         ${badgeHtml}
         ${typeBadgeHtml}
@@ -245,7 +249,7 @@ for (let i = 1; i <= totalPages; i++) {
       <div class="p-4 flex flex-col gap-3 flex-1">
         <div class="flex flex-wrap gap-1.5">${catsHtml}</div>
         <h3 class="font-semibold text-sm leading-snug line-clamp-2">
-          <a href="/article/${escapeHtml(a.id)}" class="hover:text-indigo-400 transition-colors">${escapeHtml(a.title)}</a>
+          <a href="${base}/article/${escapeHtml(a.id)}" class="hover:text-indigo-400 transition-colors">${escapeHtml(a.title)}</a>
         </h3>
         <p class="text-xs text-zinc-400 line-clamp-3 leading-relaxed">${escapeHtml(a.description)}</p>
         <div class="flex items-center justify-between text-xs text-zinc-500 pt-1">

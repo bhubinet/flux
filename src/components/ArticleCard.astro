@@ -8,6 +8,7 @@ interface Props {
 
 const { article } = Astro.props;
 const badge = getFreshnessBadge(article.pubDate);
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
 <article
@@ -19,7 +20,7 @@ const badge = getFreshnessBadge(article.pubDate);
   data-description={article.description}
 >
   <!-- Image -->
-  <a href={`/article/${article.id}`} class="block relative aspect-[16/9] overflow-hidden">
+  <a href={`${base}/article/${article.id}`} class="block relative aspect-[16/9] overflow-hidden">
     {article.image ? (
       <img
         src={article.image}
@@ -62,7 +63,7 @@ const badge = getFreshnessBadge(article.pubDate);
 
     <!-- Title -->
     <h3 class="font-semibold text-sm leading-snug line-clamp-2">
-      <a href={`/article/${article.id}`} class="hover:text-indigo-400 transition-colors">
+      <a href={`${base}/article/${article.id}`} class="hover:text-indigo-400 transition-colors">
         {article.title}
       </a>
     </h3>
