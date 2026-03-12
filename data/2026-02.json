@@ -42,6 +42,21 @@
       "image": null
     },
     {
+      "id": "93bd136eed08",
+      "title": "Comment construire un agent IA pour son entreprise ?",
+      "description": "L’année 2026 marque un tournant définitif : l’intelligence artificielle ne se contente plus de générer du contenu, elle devient actrice de la stratégie opérationnelle. Nous assistons à la résurgence d'un vieux rêve cybernétique, celui de systèmes autonomes capables de s'adapter grâce à des boucles…",
+      "link": "https://www.media.thiga.co/construire-un-agent-ia-pour-son-entreprise-le-guide-complet-2026",
+      "pubDate": "2026-02-27T09:30:40.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Lise%20Karren%20illu.png",
+      "type": "blog"
+    },
+    {
       "id": "11fff254e1e1",
       "title": "[OCTO] Les MCP, nouveau souffle pour l'État Plateforme ?",
       "description": "L'Etat Plateforme s'évertue depuis 10 ans à rendre les services publics plus adaptés aux besoins des usagers. Et si les Model Context Protocol (MCP), technologie interconnectant des services avec les IA, étaient le chaînon manquant pour franchir une nouvelle étape ?",
@@ -178,6 +193,21 @@
         "Programmation"
       ],
       "image": null
+    },
+    {
+      "id": "4301c064fc10",
+      "title": "Comprendre et renforcer la maturité Produit de votre organisation",
+      "description": "Pourquoi, malgré des équipes de bonne volonté et des rituels agiles bien installés, l'impact attendu reste-t-il parfois invisible ? Passer au \"mode Produit\" est souvent perçu comme un remède miracle, mais sans un modèle opératoire cohérent et adapté à sa culture, l'organisation s'épuise. Dans cet…",
+      "link": "https://www.media.thiga.co/product-operating-model-assessment-poma-comprendre-et-renforcer-la-maturite-produit-de-votre-organisation",
+      "pubDate": "2026-02-26T17:02:46.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/AI-Generated%20Media/Images/photographic%20Apple%20on%20a%20desk%20with%20a%20ruler%20to%20analyze%20its%20composition.png",
+      "type": "blog"
     },
     {
       "id": "1a7e9681c642",
@@ -495,6 +525,21 @@
       "image": null
     },
     {
+      "id": "c606ad2de7e6",
+      "title": "Qu’est-ce que tu regardes ?",
+      "description": "Le comportement d’une personne est guidé par ce qu’elle regarde. Nos réactions sont directement influencées par les informations que nous avons sous les yeux : ce que nous regardons oriente […] Cet article Qu’est-ce que tu regardes ? est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/quest-ce-que-tu-regardes/",
+      "pubDate": "2026-02-23T04:45:00.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/02/regard.jpg",
+      "type": "blog"
+    },
+    {
       "id": "7fa097a548dc",
       "title": "GotenbergBundle : LA nouvelle référence pour le PDF en Symfony",
       "description": "Partenariat : Cette vidéo est réalisée en collaboration avec SensioLabs, les créateurs de Symfony : https://sensiolabs.com/fr/ 🤝 Générer des PDF en PHP a toujours été une douleur... jusqu'à aujourd'hui. 🚀 Dans cette vidéo, on explore GotenbergBundle, la solution maintenue par SensioLabs pour…",
@@ -575,6 +620,51 @@
       "image": "https://yoandev.co/img/4558274b-71de-4467-aea2-0c52613d762c.jpeg"
     },
     {
+      "id": "415cbf21b966",
+      "title": "Claude pour Product Manager : guide complet 2026",
+      "description": "Claude transforme le métier de PM en 2026 : de la rédaction de PRD au prototypage fonctionnel, les Product Managers peuvent désormais exécuter des tâches autrefois réservées aux développeurs grâce à Claude Code, Cowork et les Skills. Dans cet article, notre Product Builder Pierre Sur donne quelques…",
+      "link": "https://www.media.thiga.co/claude-product-manager-2026",
+      "pubDate": "2026-02-20T16:47:00.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/shutterstock_2543674325.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "17ab2d6a86fd",
+      "title": "Échecs programmés",
+      "description": "Les échecs programmés sont mon métier. Les échecs programmés sont mon métier, ou plutôt, les reconnaitre et essayer de changer les trajectoires pour les éviter, ce qui reste loin d’être […] Cet article Échecs programmés est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/echecs-programmes/",
+      "pubDate": "2026-02-20T16:33:28.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/02/echec.png",
+      "type": "blog"
+    },
+    {
+      "id": "18ba86c4a53d",
+      "title": "MCP : définition et guide complet du Model Context Protocol",
+      "description": "Adopté par OpenAI, Google et Microsoft en 2025, le MCP (Model Context Protocol) est le standard universel qui permet aux agents IA de se connecter à vos outils et données d'entreprise.",
+      "link": "https://www.media.thiga.co/mcp-model-context-protocol",
+      "pubDate": "2026-02-20T16:08:43.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/shutterstock_2687215281.jpg",
+      "type": "blog"
+    },
+    {
       "id": "9a6723b5620f",
       "title": "L’Histoire du Deep Learning : quand les machines ont commencé à apprendre",
       "description": "Le deep learning est aujourd’hui omniprésent dans les systèmes de vision, de langage et de recommandation. Pourtant, son succès est relativement récent à l’échelle de l’informatique. Pendant plusieurs décennies, les réseaux",
@@ -589,6 +679,21 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/02/image7.png"
+    },
+    {
+      "id": "e79f726c7deb",
+      "title": "AI Ops : définition, compétences et cas d'usage | Thiga",
+      "description": "L'AI Ops est un profil émergent qui fait évoluer le rôle d'Ops dans les organisations Produit : il ne se contente plus de structurer les processus et de coacher les équipes, il construit des agents IA qui exécutent ces processus de manière autonome.",
+      "link": "https://www.media.thiga.co/ai-ops-definition",
+      "pubDate": "2026-02-20T14:52:03.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Copie%20de%20DSC00527-1.jpg",
+      "type": "blog"
     },
     {
       "id": "019d5150276b",
@@ -729,6 +834,21 @@
       "image": "https://i.ytimg.com/vi/KaheIi944OA/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "KaheIi944OA"
+    },
+    {
+      "id": "79d9987b13a1",
+      "title": "5 piliers pour créer un Design System efficace : guide 2026",
+      "description": "Créer un Design System est devenu un enjeu majeur pour les organisations qui cherchent à améliorer la cohérence de leurs interfaces, et accélérer leur Time-to-Market. Pourtant, malgré des intentions souvent solides, beaucoup de Design Systems peinent à être réellement adoptés par les équipes…",
+      "link": "https://www.media.thiga.co/5-piliers-du-design-system",
+      "pubDate": "2026-02-19T13:57:08.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/shutterstock_2646992209.jpg",
+      "type": "blog"
     },
     {
       "id": "903bb36b3283",
@@ -1281,6 +1401,21 @@
       "duration": "1:00:10"
     },
     {
+      "id": "8a63521a1604",
+      "title": "Forward Deployed Engineer (FDE) : définition et rôle",
+      "description": "Le Forward Deployed Engineer, ou FDE, est sans doute le rôle tech le plus recherché de cette année. Les offres d'emploi pour ce poste ont bondi de plus de 800 % entre janvier et septembre 2025 selon une analyse d'Indeed et du Financial Times. Des entreprises comme OpenAI, Salesforce ou Palantir…",
+      "link": "https://www.media.thiga.co/forward-deployed-engineer",
+      "pubDate": "2026-02-12T16:17:29.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/shutterstock_2531576319.jpg",
+      "type": "blog"
+    },
+    {
       "id": "baa08262ea12",
       "title": "Touraine Tech 2026 - Récap du jour 1",
       "description": "De retour à Touraine Tech ! Pour la 2ème fois, j’ai participé à la conférence Touraine Tech (la première fois c’était en 2022). Contrairement à 2022, la conférence a maintenant lieu à l’Université de Sciences de Tours (et non plus à Polytech) et se déroule sur 2 jours. L’occasion de revenir…",
@@ -1392,6 +1527,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/ayaVFqnsuO/08157386-d323-4410-b09e-bc8b48298766.mp3?_=1770728512",
       "duration": "01:13:14"
+    },
+    {
+      "id": "3664fc1f92da",
+      "title": "Figma MCP : Connecter enfin le Design au Code | Guide complet",
+      "description": "Fini le fossé entre la vision du Designer et la réalité du code. Dans cette vidéo, Antoine Fornas, Product Builder chez Thiga, vous propose un guide complet pour maîtriser le serveur MCP (Model Context Protocol) de Figma. Apprenez à configurer votre environnement technique et à connecter votre IDE…",
+      "link": "https://www.media.thiga.co/figma-mcp-connecter-enfin-le-design-au-code-guide-complet",
+      "pubDate": "2026-02-10T17:26:35.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Illu%20article%20Antoine.png",
+      "type": "blog"
     },
     {
       "id": "5ea20c4076f5",
@@ -1685,6 +1835,21 @@
       "image": "https://substackcdn.com/image/youtube/w_728,c_limit/dPn3GBI8lII"
     },
     {
+      "id": "21d4570d6d44",
+      "title": "IA : pourquoi TheFork n'a pas donné sa langue au chat(bot)",
+      "description": "\"Nous ne sommes pas ChatGPT\" : c’est ce constat qui a poussé TheFork à renoncer à son chatbot IA, remplaçant l'interface conversationnelle par une recherche directe bien plus performante. Un choix payant : en misant sur une recherche \"single shot\" plutôt que sur la discussion, les équipes ont…",
+      "link": "https://www.media.thiga.co/intelligence-artificielle-pourquoi-thefork-na-pas-donne-sa-langue-au-chatbot",
+      "pubDate": "2026-02-06T13:58:07.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Illu%20The%20Fork.png",
+      "type": "blog"
+    },
+    {
       "id": "ba9d559de34b",
       "title": "Repenser les formulaires Symfony : une approche moderne",
       "description": "MapQue­ryS­tring et MapRequest­Pay­load de Symfony et en s’ai­dant de compo­sants Twig, nous propo­sons une nouvelle manière de faire des formu­laires dans un projet Symfony.",
@@ -1792,6 +1957,21 @@
       "image": "https://i.ytimg.com/vi/L8kCOeATY5M/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "L8kCOeATY5M"
+    },
+    {
+      "id": "1d185ac4bfb3",
+      "title": "Client un jour, client pour toujours",
+      "description": "Client un jour, client pour toujours : c’est le premier but d’un raisonnement lean. La porte étroite par laquelle il faut passer pour rentrer dans la pièce du lean – […] Cet article Client un jour, client pour toujours est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/client-un-jour-client-pour-toujours/",
+      "pubDate": "2026-02-05T17:34:09.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/02/client-barista.jpg",
+      "type": "blog"
     },
     {
       "id": "a146d7a561bd",

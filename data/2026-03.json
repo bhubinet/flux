@@ -2,6 +2,51 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "816720d998f1",
+      "title": "Claudette",
+      "description": "J'ai créé un petit projet sympa : Claudette ! Claudette analyse la structure de votre code source (fonctions, classes, imports, appels) et construit un graphe de connaissances persistant. Cela s'installe comme un plugin Claude Code, il y a un serveur MCP, il faut juste installer Go pour compiler.…",
+      "link": "https://www.touilleur-express.fr/2026/03/12/claudette",
+      "pubDate": "2026-03-12T10:00:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "79612fc896f9",
+      "title": "Skills Claude Code : créez une fois, réutilisez toujours",
+      "description": "Créez une fois, réutilisez toujours : anatomie, configuration et patterns concrets pour transformer Claude Code en expert de votre codebase.",
+      "link": "https://codecodecoders.substack.com/p/skills-claude-code-le-guide-complet",
+      "pubDate": "2026-03-12T09:01:29.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!9p1i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84cc1cb1-d689-4b54-9379-c2fd8ca97358_1200x630.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "d3d6912e48d7",
+      "title": "Où trouver des contenus originaux pour créer des contenus marketing ?",
+      "description": "Créer des contenus originaux pour le marketing, notamment sur LinkedIn, est un défi. Il est essentiel de diversifier ses sources d'inspiration, tant externes qu'internes, pour générer régulièrement des idées. Utiliser des études, actualités, témoignages clients et expertises internes enrichit la…",
+      "link": "https://oliviersauvage.com/2026/03/12/ou-trouver-des-contenus-originaux-pour-creer-des-contenus-marketing/",
+      "pubDate": "2026-03-12T08:24:18.000Z",
+      "source": "Olivier Sauvage (Numerika)",
+      "sourceUrl": "https://oliviersauvage.com/feed/",
+      "categories": [
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4c00be375013",
       "title": "Découvrez Nano Banana 2 : la nouvelle référence en génération d’images",
       "description": "Découvrez les nouvelles capacités de Nano Banana 2 (Gemini 3.1 Flash Image) : ancrage visuel via Google Search, nouveaux paramètres comme les ratios extrêmes et les résolutions 512px, et le contrôle du mode \"Réflexion\". Ce guide explore comment maximiser l'utilisation de ce modèle pour la…",
@@ -312,6 +357,21 @@
       "image": "https://domopi.eu/content/images/2025/11/ChatGPT-Image-10-nov.-2025--12_28_22.png"
     },
     {
+      "id": "4f8264982e1e",
+      "title": "Toyota et l’innovation radicale : Woven City",
+      "description": "À l’heure où l’intelligence artificielle focalise l’attention du monde économique, il est utile de s’interroger sur la manière dont Toyota aborde l’innovation radicale. Le Lean porte encore souvent une image […] Cet article Toyota et l’innovation radicale : Woven City est apparu en premier sur…",
+      "link": "https://www.institut-lean-france.fr/toyota-et-linnovation-radicale-woven-city/",
+      "pubDate": "2026-03-10T04:15:00.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/03/Toyota-Woven.png",
+      "type": "blog"
+    },
+    {
       "id": "bd6d01b907e4",
       "title": "RabbitMQ, Kafka et les messages brokers",
       "description": "Quand des services indépendants deviennent nombreux, la communication directe devient fragile. C’est précisément pour résoudre ce problème que l’on utilise des messages brokers comme RabbitMQ. Notes de l'épisode : Notre sponsor : https://www.secretpdf.io/",
@@ -545,6 +605,21 @@
       "image": "https://yoandev.co/img/symfony-ai-mate.webp"
     },
     {
+      "id": "125ab1767d78",
+      "title": "Qu’est-ce qu’une transformation lean ?",
+      "description": "L’entreprise, est un macro-acteur, composée d’un ensemble de « boîtes noires ». Pour Akrich, Callon et Latour*, ces boîtes noires désignent des raisonnements, des habitus, des objets techniques, ainsi que […] Cet article Qu’est-ce qu’une transformation lean ? est apparu en premier sur Institut Lean…",
+      "link": "https://www.institut-lean-france.fr/quest-ce-quune-transformation-lean/",
+      "pubDate": "2026-03-07T04:38:00.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/03/transformation-lean.png",
+      "type": "blog"
+    },
+    {
       "id": "715187956279",
       "title": "BMAD  and  Agents IA : une méthode qui change la donne ",
       "description": "200",
@@ -605,6 +680,21 @@
       "image": "https://i.ytimg.com/vi/qYHRXr_qdPY/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "qYHRXr_qdPY"
+    },
+    {
+      "id": "452b9c4fb297",
+      "title": "Quand l’IA accélère tout, ce sont les meilleures décisions qui gagnent",
+      "description": "À l’ère de l’intelligence artificielle, les organisations se lancent dans une course technologique effrénée où l’argent n’est plus un obstacle. Les injonctions d’utiliser l’IA se succèdent, les plans de transformation […] Cet article Quand l’IA accélère tout, ce sont les meilleures décisions qui…",
+      "link": "https://www.institut-lean-france.fr/quand-lia-accelere-tout/",
+      "pubDate": "2026-03-06T11:08:01.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/03/shutterstock_2273696783.jpg",
+      "type": "blog"
     },
     {
       "id": "b7285745ef66",
@@ -905,6 +995,21 @@
       "type": "podcast",
       "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69a6c451f484a27b0573dbcf/media.mp3",
       "duration": "1:04:10"
+    },
+    {
+      "id": "6ecd7aa4e5f0",
+      "title": "Design B2E : le ROI caché de l'expérience collaborateur",
+      "description": "Pourquoi utilisons-nous au travail des outils numériques que nous refuserions dans notre vie privée ? Ce décalage entre l’expérience fluide du B2C et l’austérité des logiciels métiers a un coût réel pour l’entreprise : perte de productivité, frustration des équipes et dette technique. Dans cet…",
+      "link": "https://www.media.thiga.co/design-b2e-roi-experience-collaborateur",
+      "pubDate": "2026-03-03T10:54:06.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/pexels-cottonbro-7018653.jpg",
+      "type": "blog"
     },
     {
       "id": "f73e307e0e6b",

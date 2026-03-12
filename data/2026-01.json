@@ -1713,6 +1713,21 @@
       "image": null
     },
     {
+      "id": "0fc8f65bbd3e",
+      "title": "La pratique du lean, c’est l’apprentissage du lean",
+      "description": "L’année 2025 se termine donc… dans la course habituelle. Pour les équipes commerciales, c’est le rush du dernier trimestre : il faut faire les chiffres de l’année ! Sur le […] Cet article La pratique du lean, c’est l’apprentissage du lean est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/la-pratique-du-lean-cest-lapprentissage-du-lean/",
+      "pubDate": "2026-01-08T11:26:00.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/01/livre-ouvert-scaled.jpg",
+      "type": "blog"
+    },
+    {
       "id": "8baf5e243302",
       "title": "Tailwind et l’open source à l’ère des LLM : quand la documentation ne monétise plus",
       "description": "Le refus de Tailwind d'ajouter llms.txt met en évidence un problème plus profond : comment les projets open source peuvent-ils survivre à une époque où les LLM remplacent le trafic de documentation et où les modes de monétisation traditionnels s'effondrent ?",
