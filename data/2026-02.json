@@ -42,6 +42,23 @@
       "image": null
     },
     {
+      "id": "11fff254e1e1",
+      "title": "[OCTO] Les MCP, nouveau souffle pour l'État Plateforme ?",
+      "description": "L'Etat Plateforme s'évertue depuis 10 ans à rendre les services publics plus adaptés aux besoins des usagers. Et si les Model Context Protocol (MCP), technologie interconnectant des services avec les IA, étaient le chaînon manquant pour franchir une nouvelle étape ?",
+      "link": "https://blog.octo.com/octo-les-mcp-nouveau-souffle-pour-l'etat-plateforme",
+      "pubDate": "2026-02-27T09:05:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "c3491870d8f5",
       "title": "Les 8 nouveautés tech de la semaine #9 à ne pas manquer",
       "description": "Claude Code merge maintenant vos PRs pendant que vous dormez, Oxfmt humilie Prettier, un outil va changer votre façon de travailler en local et 6 autres actus !",
@@ -314,6 +331,23 @@
         "IA"
       ],
       "image": "https://substackcdn.com/image/fetch/$s_!EEz5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F338804e6-f3e1-4233-b9e2-efe5de215c93_1920x1252.webp"
+    },
+    {
+      "id": "50a89749b400",
+      "title": "La Suite Numérique : Comment la France reprend le contrôle ?",
+      "description": "Bye-bye les GAFAM - Pourquoi et comment l’État français développe-t-il ses propres outils numériques en Open Source ? Dans cet épisode de À la French, Mehdi, JB et Steeve reçoivent Samuel Paccoud, le cerveau technique derrière le projet ambitieux : \"La Suite\". 🇫🇷 L'État peut-il (enfin) se passer…",
+      "link": "https://shows.acast.com/a-la-french/episodes/699d8979f5c7a684d743be89",
+      "pubDate": "2026-02-24T11:20:25.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1771937074732-8c8418da-68b6-420c-8507-36be6291b4d5.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/699d8979f5c7a684d743be89/media.mp3",
+      "duration": "1:29:21"
     },
     {
       "id": "7fa4be398c16",
@@ -721,6 +755,23 @@
       "image": "https://code-garage-strapi-bucket-production.cellar-c2.services.clever-cloud.com/Capture_d_ecran_2026_02_17_a_11_12_20_6fa0af2297.png"
     },
     {
+      "id": "7678cb2b0026",
+      "title": "IA: Pourquoi la taille ne compte plus ?",
+      "description": "Peut-on battre les modèles de Google ou Meta avec seulement 4 GPU et une disquette Zip ? C’est le pari fou de notre invité.e qui nous explique comment le \"Data Design\" est en train de ringardiser le scraping massif du web. 🥖 L'IA qui tient sur une disquette : La fin du gigantisme ? Dans cet…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69944a418b7fe5457d2b6267",
+      "pubDate": "2026-02-17T11:00:16.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1771325930369-dae38218-aa1c-4844-997b-80fa2a27c2ea.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69944a418b7fe5457d2b6267/media.mp3",
+      "duration": "1:17:35"
+    },
+    {
       "id": "cfae016ab210",
       "title": "Quoi de neuf les devs? #166 - Veille tech et l'interview de Stella",
       "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview de Stella. On parlera aussi de ✅ le langage Go, ✅ Rails, ✅ couleurs et contrastes, ✅ sudo, ✅ Japon, ✅ etc",
@@ -1110,6 +1161,23 @@
       "image": "https://jolicode.com//media/cache/content/2026/automapper-v10/profiler.png"
     },
     {
+      "id": "3c0859b30848",
+      "title": "L'entrepreneuriat: La Revanche des Techs",
+      "description": "Nvidia, Google, Tesla... La quasi-totalité des géants mondiaux partagent un ADN commun : ils ont été fondés et sont dirigés par des profils techniques, des chercheurs ou des \"dropouts\" en Computer Science. Et en France ? On sépare encore trop souvent deux mondes : ceux qui font de la tech avec de…",
+      "link": "https://shows.acast.com/a-la-french/episodes/698b0ea65e0cb52f158eda76",
+      "pubDate": "2026-02-10T11:09:49.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1770721215395-0c72fb2f-9456-4730-8210-1daae5febd6c.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/698b0ea65e0cb52f158eda76/media.mp3",
+      "duration": "1:09:26"
+    },
+    {
       "id": "222f9d5767ef",
       "title": "🛡️ Des garde-fous pour tes LLM avec LangChain4J 🛡️",
       "description": "I'm sorry, Dave. I'm afraid I can't do that. © HAL 9000",
@@ -1410,6 +1478,23 @@
         "Web"
       ],
       "image": null
+    },
+    {
+      "id": "615a895b7e7c",
+      "title": "Le Web Agentique",
+      "description": "\"C'est pas une révolution. Il faut arrêter de dire que c'est incroyable. Quand on ouvre le capot, on voit plus de scotch que de tuyau.\" 🛠️ Bienvenue dans un nouvel épisode de A la French ! 🇫🇷 Après le Vibe Coding, on s'attaque à l'autre gros Buzzword du moment : le Web Agentique et les Agents…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6981d43119ef991f73993f5a",
+      "pubDate": "2026-02-03T10:55:44.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1770116091444-0bec65d0-3358-45e4-8bf6-096b8e8e9f66.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6981d43119ef991f73993f5a/media.mp3",
+      "duration": "1:04:22"
     },
     {
       "id": "26433ba0423b",

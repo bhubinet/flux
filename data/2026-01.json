@@ -248,6 +248,23 @@
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg"
     },
     {
+      "id": "97dcd28383cf",
+      "title": "Vibecoding: Evolution ou Révolution",
+      "description": "Est-ce que le futur du développement consiste simplement à \"donner la vibe\" à une #IA et juste savoir prompter ou faut-il revenir aux fondamentaux de l'architecture des ordinateurs pour survivre ? La grande question tech de 2026 serait donc - faut-il coder ou vibecoder ? 🚀 Au programme de ce…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69789292f159e0c1379895bc",
+      "pubDate": "2026-01-27T10:45:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1769509447363-789a7194-a461-4d67-829f-7d68be7abcf4.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69789292f159e0c1379895bc/media.mp3",
+      "duration": "59:41"
+    },
+    {
       "id": "db684a850908",
       "title": "Comment l'IA bouleverse le logiciel Libre",
       "description": "Ce week-end, j’ai réalisé que le développement assisté par l’IA est en train de bouleverser l’Open Source bien plus que je ne le pensais. Fan d’Open Source et de logiciel libre (on ne passe pas 17 ans sur le projet Mozilla comme ça), je vois un ami, Pablo Pernot développer seul avec une IA un…",
@@ -638,6 +655,23 @@
       "image": "https://blog.seboss666.info/wp-content/uploads/2026/01/placard-small.jpg"
     },
     {
+      "id": "82ea48100c06",
+      "title": "🤖 Tech 2026 - Le chaos (K.O.) qui se profile (cash, énergie, géopolitique)",
+      "description": "\"C'est pas Sam Altman, c'est Sam Pacman !\" 👻 L'IA va-t-elle manger tout le cash avant de s'effondrer ? Pour 2026, on vous dévoile nos 7 prédictions tech : de la fin de la bulle IA à la crise des composants (Nvidia, GPU), en passant par la revanche de Paris sur la Silicon Valley. Dans cet épisode,…",
+      "link": "https://shows.acast.com/a-la-french/episodes/696f4c026544003fe9d0902c",
+      "pubDate": "2026-01-20T09:33:54.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1768900375451-388767bc-990a-4d7b-af5a-9e368ae51ba8.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/696f4c026544003fe9d0902c/media.mp3",
+      "duration": "56:27"
+    },
+    {
       "id": "df674772cd83",
       "title": "Pourquoi le format .ics est plus sous-estimé du web",
       "description": "Episode #142 - Derrière les invitations calendrier se cache un format vieux, simple… et redoutablement efficace. Dans cet épisode, on décortique le fichier .ics, son fonctionnement, ses règles et ses vrais cas d’usage côté développeur.",
@@ -954,6 +988,23 @@
       "image": null
     },
     {
+      "id": "cd1231d364cf",
+      "title": "Il a mis Siri et Alexa à la retraite!",
+      "description": "Cette semaine, format exceptionnel : Steeve et Mehdi reçoivent en studio le \"taulier\" de l'IA vocale mondiale, pendant que Jean-Baptiste est en duplex du CES à Las Vegas (où il présente les technos de streaming de Kyber et les nouveautés VLC). PS : au vu du nombres d'inscrits à Gradium en moins de…",
+      "link": "https://shows.acast.com/a-la-french/episodes/696907aca3b74ba76b2a46c5",
+      "pubDate": "2026-01-15T15:28:43.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1768490778803-f64e9f55-e2e5-4a0f-b9f0-14f35ee1c8df.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/696907aca3b74ba76b2a46c5/media.mp3",
+      "duration": "1:12:33"
+    },
+    {
       "id": "647b5549a80c",
       "title": "Inertia JS, le front et le back unifiés",
       "description": "Inertia est un système qui permet de construire des applications web modernes en utilisant des frameworks front-end comme Vue.js ou React, tout en conservant une architecture back-end traditionnelle avec Laravel ou d'autres frameworks similaires. Retrouvez toutes les notes et les liens de l'épisode…",
@@ -969,6 +1020,40 @@
       "type": "podcast",
       "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_125_inertiaJS_frontBack.mp3",
       "duration": "3808"
+    },
+    {
+      "id": "1d691e2808b4",
+      "title": " 💎 9 projets Open Source à ne surtout pas manquer !",
+      "description": "📟 Bienvenue dans ce nouvel épisode de A La French. Vous avez été des centaines à réagir aux deux épisodes et on vous en remercie ! Cette semaine, on change de registre : fini les catastrophes, place à la construction. On se retrouve tous les 3 pour vous partager nos 9 projets open source sous le…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6967fa7aa3b74ba76bcf8401",
+      "pubDate": "2026-01-14T20:20:09.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1768421915189-f278dbe9-a3c2-4b8a-9d62-63e9198271ca.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6967fa7aa3b74ba76bcf8401/media.mp3",
+      "duration": "50:56"
+    },
+    {
+      "id": "399b70b382c9",
+      "title": "📟 Le monde en PLS à cause du Code 🪲?",
+      "description": "📟 Bienvenue dans ce deuxième épisode de La French. Cette semaine on explore une réalité vertigineuse : le logiciel n'est plus seulement une ligne de texte, c'est une infrastructure physique. Et quand elle flanche, les conséquences sont bien réelles. 🧠 Le fil rouge : Le logiciel dévore le monde…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6967e7fba3b74ba76bc97bee",
+      "pubDate": "2026-01-14T19:01:14.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1768417150153-d97c0d1c-6901-48d1-ac56-96d8a36f82c5.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6967e7fba3b74ba76bc97bee/media.mp3",
+      "duration": "50:33"
     },
     {
       "id": "cf3442e1d095",
@@ -1015,6 +1100,23 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/media/1772179390398-cover.jpg"
+    },
+    {
+      "id": "885fbcc524a7",
+      "title": "Pourquoi Google is so back? OpenAI en Code Rouge🚨?",
+      "description": "On ouvre cette saison avec un basculement majeur : on est sortis de l’ère “qui a le meilleur algo ?” pour entrer dans la compétition “qui a la meilleure usine à compute ?”.Pourquoi ? Parce que le compute devient un avantage stratégique comparable à l’électricité au XXᵉ siècle. Sans puces,…",
+      "link": "https://shows.acast.com/a-la-french/episodes/6966d206023744df112077aa",
+      "pubDate": "2026-01-13T23:15:18.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1768345949126-b8e9ca74-c10c-4c95-80a2-b59c607d25a2.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/6966d206023744df112077aa/media.mp3",
+      "duration": "45:44"
     },
     {
       "id": "5c22089ae3fa",

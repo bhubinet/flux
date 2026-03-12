@@ -2,6 +2,39 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "1a6bef1c7254",
+      "title": "Structurer l’organisation autour du métier pour accélérer le changement",
+      "description": "Les fusions et acquisitions constituent un levier classique de croissance et de transformation stratégique. Pourtant, si leur réussite est généralement évaluée à l’aune de critères économiques ou financiers, leurs conséquences organisationnelles restent souvent sous-estimées.",
+      "link": "https://blog.octo.com/octo-article-de-blog-19",
+      "pubDate": "2026-03-11T16:55:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "06ca1176f1ae",
+      "title": "Quoi de neuf les devs? #169 - Veille tech et l'interview d'Aurélien",
+      "description": "Un concentré d'infos pour les devs par un dev. Cette semaine avec l'interview d'Aurélien. On parlera aussi de ✅ SSH, ✅ PHP, ✅ JWT, ✅ Silicon Graphics, ✅ Tests techniques, ✅ etc",
+      "link": "https://happytodev.substack.com/p/quoi-de-neuf-les-devs-169-veille",
+      "pubDate": "2026-03-11T16:37:51.000Z",
+      "source": "Quoi de neuf les devs ?",
+      "sourceUrl": "https://happytodev.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KIuL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5cfbcc6-4eac-49b3-bdbc-1826d4cc8bc5_1920x1251.webp",
+      "type": "blog"
+    },
+    {
       "id": "82debc6e10ee",
       "title": "Model Context Protocol (MCP) : Comprendre le standard et retour d’expérience pour exposer un CLI Rust dans votre IDE",
       "description": "Découvrez le Model Context Protocol (MCP) et comment exposer un CLI Rust dans un IDE pour rendre vos outils pilotables par des agents IA.",
@@ -138,6 +171,40 @@
       "image": null
     },
     {
+      "id": "2aea072a2d45",
+      "title": "Lean IT : Cybersecurity Always",
+      "description": "Maintenant que nous disposons, parmi nos belles histoires, de sujets liés à la cyber sécurité, nous souhaitons vous en partager quelques-unes afin de montrer comment le Lean permet là encore d’obtenir des résultats significatifs sur des processus que, à notre connaissance, l’agile ou le Lean IT…",
+      "link": "https://blog.octo.com/lean-it--cybersecurity-always-!",
+      "pubDate": "2026-03-10T12:49:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "188fb184a800",
+      "title": "La dette technique : le piège des startups et des grands groupes?",
+      "description": "Dette Technique : Faut-il TOUT réécrire ou payer les intérêts ? 💸👨‍💻 Qu'est-ce que la dette technique en développement logiciel et comment la gérer sans ralentir la croissance de votre startup ? 🚀 Dans ce nouvel épisode de La French, Steeve, JB et Mehdi s'attaquent au plus grand défi des…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69afba52a2ae95013b3760a4",
+      "pubDate": "2026-03-10T10:45:00.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1773123175310-98caf549-131c-4cca-964e-42ee29996800.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69afba52a2ae95013b3760a4/media.mp3",
+      "duration": "1:10:47"
+    },
+    {
       "id": "d88fee335c39",
       "title": "Le développeur dans 5 ans : voici les 10 compétences qui résisteront à l’IA",
       "description": "Le WEF a publié son diagnostic sur les métiers tech d'ici 2030 et McKinsey a compté les compétences qui résistent à l'automatisation : voici un plan d'action que vous pouvez commencer cette semaine.",
@@ -242,6 +309,23 @@
       "image": null
     },
     {
+      "id": "948b52d8b5de",
+      "title": "Les fronts du futur avec les Agentic-Driven Interfaces",
+      "description": "Ne plus se limiter à des interfaces textuelles ou à des images pour interagir avec l'intelligence artificielle ? Les Agents Drive Interface sont là pour une intégration native des LLMs dans nos applications !",
+      "link": "https://blog.octo.com/les-fronts-du-futur-avec-les-agentic-driven-interfaces",
+      "pubDate": "2026-03-09T08:06:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ebd732443cdc",
       "title": "Cortical Labs : quand des cellules humaines jouent à Doom",
       "description": "Cortical Labs a créé le CL1, un ordinateur biologique utilisant 800 000 neurones vivants. Capable de jouer à Doom, ce système surpasse l'IA traditionnelle par sa faible consommation d'énergie et sa rapidité d'apprentissage. Cette fusion entre cellules vivantes et silicium ouvre une voie…",
@@ -253,6 +337,23 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "12361d2abb42",
+      "title": "Quand les managers deviennent architectes de la transformation Lean à l’échelle (Partie 2)",
+      "description": "Diffuser le Lean ne consiste pas à déployer des outils, mais à transformer le management. À travers l’A3, dans cette seconde partie, quatre managers vont expérimenter et mesurer des contre-mesures. Ils passent de l’action impulsive à l’apprentissage structuré, ancrant le Kaizen dans la culture de…",
+      "link": "https://blog.octo.com/quand-les-managers-deviennent-architectes-de-la-transformation-lean-a-l'echelle-(partie-2)",
+      "pubDate": "2026-03-09T06:11:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "99362bd9d848",
@@ -343,6 +444,23 @@
         "IA"
       ],
       "image": "https://yoandev.co/img/symfony-ai-mate.webp"
+    },
+    {
+      "id": "715187956279",
+      "title": "BMAD  and  Agents IA : une méthode qui change la donne ",
+      "description": "200",
+      "link": "https://blog.octo.com/octo-bmad-and-agents-ia--une-methode-qui-change-la-donne",
+      "pubDate": "2026-03-06T17:03:03.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "046b2afc4ad3",
@@ -561,6 +679,23 @@
       "image": "https://substackcdn.com/image/fetch/$s_!5gqG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa108f958-190c-47b9-a3aa-5eeb9d61bbca_1920x1253.webp"
     },
     {
+      "id": "948a62e113ae",
+      "title": "Qu’est ce qui pourrait ralentir la progression fulgurante de l’IA générative dans nos sociétés ?",
+      "description": "Personne n’a envie de se faire disrupter par l’IA. Familier de la technologie, nous surestimons la vitesse de sa diffusion organisationnelle et sociétale. Repenser les processus avant d’y intégrer efficacement l’IA. Et si le pouvoir politique s’en mêlait.",
+      "link": "https://blog.octo.com/qu'est-ce-qui-pourrait-ralentir-la-progression-fulgurante-de-l'ia-generative-dans-nos-societes",
+      "pubDate": "2026-03-03T14:21:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "48b8ea0ec0f2",
       "title": "Faites un audit SEO-GEO",
       "description": "Le GEO est désormais sur toutes les lèvres, mais comment s’y retrouver quand on y connait rien. On a peut-être la solution pour vous. Victor Lerat, qui est un expert reconnu du référencement a développé un outil qu’il a mis en libre accès pour vous aider vous même à analyser votre capacité à vous…",
@@ -572,6 +707,23 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "232032b18115",
+      "title": "Les échecs face à l'IA, avec le Grand Maître Laurent Fressinet",
+      "description": "Depuis que Deep Blue a terrassé Kasparov en 97, le débat semblait clos : la machine a gagné. Pourtant, on n’a jamais autant \"poussé du bois\" qu’aujourd’hui. Depuis le raz-de-marée avec Le Jeu de la Dame sur Netflix et le développement de l'IA, les échecs vivent une renaissance paradoxale. Mais au…",
+      "link": "https://shows.acast.com/a-la-french/episodes/69a6c451f484a27b0573dbcf",
+      "pubDate": "2026-03-03T11:21:53.000Z",
+      "source": "A la French",
+      "sourceUrl": "https://feeds.acast.com/public/shows/6966aba40b081bb8b92e4a16",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://assets.pippa.io/shows/6966aba40b081bb8b92e4a16/1772536564438-de94aebe-ae27-47c2-a522-ab6a6a8fe0cd.jpeg",
+      "type": "podcast",
+      "audioUrl": "https://sphinx.acast.com/p/open/s/6966aba40b081bb8b92e4a16/e/69a6c451f484a27b0573dbcf/media.mp3",
+      "duration": "1:04:10"
     },
     {
       "id": "f73e307e0e6b",
@@ -600,6 +752,23 @@
         "IA"
       ],
       "image": "https://substack-post-media.s3.amazonaws.com/public/images/15f04a2b-d5a0-49e2-92b8-f64b5b8e3020_1344x896.jpeg"
+    },
+    {
+      "id": "01b4d873f8a2",
+      "title": "Qui gère les environnements hors production ?",
+      "description": "Chez OCTO nous sommes très souvent focalisé sur l’environnement de production, celui qui attire souvent tous les regards car nous sommes confrontés à l'utilisateur final, au trafic réel et aux problèmes qui n’ont jamais été rencontrés avant la mise en production. Nous n'évoquons que très peu les…",
+      "link": "https://blog.octo.com/qui-gere-les-environnements-hors-production",
+      "pubDate": "2026-03-02T18:33:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "1c7d9e7d29e7",
@@ -644,6 +813,40 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "7ae747da05a5",
+      "title": "Détection d'anomalies visuelles automatique : faut-il apprendre du défaut ou de la normalité ?",
+      "description": "Comment bien choisir son modèle de détection d'anomalie visuelles ? La réponse dépend du coût de vos erreurs. Cet article compare deux approches sur un cas industriel, et guide votre choix selon vos contraintes opérationnelles.",
+      "link": "https://blog.octo.com/octo-article-de-blog-10",
+      "pubDate": "2026-03-02T10:13:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a2f308b0a0c8",
+      "title": "Quand les managers deviennent architectes de la transformation Lean à l’échelle (Partie 1)",
+      "description": "Diffuser le Lean ne consiste pas à déployer des outils, mais à transformer le management. À travers l’A3, dans cette première partie, quatre managers apprennent à définir un vrai problème, analyser les causes pour pouvoir expérimenter et mesurer dans l'article 2.",
+      "link": "https://blog.octo.com/quand-les-managers-deviennent-architectes-de-la-transformation-lean-a-l'echelle-(partie-1)",
+      "pubDate": "2026-03-02T07:56:10.000Z",
+      "source": "OCTO Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "e580acb67162",
