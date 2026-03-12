@@ -24,7 +24,7 @@ Agrégateur de veille technologique RSS et YouTube. Un site statique construit a
 - [rss-parser](https://github.com/rbren/rss-parser) — Parsing des flux RSS
 - [YouTube Data API v3](https://developers.google.com/youtube/v3) — Récupération des vidéos YouTube
 - GitHub Actions — Automatisation
-- Netlify — Hébergement
+- GitHub Pages — Déploiement
 
 ## Démarrage rapide
 
