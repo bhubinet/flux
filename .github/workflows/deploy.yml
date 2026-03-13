@@ -1,6 +1,11 @@
 name: Deploy to GitHub Pages
 
 on:
+  # Déclenché à la fin du workflow de mise à jour des flux RSS
+  workflow_run:
+    workflows: [ "Fetch RSS Feeds" ]
+    branches: [ main ]
+    types: [ completed ]
   # Déclenché à chaque push sur main
   push:
     branches: [main]
