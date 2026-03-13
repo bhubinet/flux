@@ -2,6 +2,41 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "be4c9fc65223",
+      "title": "Touraine Tech 2026",
+      "description": "Les 12 & 13 février 2026 se tenait Touraine Tech, l’événement spécialisé tech de la région. Découvrez nos retours sur les différentes conférences.",
+      "link": "https://blog.ippon.fr/2026/03/13/touraine-tech-2026/",
+      "pubDate": "2026-03-13T08:00:37.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/TNT-12---13-f--vrier-2026-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "a59c4b8097b1",
+      "title": "#156.diff - Maria DB: MariaDB, du serveur primaire au sharding avec Sylvain Arbaudie",
+      "description": "Il y a 3 ans, dans l'épisode #156 je recevais Sylvain Arbaudie. 3 ans plus tard, nous faisons une refacto de l'épisode ! Liens à suivre : Une personne tres interessante a suivre dans le monde des db : Benjamin Dicken https://www.linkedin.com/in/benjdicken Un flux rss tres planet mariadb par la…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-156-refacto-e6a8902669b6",
+      "pubDate": "2026-03-13T04:00:03.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/3ba28a36-02c3-4b4f-be14-e6a8902669b6.mp3?_=1773320463",
+      "duration": "51:04"
+    },
+    {
       "id": "816720d998f1",
       "title": "Claudette",
       "description": "J'ai créé un petit projet sympa : Claudette ! Claudette analyse la structure de votre code source (fonctions, classes, imports, appels) et construit un graphe de connaissances persistant. Cela s'installe comme un plugin Claude Code, il y a un serveur MCP, il faut juste installer Go pour compiler.…",
@@ -56,6 +91,21 @@
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "90495f56c1d5",
+      "title": "Les profils T-Shaped",
+      "description": "Il y a un type de profil qui performe particulièrement bien dans les équipes projet. Des profils spécialisés, mais qui ont un truc en plus: des compétences transverses complémentaires. C’est ce que l’on retrouve derrière la notion de profil “T-Shaped”. Ce billet a été initialement publié sur…",
+      "link": "https://www.jdecool.fr/blog/2026/03/12/les-profils-t-shaped.html",
+      "pubDate": "2026-03-11T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
