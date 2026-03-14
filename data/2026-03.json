@@ -2,6 +2,57 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "8d7c289cdfa4",
+      "title": "Refonte de la page Conférences : data-driven avec Hugo",
+      "description": "Grosse refonte de ma page “Conférences” qui était un bazar sans nom, dans lequel j’avais aussi mélangé les podcasts, les publications écrites, etc. Maintenant tout est présenté avec des “cartes”, et bien séparé en 3 pages distinctes. Tous les fichiers sources (YAML, layouts Hugo, CSS) sont…",
+      "link": "https://blog.zwindler.fr/2026/03/13/refonte-page-conferences-hugo/",
+      "pubDate": "2026-03-13T19:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/conferences-apres.webp",
+      "type": "blog"
+    },
+    {
+      "id": "83f686a0487a",
+      "title": "Sortie d’API Platform 4.3 : rencontre avec l’IA",
+      "description": "Nous sommes ravis d’annoncer la sortie d’API Platform 4.3 ! Cette version introduit une fonctionnalité majeure : le support natif du Model Context Protocol (MCP), permettant à vos ressources d’être directement consommées par des agents IA. Au-delà du MCP, cette version apporte des capacités de…",
+      "link": "https://les-tilleuls.coop/blog/sortie-dapi-platform-4-3-rencontre-avec-lia",
+      "pubDate": "2026-03-13T15:46:32.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/03/Gemini_Generated_Image_wgyyxbwgyyxbwgyy-1-1024x512.png",
+      "type": "blog"
+    },
+    {
+      "id": "8fa539bbe440",
+      "title": "Les tests d’architecture logicielle : 4 exemples pour les adopter",
+      "description": "Les tests d'architecture sont un outil puissant pour automatiser la vérification des patterns d’architecture, des standards, de valider les choses qu’un linter ne peut pas aisément valider.",
+      "link": "https://blog.octo.com/les-tests-d'architecture--4-exemples-pour-les-adopter.",
+      "pubDate": "2026-03-13T13:43:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "be4c9fc65223",
       "title": "Touraine Tech 2026",
       "description": "Les 12 & 13 février 2026 se tenait Touraine Tech, l’événement spécialisé tech de la région. Découvrez nos retours sur les différentes conférences.",
@@ -35,6 +86,54 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/3ba28a36-02c3-4b4f-be14-e6a8902669b6.mp3?_=1773320463",
       "duration": "51:04"
+    },
+    {
+      "id": "ce104dab957b",
+      "title": "Podcasts & Lives",
+      "description": "",
+      "link": "https://blog.zwindler.fr/podcasts-lives/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8dbe06596536",
+      "title": "Publications",
+      "description": "",
+      "link": "https://blog.zwindler.fr/publications/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "558196eec4ef",
+      "title": "La veille de Wittouck - Début mars 2026",
+      "description": "En ce début de mois de mars, les sujets de souveraineté ont encore fait le buzz. Au-delà des annonces (parfois décevantes), il faut prendre un peu de recul. L’excellent article de Katia donne des pistes concrètes pour aider à élaborer une souveraineté stratégique. J’ai aussi beaucoup consommé de…",
+      "link": "https://codeka.io/2026/03/13/la-veille-de-wittouck-d%C3%A9but-mars-2026/",
+      "pubDate": "2026-03-13T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/03/13/la-veille-de-wittouck-d%C3%A9but-mars-2026/cover_hu_242b02adc363f764.webp",
+      "type": "blog"
     },
     {
       "id": "816720d998f1",
