@@ -2,6 +2,56 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "b439428501e9",
+      "title": "#185.diff - Code en bois: Apprendre le c-oh-oh-oh-de  avec Marc Agenis-Nevers",
+      "description": "Il y a 3 ans, dans l'épisode #185 je recevais Marc Agenis-Nevers. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site |…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-185-refacto-baf3d669cf7e",
+      "pubDate": "2026-03-16T04:00:28.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/05baaa16-23ec-4d22-b760-baf3d669cf7e.mp3?_=1773579628",
+      "duration": "36:26"
+    },
+    {
+      "id": "f96d1348d5dc",
+      "title": "L'IA au service de l'industrialisation : Passer de 30% de réussite à 100% de fiabilité",
+      "description": "L’IA générative n’est pas déterministe. Pour industrialiser sans sacrifier la fiabilité, découvrez comment utiliser les LLM non comme moteurs, mais comme leviers pour forger vos propres outils.",
+      "link": "https://alex.balmes.co/fr/blog/l-ia-au-service-de-l-industrialisation-passer-de-30-de-reussite-a-100-de-fiabilite",
+      "pubDate": "2026-03-15T16:24:57.000Z",
+      "source": "Alex Balmes",
+      "sourceUrl": "https://alex.balmes.co/fr/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7350e1629b21",
+      "title": "Flannel et NetworkPolicies : comment ajouter le support avec Cilium en CNI chaining",
+      "description": "Flannel, flannel, flannel… Flannel est un CNI simple et populaire 😢. C’est le CNI par défaut de k3s, celui que la moitié des tutos kubeadm utilisent, et on le retrouve aussi dans pas mal d’offres managées. OK, il est simple, il route les paquets entre les pods, il supporte VXLAN et WireGuard, il…",
+      "link": "https://blog.zwindler.fr/2026/03/15/flannel-networkpolicies-cilium-cni-chaining/",
+      "pubDate": "2026-03-15T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/flannel-cilium-chaining.webp",
+      "type": "blog"
+    },
+    {
       "id": "8d7c289cdfa4",
       "title": "Refonte de la page Conférences : data-driven avec Hugo",
       "description": "Grosse refonte de ma page “Conférences” qui était un bazar sans nom, dans lequel j’avais aussi mélangé les podcasts, les publications écrites, etc. Maintenant tout est présenté avec des “cartes”, et bien séparé en 3 pages distinctes. Tous les fichiers sources (YAML, layouts Hugo, CSS) sont…",
