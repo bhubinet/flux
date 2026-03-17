@@ -2,6 +2,36 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "95f093d11b78",
+      "title": "Souveraineté numérique : un enjeu business stratégique",
+      "description": "Et si votre produit ne vous appartenait plus vraiment ? Derrière chaque service cloud ou IA se cache une dépendance qui peut impacter vos coûts, vos revenus et votre capacité à décider. Dans cet article, notre Product Manager Cécile Pérès explique comment la souveraineté numérique redéfinit les…",
+      "link": "https://www.media.thiga.co/souverainete-numerique-dependance-business",
+      "pubDate": "2026-03-16T12:34:46.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Illu%20C%C3%A9cile.png",
+      "type": "blog"
+    },
+    {
+      "id": "a496af1f1d11",
+      "title": "Liens Tech - Mars 2026",
+      "description": "Liens Tech, c’est notre façon de partager ce qu'on découvre au fil de nos explorations : des outils, projets et ressources qui nous ont intrigué, simplifié la vie ou simplement donné envie d’expérimenter. Une veille sans",
+      "link": "https://domopi.eu/liens-tech-mars-2026/",
+      "pubDate": "2026-03-16T06:45:33.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "b439428501e9",
       "title": "#185.diff - Code en bois: Apprendre le c-oh-oh-oh-de  avec Marc Agenis-Nevers",
       "description": "Il y a 3 ans, dans l'épisode #185 je recevais Marc Agenis-Nevers. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site |…",
