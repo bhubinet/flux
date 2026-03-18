@@ -2,6 +2,70 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "5f340c282a63",
+      "title": "#348.src - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS avec Jean-Christophe Leducq",
+      "description": "\"L'infrastructure logicielle est un métier, c'est très dur, c'est très, très dur comme métier.\" Le D.E.V. de la semaine est Jean-Christophe Leducq, CEO chez Digital Substrate. Issu du monde de la 3D industrielle, Jean-Christophe raconte comment la lourdeur des systèmes et la dette logicielle ont…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-348-51d98889e8c2",
+      "pubDate": "2026-03-18T04:00:52.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/38da8604-20cb-4439-bf35-e9835745ea06.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/2c683223-3bb9-4b02-91b0-51d98889e8c2.mp3?_=1773752512",
+      "duration": "59:50"
+    },
+    {
+      "id": "aa462b0fa59b",
+      "title": "GenAI et développement logiciel, épisode 2 : kubectl-debug-pvc, de l'idée à krew en 2x30 minutes",
+      "description": "Précédemment, dans “GenAI et dev” Dans mon article précédent, je vous parlais de mon retour d’expérience avec PodSweeper, un projet développé avec OpenCode et Claude Opus. Le bilan était nuancé : vitesse brute impressionnante, mais race conditions, gestion d’erreur laxiste, et nécessité constante…",
+      "link": "https://blog.zwindler.fr/2026/03/16/genai-llm-dev-kubectl-debug-pvc/",
+      "pubDate": "2026-03-17T17:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/kubectl-debug-pvc.webp",
+      "type": "blog"
+    },
+    {
+      "id": "4a68f1887423",
+      "title": "Découvrir les niveaux de maturité de l'adoption des Coding Agents",
+      "description": "Si vous êtes plongé dans l'IA comme moi jusqu'au cou, vous avez dû vous rendre compte que chacun autour de vous a un niveau différent d'adoption des agents de développement (Coding Agent). Je m'intéresse ici uniquement aux outils qui permettent d'aider le développeur comme Claude Code, Open AI…",
+      "link": "https://www.touilleur-express.fr/2026/03/17/decouvrir-les-niveaux-de-maturite-de-ladoption-des-coding-agents",
+      "pubDate": "2026-03-17T16:43:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6b5fdfffd93a",
+      "title": "Comment ne pas exécuter les scripts tiers avec npm, pnpm et yarn",
+      "description": "Découvrez comment utiliser npm install --ignore-scripts pour empêcher l’exécution de scripts dangereux ou inutiles lors de l’installation des dépendances npm.",
+      "link": "https://code-garage.com/blog/comment-ne-pas-executer-les-scripts-tiers-avec-npm-pnpm-et-yarn",
+      "pubDate": "2026-03-17T08:50:43.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "95f093d11b78",
       "title": "Souveraineté numérique : un enjeu business stratégique",
       "description": "Et si votre produit ne vous appartenait plus vraiment ? Derrière chaque service cloud ou IA se cache une dépendance qui peut impacter vos coûts, vos revenus et votre capacité à décider. Dans cet article, notre Product Manager Cécile Pérès explique comment la souveraineté numérique redéfinit les…",
