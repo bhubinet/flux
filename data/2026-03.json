@@ -2,6 +2,41 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "94aa44bd0552",
+      "title": "Le mythe du développeur augmenté par l’IA - Partie 1",
+      "description": "Le vieux monde se meurt, le nouveau monde tarde à apparaître et dans ce clair-obscur surgissent les monstresCahiers de prison (1983) de Antonio GramsciAujourd’hui, dans le monde du développement logiciel, l’IA générative suscite de nombreux fantasmes. Le plus répandu est sans doute l’idée que coder…",
+      "link": "https://blog.octo.com/l'illusion-du-developpeur-augmente",
+      "pubDate": "2026-03-18T15:08:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5e1fce6a356f",
+      "title": "FOSDEM 2026 : Retour sur deux jours d’Open Source à Bruxelles",
+      "description": "Le week-end des 31 janvier et 1er février s’est tenue l’édition 2026 de FOSDEM. Entre keynotes et sessions techniques, le",
+      "link": "https://blog.zenika.com/2026/03/18/fosdem-2026-retour-sur-deux-jours-dopen-source-a-bruxelles/",
+      "pubDate": "2026-03-18T13:00:55.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f30b.png",
+      "type": "blog"
+    },
+    {
       "id": "5f340c282a63",
       "title": "#348.src - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS avec Jean-Christophe Leducq",
       "description": "\"L'infrastructure logicielle est un métier, c'est très dur, c'est très, très dur comme métier.\" Le D.E.V. de la semaine est Jean-Christophe Leducq, CEO chez Digital Substrate. Issu du monde de la 3D industrielle, Jean-Christophe raconte comment la lourdeur des systèmes et la dette logicielle ont…",
@@ -18,6 +53,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/2c683223-3bb9-4b02-91b0-51d98889e8c2.mp3?_=1773752512",
       "duration": "59:50"
+    },
+    {
+      "id": "4f4bfb08acbd",
+      "title": "Période difficile pour les conférences développeur",
+      "description": "Avec l’avènement de l’IA, notre métier de développement logiciel doit se réinventer et avec lui, son écosystème. Je pense notamment aux conférences pour développeurs. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas…",
+      "link": "https://www.jdecool.fr/blog/2026/03/18/periode-difficile-pour-les-conferences-developpeur.html",
+      "pubDate": "2026-03-17T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "aa462b0fa59b",
