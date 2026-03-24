@@ -2,6 +2,21 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "66a8b73c927a",
+      "title": "Quand Mistral veut moraliser le pillage",
+      "description": "Cette proposition d’Arthur Mensch, cofondateur de Mistral, dans une tribune au Financial Times, mérite qu’on s’y arrête un instant (NB : comme elle est derrière un paywall, vous en trouverez plusieurs descriptifs, comme celui-ci chez Maddyness). Au moment même où Quand Mistral veut moraliser le…",
+      "link": "https://maisouvaleweb.fr/quand-mistral-veut-moraliser-le-pillage/",
+      "pubDate": "2026-03-23T12:05:30.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5fa79f8a3e19",
       "title": "J'ai installé OpenClaw, ma vie a changé (pas trop)",
       "description": "Cela faisait plusieurs semaines que l'idée me trottait en tête... mais bon, on a un vrai métier, pas le temps de faire des bidouilles, toussa. Et puis Devoxx France arrive dans 4 semaines. Je le sais, car on reçoit une bonne vingtaine d'emails chaque jour. \"Et comment je paye ? Et comment je…",
@@ -12,6 +27,22 @@
       "categories": [
         "Programmation",
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "73aba7f17a36",
+      "title": "AI Workflow Framework - le CLI est dispo pour tout le monde",
+      "description": "Lancement d'AWF CLI : un outil en Go pour piloter des workflows IA déterministes et complexes. Conçu pour automatiser le \"vibe coding\" via YAML. Pour aider Claude, Gemini, Codex et leurs amis...",
+      "link": "https://alex.balmes.co/fr/blog/ai-workflow-framework-le-cli-est-dispo-pour-tout-le-monde",
+      "pubDate": "2026-03-22T15:24:59.000Z",
+      "source": "Alex Balmes",
+      "sourceUrl": "https://alex.balmes.co/fr/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -182,6 +213,21 @@
         "DevOps"
       ],
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f30b.png",
+      "type": "blog"
+    },
+    {
+      "id": "6bbbf21dad61",
+      "title": "Commentaire sur la polémique des perroquets",
+      "description": "Un court commentaire à propos de ce papier d’ Hubert Guillaud, sur l’état de la critique de l’IA à gauche qui nierait en quelque sorte, son potentiel, et la critique de la critique de l’IA. Le papier est orienté vers Commentaire sur la polémique des perroquets first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/commentaire-sur-la-polemique-des-perroquets/",
+      "pubDate": "2026-03-18T11:51:00.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
