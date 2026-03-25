@@ -2,6 +2,86 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "a3220e9089ec",
+      "title": "#349.src - Tech et Soft Skills: Pourquoi l'empathie fait la différence dans une équipe de dev ? avec Sébastien Deleuze",
+      "description": "\"Les trois quarts du temps, le problème, il n'est pas technique. Le problème organisationnel, le problème politique&hellip c'est ça qui prend le dessus.\" Le D.E.V. de la semaine est Sébastien Deleuze, committer Spring Framework chez Broadcom. Dans cet épisode, Sébastien partage son expérience sur…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-349-810380cbbb8d",
+      "pubDate": "2026-03-25T04:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/39a6346b-af07-4450-bb42-6c65730e6ac7.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/62434dc1-affd-4d34-a70e-810380cbbb8d.mp3?_=1774357292",
+      "duration": "01:04:36"
+    },
+    {
+      "id": "f189c52b7390",
+      "title": "Product Operating Model, définition",
+      "description": "Le Product Operating Model (POM) désigne la manière dont une entreprise structure, aligne et pilote son organisation Produit et ses interactions avec les autres fonctions support clés (Finance, RH, Opérations, Business) afin de délivrer de la valeur business et utilisateur de manière cohérente,…",
+      "link": "https://www.media.thiga.co/product-operating-model-d%C3%A9finition",
+      "pubDate": "2026-03-24T16:48:49.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/AI-Generated%20Media/Images/Illustration%20of%20a%20Product%20Operating%20Model%20without%20text.png",
+      "type": "blog"
+    },
+    {
+      "id": "58ccc6385a77",
+      "title": "1,65 million de vues en 30 jours : comment j'ai automatisé la diffusion de ma veille techno",
+      "description": "Vous le savez si vous me suivez ici, la veille technologique c'est un sujet qui me passionne depuis longtemps. Je vous ai déjà parlé de comment je m'organise, de mon usage de Inoreader, de comment trouver de bonnes sources, de comment ne",
+      "link": "https://www.camilleroux.com/1-65-million-de-vues-en-30-jours-comment-jai-automatise-la-diffusion-de-ma-veille-techno/",
+      "pubDate": "2026-03-24T12:12:11.000Z",
+      "source": "Camille Roux",
+      "sourceUrl": "https://www.camilleroux.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://www.camilleroux.com/content/images/2026/03/Capture-d---e--cran-2026-03-24-a---01.24.27-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "cdf51f15cd7a",
+      "title": "⚗️ A local Agent with ADK and Docker Model Runner",
+      "description": "A French version is available on the Jean-Phi’s website. ⛅ Using AI in the Cloud I’m the first to admit",
+      "link": "https://blog.zenika.com/2026/03/24/%e2%9a%97%ef%b8%8f-a-local-agent-with-adk-and-docker-model-runner/",
+      "pubDate": "2026-03-24T09:37:19.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26c5.png",
+      "type": "blog"
+    },
+    {
+      "id": "69ef44b1d9a0",
+      "title": "Installer un serveur NTP local",
+      "description": "La synchronisation temporelle, c'est un de ces trucs qu'on ne remarque pas quand ça fonctionne, mais qui devient vite pénible quand ce n'est pas le cas : logs décalés entre deux machines, automatisations qui partent au mauvais moment,",
+      "link": "https://domopi.eu/installer-un-serveur-ntp-local/",
+      "pubDate": "2026-03-24T06:45:20.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/01/Designer--2-.png",
+      "type": "blog"
+    },
+    {
       "id": "66a8b73c927a",
       "title": "Quand Mistral veut moraliser le pillage",
       "description": "Cette proposition d’Arthur Mensch, cofondateur de Mistral, dans une tribune au Financial Times, mérite qu’on s’y arrête un instant (NB : comme elle est derrière un paywall, vous en trouverez plusieurs descriptifs, comme celui-ci chez Maddyness). Au moment même où Quand Mistral veut moraliser le…",
