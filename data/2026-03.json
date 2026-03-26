@@ -2,6 +2,90 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "c629c9f6cd92",
+      "title": "IA et legacy : du prompt au cadre de travail, retour sur une expérimentation terrain",
+      "description": "L’intelligence artificielle promet de transformer le développement logiciel. Mais que change-t-elle réellement lorsqu’elle s’applique à des systèmes existants, souvent complexes, imparfaits et hérités d’années d’évolution ?",
+      "link": "https://blog.octo.com/octo-article-de-blog-20",
+      "pubDate": "2026-03-25T11:22:56.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "216d28517837",
+      "title": "Décommission de kibana.zwindler.fr, le Kibana qui hébergeait les sondages Okiwi",
+      "description": "La fin d’une époque ? Si vous me suivez depuis quelques années, vous savez que parmis mes nombreux side projects, j’héberge (hébergeais ?) un serveur Kibana pour permettre à tout le monde de consulter les résultats des sondages sur les salaires dans la tech Girondine, organisés par l’association…",
+      "link": "https://blog.zwindler.fr/2026/03/25/decomission-kibana-zwindler-fr-sondages-okiwi/",
+      "pubDate": "2026-03-25T11:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/okiwi-2024-2025.png",
+      "type": "blog"
+    },
+    {
+      "id": "bf39a873870f",
+      "title": "Interviews d'experts - épisode #2 : Observabilité",
+      "description": "Lors cette série d’interviews, OCTO vous propose un aperçu des sujets à considérer dans votre trajectoire des mois à venir. Aujourd’hui, Guillaume Estassy, nous parle d’Observabilité.",
+      "link": "https://blog.octo.com/interviews-d'experts-episode-2--observabilite",
+      "pubDate": "2026-03-25T10:35:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "41e908f14019",
+      "title": "Les 4C, votre assurance qualité face au Vibe Coding",
+      "description": "Concevoir, Contextualiser, Contraindre, Comprendre. Découvrez comment les 4C guide nos intéractions avec les LLM, tout en nous aidant à garantir la qualité et la maintenabilité du code, dans un paysage informatique en mutation perpétuelle.",
+      "link": "https://blog.ippon.fr/2026/03/25/les-4c-votre-assurance-qualite-face-au-vibe-coding/",
+      "pubDate": "2026-03-25T10:30:17.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/Gemini_Generated_Image_40i17540i17540i1-3.png",
+      "type": "blog"
+    },
+    {
+      "id": "473f3bcb2fd2",
+      "title": "Déploiement On-Premise - Partie 1 - Le socle Docker",
+      "description": "Dans cet article, nous vous expliquons notre approche de déploiement hybride pour une application Symfony conteneurisée avec Docker. Ce système permet un déploiement à la fois sur des serveurs connectés à Internet et en mode local (on-premise) pour les zones de travail sans connectivité réseau. Le…",
+      "link": "https://jolicode.com/blog/deploiement-on-premise-partie-1-le-socle-docker",
+      "pubDate": "2026-03-25T09:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/on-premise-docker-castor/arsol-schema-onpremise.png",
+      "type": "blog"
+    },
+    {
       "id": "a3220e9089ec",
       "title": "#349.src - Tech et Soft Skills: Pourquoi l'empathie fait la différence dans une équipe de dev ? avec Sébastien Deleuze",
       "description": "\"Les trois quarts du temps, le problème, il n'est pas technique. Le problème organisationnel, le problème politique&hellip c'est ça qui prend le dessus.\" Le D.E.V. de la semaine est Sébastien Deleuze, committer Spring Framework chez Broadcom. Dans cet épisode, Sébastien partage son expérience sur…",
@@ -18,6 +102,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/62434dc1-affd-4d34-a70e-810380cbbb8d.mp3?_=1774357292",
       "duration": "01:04:36"
+    },
+    {
+      "id": "cc2df75c737a",
+      "title": "Déploiement continu et cycles de développement longs",
+      "description": "Lorsque l’on travaille sur des applications web orientées SaaS, on a la chance de pouvoir livrer rapidement et régulièrement de nouvelles fonctionnalités aux utilisateurs. C’est ce qui se cache derrière les concepts de livraison ou de déploiement continu. Pourtant, beaucoup d’équipes font des mises…",
+      "link": "https://www.jdecool.fr/blog/2026/03/25/deploiement-continu-et-cycles-de-developpement-longs.html",
+      "pubDate": "2026-03-24T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "f189c52b7390",
