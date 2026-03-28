@@ -20,6 +20,22 @@
       "duration": "12:29"
     },
     {
+      "id": "1f63d3ab2922",
+      "title": "La veille de Wittouck - Fin mars 2026",
+      "description": "Comme depuis plusieurs semaines, je continue à m’intéresser aux sujets autour de la souveraineté numérique. J’ai aussi lu plusieurs articles et rapports sur l’Open Source, écrits par la CNCF et la Linux Foundation (les sujets sont connexes). Ces sujets ont d’ailleurs maintenant le droit à leur…",
+      "link": "https://codeka.io/2026/03/27/la-veille-de-wittouck-fin-mars-2026/",
+      "pubDate": "2026-03-27T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/03/27/la-veille-de-wittouck-fin-mars-2026/cover_hu_2d8aab1631788c76.webp",
+      "type": "blog"
+    },
+    {
       "id": "5fcbb38c82cc",
       "title": "LLM à l’état de l’art pour équipes de développement : analyse statistique et perspectives",
       "description": "Introduction Bien que l’invention des neurones formels date de 1943 [1], ce sont les réseaux sémantiques qui ont mené l’intelligence",
