@@ -2,6 +2,68 @@
   "month": "2026-03",
   "articles": [
     {
+      "id": "887f5cb7b9fb",
+      "title": "OpenCVE, une plateforme de veille et de gestion des vulnérabilités",
+      "description": "Des CVE publiées en permanence, impossible de toutes les suivre. OpenCVE filtre ce qui vous concerne et alerte dès qu'une faille touche vos logiciels ou équipements.",
+      "link": "https://domopi.eu/opencve-une-plateforme-de-veille-et-de-gestion-des-vulnerabilites/",
+      "pubDate": "2026-03-30T05:45:48.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/article_opencve.webp",
+      "type": "blog"
+    },
+    {
+      "id": "089cd54a99f7",
+      "title": "Let AI Write Code, Beyond the “Waouh” Effect, the IApocalypse?",
+      "description": "",
+      "link": "https://smaine-milianni.medium.com/let-ai-write-code-beyond-the-waouh-effect-the-iapocalypse-de513ad5319c?source=rss-c730ddf97658------2",
+      "pubDate": "2026-03-30T00:47:04.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/1024/0*qb9MMGn4tet5i1zx.png",
+      "type": "blog"
+    },
+    {
+      "id": "21f998eb236b",
+      "title": "101 façons de déployer Kubernetes : 125 solutions, des PRs communautaires et une UI qui s'améliore",
+      "description": "Il bouge encore Depuis la sortie de l’interface web du projet début février, le projet a continué à évoluer. Ajout de solutions manquantes, petites améliorations de l’UI, contributions externes, optimisations de performances… Bref, un bon petit mois bien rempli pour ce gros side project que…",
+      "link": "https://blog.zwindler.fr/2026/03/29/101-facons-de-deployer-kubernetes-v3/",
+      "pubDate": "2026-03-29T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/03/125-kube.webp",
+      "type": "blog"
+    },
+    {
+      "id": "bd9e2e719c72",
+      "title": "CRD ou APIService : comment étendre l'API Kubernetes ?",
+      "description": "CRD ou APIService ? Deux façons d'étendre l'API Kubernetes avec des philosophies radicalement différentes. On compare les deux avec des exemples concrets !",
+      "link": "https://une-tasse-de.cafe/blog/crd-vs-apiservice/",
+      "pubDate": "2026-03-29T08:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "2c64de19f77e",
       "title": "#335.exe - Figma: From tech debt to AI, all through collaboration. The real life of a VP of Engineering par Caroline Chavier",
       "description": "Pour l'épisode #335 je recevais Marcel Weekes. On en débrief avec Caroline. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Archives | Site | Boutique | TikTok | Discord | Twitter | LinkedIn…",
