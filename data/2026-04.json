@@ -1,0 +1,88 @@
+{
+  "month": "2026-04",
+  "articles": [
+    {
+      "id": "47e628d04e0b",
+      "title": "Retours sur le Data Days Lille 2026",
+      "description": "Découvrez le bilan du Data Days Lille 2026 : IA, qualité des données, dbt-duckdb et stratégies de ranking. Un condensé d'expertises pour la data.",
+      "link": "https://blog.ippon.fr/2026/04/01/retours-sur-le-data-days-lille-2026/",
+      "pubDate": "2026-04-01T14:48:47.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/IMG_2366_2.png",
+      "type": "blog"
+    },
+    {
+      "id": "7157fe3b57fb",
+      "title": "Product Builder : 5 mots-clés pour comprendre le changement",
+      "description": "La valeur du code s’effondre. Ce qui était hier l'actif rare et coûteux du numérique est en train de devenir une commodité abondante, produite à la volée. Dans ce nouveau paradigme, le Product Manager \"gestionnaire\" s'efface au profit du Product Builder, capable de propulser des produits en…",
+      "link": "https://www.media.thiga.co/5-mots-cles-product-builder",
+      "pubDate": "2026-04-01T14:35:06.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/renaud%20chevalier%20article%20V2.png",
+      "type": "blog"
+    },
+    {
+      "id": "04dd948dc160",
+      "title": "Brève d’une software developer - l’IA, ce tigre dans le moteur qui propulse et bouscule le développement agile",
+      "description": "Dans le développement agile, l'IA générative donne un coup d'accélérateur aux équipes de dév. Ce gain de vitesse n'est pas sans conséquence pour le reste des acteurs du cycle agile. Comme dans un moteur auquel on injecte un surplus de puissance, il faut s'assurer que le reste du système en tire…",
+      "link": "https://blog.octo.com/breve-d'une-software-developer-l'ia-ce-tigre-dans-le-moteur-qui-propulse-et-bouscule-le-developpement-agile",
+      "pubDate": "2026-04-01T13:32:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d07c5acc9d2e",
+      "title": "Comment décrire une couleur en CSS ?",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-colors-2322 Dans ce chapitre je vous propose de nous attarder sur les couleurs et nous allons voir les différentes manières de définir des couleurs en CSS. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium…",
+      "link": "https://www.youtube.com/watch?v=Ep-ybLlHf38",
+      "pubDate": "2026-04-01T13:30:17.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Ep-ybLlHf38/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Ep-ybLlHf38"
+    },
+    {
+      "id": "d605d6bcb0fd",
+      "title": "Programmer à la vitesse de la pensée : la nouvelle ère de Symfony Docker",
+      "description": "Parler de l’expérience développeur (DX) en 2026, c’est indéniablement parler de feedback instantané et d’agents de code. Lors du SymfonyLive Paris 2026, Kévin Dunglas a présenté « Coding at the Speed of Thought: Symfony DX in 2026 », une conférence où il a détaillé les fonctionnalités de pointe que…",
+      "link": "https://les-tilleuls.coop/blog/symfony-docker-dx",
+      "pubDate": "2026-04-01T13:27:42.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/Capture-decran-2026-04-01-a-15.06.40-1024x572.png",
+      "type": "blog"
+    }
+  ]
+}
