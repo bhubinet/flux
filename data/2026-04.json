@@ -2,6 +2,107 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "e5d4047d9843",
+      "title": "#309.exe - IA inclusives: Une intelligence artificielle et une équité réelle par Julien Landuré",
+      "description": "Pour l'épisode #309 je recevais Cristina Lunghi. On en débrief avec Julien. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-309-3ff3375d9107",
+      "pubDate": "2026-04-03T03:00:51.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/23800d1f-a5e6-4bab-8280-3ff3375d9107.mp3?_=1775132691",
+      "duration": "10:59"
+    },
+    {
+      "id": "755ce9173775",
+      "title": "Gemma 4 peut-il remplacer Claude Code ? Benchmark sur un vrai projet Symfony",
+      "description": "Un modèle local de 9.6 GB peut-il générer du code Symfony fonctionnel ? Benchmark de Gemma 4 E4B : 5 scénarios, 15 runs, validation automatisée.",
+      "link": "https://yoandev.co/gemma4-opencode-benchmark",
+      "pubDate": "2026-04-03T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/gemma4.webp",
+      "type": "blog"
+    },
+    {
+      "id": "8f071e120411",
+      "title": "Le modèle de boîte en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-box-model-2323 Dans ce chapitre nous allons voir une notion essentielle en CSS : le **modèle de boîte**. C'est ce modèle qui permet de comprendre comment les éléments HTML occupent l'espace dans une page, comment ils se dimensionnent.…",
+      "link": "https://www.youtube.com/watch?v=dDXnoMbMjuk",
+      "pubDate": "2026-04-02T13:30:42.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/dDXnoMbMjuk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "dDXnoMbMjuk"
+    },
+    {
+      "id": "cb26fa3b6b78",
+      "title": "Reprendre la maîtrise de son delivery avec le Lean grâce à la qualité à la source",
+      "description": "Une équipe experte, un produit critique… et pourtant, un delivery hors de contrôle. Trop de retours, trop d'attente, pas assez de valeur. Ce retour d'expérience montre comment le Lean a permis à une équipe de reprendre la maîtrise de son flux… en transformant sa manière de voir et de traiter ses…",
+      "link": "https://blog.octo.com/reprendre-la-maitrise-de-son-delivery-avec-le-lean-grace-a-la-qualite-a-la-source",
+      "pubDate": "2026-04-02T10:14:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8b84dd91fc28",
+      "title": "L’entreprise n’est pas un flux",
+      "description": "Prenez un papier, un crayon et quelques minutes, et dessinez votre organisation. N’y réfléchissez pas trop, dessinez la première chose qui vous vient en tête pour la décrire. Je parie […] Cet article L’entreprise n’est pas un flux est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/lentreprise-nest-pas-un-flux/",
+      "pubDate": "2026-04-02T09:40:08.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/04/entreprise-flux.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c61980a42b66",
+      "title": "Les news du mois de mars 2026",
+      "description": "Anton Darius sur Unsplash Je n'ai pas été aussi productif que j'aurais voulu sur mon blog au mois de mars. Je commence à prendre mes marques dans mon nouveau poste au sein de Teralab : ce fut la dernière ligne droite pour le passage de connaissance avec la personne que je remplace ; elle est partie…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/03/news-mars/",
+      "pubDate": "2026-04-02T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/03/news-mars/banner.avif",
+      "type": "blog"
+    },
+    {
       "id": "47e628d04e0b",
       "title": "Retours sur le Data Days Lille 2026",
       "description": "Découvrez le bilan du Data Days Lille 2026 : IA, qualité des données, dbt-duckdb et stratégies de ranking. Un condensé d'expertises pour la data.",
