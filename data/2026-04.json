@@ -2,6 +2,37 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "077573bc409e",
+      "title": "Les flexbox en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-flexbox-2325 Dans ce chapitre, on va découvrir le principe des **flexbox**. C'est un mode de mise en page extrêmement pratique pour aligner des éléments, les espacer, les centrer ou répartir automatiquement l'espace disponible. ______________________…",
+      "link": "https://www.youtube.com/watch?v=6I29C_6FPPA",
+      "pubDate": "2026-04-04T13:30:06.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/6I29C_6FPPA/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "6I29C_6FPPA"
+    },
+    {
+      "id": "29baf0a5a430",
+      "title": "IA & Licenciements : Et si l'intelligence artificielle n'était qu'une excuse ?",
+      "description": "273 000 départs prévus dans la tech : l'IA nous remplace-t-elle déjà ou sert-elle de couverture à des plans de licenciements opportunistes ? Analyse d'un basculement de marché où la productivité n'est pas toujours là où on l'attend.",
+      "link": "https://eventuallycoding.com/p/ia-licenciements-et-si-l-intelligence-artificielle-n-etait-qu-une-excuse",
+      "pubDate": "2026-04-04T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1775295949930-ht8yq83.png?width=400",
+      "type": "blog"
+    },
+    {
       "id": "bc9c64f5d009",
       "title": "Les unités de mesures en CSS",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/css-units-2324 Dans ce chapitre, on va faire une petite parenthèse sur les unités de mesure en CSS. C'est un sujet important, car on les rencontre partout : pour la taille du texte, les espacements, les dimensions des blocs ou encore les mises en page…",
@@ -30,6 +61,23 @@
         "IA"
       ],
       "image": "https://www.media.thiga.co/hubfs/Illu%20article%20Cursor.png",
+      "type": "blog"
+    },
+    {
+      "id": "45db784985b8",
+      "title": "KubeCon & CloudNativeCon 2026 (Partie 2)",
+      "description": "Introduction Cet article est la seconde partie de l'article sur la KubeCon & CloudNativeCon 2026 (Partie 1) Vous y retrouverez une synthèse des concepts et nouveautés qui ont été présentés au cours des conférences auxquelles j&",
+      "link": "https://blog.ippon.fr/2026/04/03/kubecon-cloudnativecon-2026-partie-2/",
+      "pubDate": "2026-04-03T07:00:27.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/03/Kubecon-Europe-2026.png",
       "type": "blog"
     },
     {
