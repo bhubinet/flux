@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3900bd92ff97",
+      "title": "S’occuper des camions",
+      "description": "Outil simple en apparence (qui possède pourtant d’une mauvaise réputation parmi les pratiquants du lean) la zone de préparation des camions est bien plus qu’un espace où l’on rassemble les […] Cet article S’occuper des camions est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/soccuper-des-camions/",
+      "pubDate": "2026-04-07T03:46:00.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/04/s-occuper-des-camions.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "669415e58bbe",
+      "title": "Comment les outils fonctionnent-ils vraiment dans un programme lean ?",
+      "description": "Beaucoup d’initiatives lean échouent parce que les managers ne comprennent pas comment les adultes apprennent. Les auteurs décrivent pourquoi les dirigeants doivent avoir des stratégies claires qui établissent le lien […] Cet article Comment les outils fonctionnent-ils vraiment dans un programme…",
+      "link": "https://www.institut-lean-france.fr/comment-les-outils-fonctionnent-ils-vraiment-dans-un-programme-lean/",
+      "pubDate": "2026-04-06T18:38:09.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/04/outils-et-programme-lean.png",
+      "type": "blog"
+    },
+    {
       "id": "ec4e372d3bb5",
       "title": "Faire tourner un modèle IA chez soi avec Ollama",
       "description": "Utiliser un LLM sans envoyer ses données ailleurs, c'est possible. Ollama et Open WebUI permettent de faire tourner un modèle IA chez soi.",
