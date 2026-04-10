@@ -2,6 +2,105 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "77268bbf9e35",
+      "title": "[Test] GL.iNet Comet PoE (GL-RM1PE)\nLe KVM IP qui m'a sauvé d'une catastrophe",
+      "description": "Le GL.iNet Comet PoE, c'est l'accès BIOS, clavier et écran à distance sur n'importe quelle machine sans IPMI. Test et retour d'expérience après quelques semaines.",
+      "link": "https://domopi.eu/test-gl-inet-comet-poe-gl-rm1pe-le-kvm-ip-qui-ma-sauve-dune-catastrophe-guilla/",
+      "pubDate": "2026-04-10T05:45:24.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/03/photo_2026-03-16_21-37-16.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8cb845092009",
+      "title": "#316.exe - IA de recommandation: L'épisode à recommander ! par Loic Tosser",
+      "description": "Pour l'épisode #316 je recevais Arielle Marouani. On en débrief avec Loic. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast.…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-316-bfe40639a3d3",
+      "pubDate": "2026-04-10T03:00:24.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/b581d517-5a0a-4235-903e-bfe40639a3d3.mp3?_=1775736084",
+      "duration": "09:02"
+    },
+    {
+      "id": "e68da2135a06",
+      "title": "“Il faut qu’on arrête avec les LLMs”",
+      "description": "L’intelligence artificielle générative est partout, portée par la puissance spectaculaire des modèles de langage. Pourtant, derrière les benchmarks élogieux, la réalité du terrain révèle une impasse : celle d'une technologie probabiliste que l'on tente désespérément de rendre déterministe à coups…",
+      "link": "https://www.media.thiga.co/limites-llm-avenir-slm-agentique",
+      "pubDate": "2026-04-09T15:10:32.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Miniature%20Olivier%20B%20(article).png",
+      "type": "blog"
+    },
+    {
+      "id": "854e801b60ed",
+      "title": "SymfonyLive Paris 2026 : TUI, Base de données et FrankenPHP",
+      "description": "La SymfonyLive Paris 2026 s’est tenu fin mars, comme chaque année. Pas de blabla conceptuel à l’horizon : on a eu droit à des évolutions pragmatiques et puissantes, avec un focus très net sur la CLI, l’infrastructure et l’intégration de l’IA. Tour d’horizon condensé des annonces principales de ce…",
+      "link": "https://les-tilleuls.coop/blog/symfonylive-paris-2026-tui-base-de-donnees-et-frankenphp",
+      "pubDate": "2026-04-09T13:07:15.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/image-1024x768.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "0ca6d799598d",
+      "title": "Design responsive en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-responsive-2330 Dans ce chapitre, on va aborder une notion essentielle en CSS : le **responsive design**. L'objectif de cette pratique consiste à faire en sorte qu'un site s'adapte correctement à tous les types de périphérique (écran, tablette,…",
+      "link": "https://www.youtube.com/watch?v=7OT57h_7-4A",
+      "pubDate": "2026-04-09T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/7OT57h_7-4A/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "7OT57h_7-4A"
+    },
+    {
+      "id": "b1cbc1fa38a4",
+      "title": "Duck Conf 2026 – CR – À l'épreuve de l'échelle - surmonter la dette technique et les défis d'une plateforme DevOps",
+      "description": "Lors de la Duck Conf 2026, Adrien Gooris, architecte IT chez Michelin, et Lucas Drago, tech lead sur l’équipe Factory, sont venus nous raconter comment ils ont fait grandir un GitLab self-hosted de quelques centaines à plusieurs milliers d’utilisateurs en accumulant, puis en soldant, une dette…",
+      "link": "https://blog.octo.com/duck-conf-2026-cr-a-l'epreuve-de-l'echelle-surmonter-la-dette-technique-et-les-defis-d'une-plateforme-devops",
+      "pubDate": "2026-04-09T12:58:59.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b43f90071a4d",
       "title": "Duck Conf 2026 – CR – Estimation des projets à l'échelle : Bienvenue à Mytholand ! ",
       "description": "Lors de la Duck Conf 2026, Thomas Luquet démontre par l'absurde l'inefficacité des estimations trop précises des projets à l'échelle, et nous donne des guidelines pour se rapprocher de la réalité.",
