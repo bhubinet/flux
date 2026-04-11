@@ -2,6 +2,72 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "855a044a457c",
+      "title": "Artemis II : objectif nul",
+      "description": "Merci au journal La Croix de m’avoir invité à rédiger cette tribune « opinion » sur le retour vers la Lune, dans le cadre de la mission Artémis II. Quatre milliards de dollars et des poussières : voilà ce qu’aura Artemis II : objectif nul first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/artemis-ii-objectif-nul/",
+      "pubDate": "2026-04-10T17:43:17.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7fe65fa6de73",
+      "title": "Utiliser des polices personnalisées en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-font-face-2331 Dans ce chapitre, on va découvrir comment charger des **polices personnalisées** dans notre site. C'est souvent une étape obligatoire dans l'intégration d'une maquette car les designers utilisent souvent des polices bien précises pour…",
+      "link": "https://www.youtube.com/watch?v=EYvisFMiqkc",
+      "pubDate": "2026-04-10T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/EYvisFMiqkc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "EYvisFMiqkc"
+    },
+    {
+      "id": "ae7fc46bcd50",
+      "title": "ONNX : Le format universel pour déployer vos modèles ML",
+      "description": "ONNX : le format open source pour déployer vos modèles ML en production. Interopérabilité, performance, limites et cas d'usage.",
+      "link": "https://blog.ippon.fr/2026/04/10/onnx-le-format-universel-pour-deployer-vos-modeles-ml/",
+      "pubDate": "2026-04-10T09:33:33.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/Image1.png",
+      "type": "blog"
+    },
+    {
+      "id": "aadab71b95bc",
+      "title": "Lean Portfolio Management : quand l’entreprise arrête enfin de tout lancer en même temps",
+      "description": "Dans beaucoup d’organisations, l’agilité a progressé par le bas. Les équipes ont adopté Scrum, certains ont lancé des trains SAFe, les rituels à l’échelle se sont installés. Et pourtant, une sensation persiste : malgré tous ces efforts, les arbitrages restent douloureux, les priorités changent sans…",
+      "link": "https://blog.octo.com/lean-portfolio-management--quand-l'entreprise-arrete-enfin-de-tout-lancer-en-meme-temps",
+      "pubDate": "2026-04-10T08:23:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "77268bbf9e35",
       "title": "[Test] GL.iNet Comet PoE (GL-RM1PE)\nLe KVM IP qui m'a sauvé d'une catastrophe",
       "description": "Le GL.iNet Comet PoE, c'est l'accès BIOS, clavier et écran à distance sur n'importe quelle machine sans IPMI. Test et retour d'expérience après quelques semaines.",
