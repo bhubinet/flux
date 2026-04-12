@@ -2,6 +2,56 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "40a75aee99d9",
+      "title": "La Duck Conf 2026 - CR - Comment utiliser la GenAI pour moderniser une application en deux fois moins de temps",
+      "description": "Ce talk traite de la modernisation d’une application métier utilisée pour gérer les plannings de supervision d’un réseau électrique fonctionnant 24/7.",
+      "link": "https://blog.octo.com/la-duck-conf-2026-cr-comment-utiliser-la-genai-pour-moderniser-une-application-en-deux-fois-moins-de-temps",
+      "pubDate": "2026-04-11T20:49:11.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ab8920288a1e",
+      "title": "Le reset CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-reset-2332 Dans ce chapitre, on va faire une petite parenthèse sur une technique très utilisée en CSS : le **reset CSS**. L'idée consiste à neutraliser les styles par défaut du navigateur pour repartir sur une base plus propre et plus prévisible.…",
+      "link": "https://www.youtube.com/watch?v=JtQhHHAppmI",
+      "pubDate": "2026-04-11T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/JtQhHHAppmI/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "JtQhHHAppmI"
+    },
+    {
+      "id": "9a4c02c73332",
+      "title": "Podman avec des Quadlets + GitOps avec Materia",
+      "description": "Comment migrer ses docker-compose vers des quadlets Podman gérés par systemd, en passant par podlet pour la conversion et Materia pour le GitOps.",
+      "link": "https://une-tasse-de.cafe/blog/podlet/",
+      "pubDate": "2026-04-11T06:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "855a044a457c",
       "title": "Artemis II : objectif nul",
       "description": "Merci au journal La Croix de m’avoir invité à rédiger cette tribune « opinion » sur le retour vers la Lune, dans le cadre de la mission Artémis II. Quatre milliards de dollars et des poussières : voilà ce qu’aura Artemis II : objectif nul first appeared on Mais où va le Web.",
