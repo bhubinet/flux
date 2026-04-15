@@ -2,6 +2,105 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "43e402719b33",
+      "title": "Liens Tech - Avril 2026",
+      "description": "La sélection d'avril : notes Markdown, gestion Docker, Kanban, des sauvegardes Restic, LLM local et un éditeur visuel pour Home Assistant.",
+      "link": "https://domopi.eu/liens-tech-avril-2026/",
+      "pubDate": "2026-04-15T05:45:02.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "35f31b11ab66",
+      "title": "#352.src - Recrutement et IA: Pourquoi l'IA change-t-elle vraiment le recrutement (ou pas) ? avec Caroline Chavier",
+      "description": "\"Les algos sont nuls pour lire les signaux faibles et il est là le sujet.\" Le D.E.V. de la semaine est Caroline Chavier, CEO de The Allyance, cofondatrice du meet-up Paris Women in Machine Learning and Data Science et investisseuse spécialisée IA éthique. Elle décrypte l'impact inédit de l'IA sur…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-352-43a135876465",
+      "pubDate": "2026-04-15T03:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/70bba4d1-6682-43f9-8df1-855b245916d6.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/95976f18-ad50-447d-a216-43a135876465.mp3?_=1776168093",
+      "duration": "53:54"
+    },
+    {
+      "id": "b1d52128f57b",
+      "title": "L'application d'enregistrements des cartes Korrigo pour les lycées publics bretons",
+      "description": "La Région Bretagne trans­forme sa carte KorriGo en une carte multi-services pour les lycéens et person­nels des 115 établis­se­ments publics bretons.",
+      "link": "https://makina-corpus.com/application-web-mobile/lapplication-denregistrements-des-cartes-korrigo-pour-les-lycees-publics",
+      "pubDate": "2026-04-14T13:25:58.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e31850c8b565",
+      "title": "Les pseudo éléments en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-pseudo-elements-2335 Dans ce chapitre, on va découvrir le principe des **pseudo-éléments**. Ils permettent de cibler une partie d'un élément ou de générer un contenu visuel sans avoir besoin d'ajouter un nouvel élément dans le HTML.…",
+      "link": "https://www.youtube.com/watch?v=ixxzOs9r-Ao",
+      "pubDate": "2026-04-14T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/ixxzOs9r-Ao/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "ixxzOs9r-Ao"
+    },
+    {
+      "id": "a98c83fcc2b1",
+      "title": "La Duck Conf 2026 - Comment mener 2000 développeurs vers du numérique plus responsable ?",
+      "description": "Lors de la Duck Conf 2026, Romain Taillade et Tristan Nitot partagent leurs expériences sur la mise en action d'optimisations dans un but de numérique responsable.",
+      "link": "https://blog.octo.com/la-duck-conf-2026-comment-mener-2000-developpeurs-vers-du-numerique-plus-responsable",
+      "pubDate": "2026-04-14T07:17:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b4cf761859b0",
+      "title": "Ember 1.1: Le dashboard FrankenPHP devient encore meilleur",
+      "description": "Quand j’ai sorti Ember 1.0, la mission était claire : offrir aux utilisateurs de Caddy et FrankenPHP un monitoring temps réel, sans configuration, directement depuis le terminal. Les retours de la communauté ont été incroyables, et cela m’a poussé à aller plus loin. Aujourd’hui, nous sommes heureux…",
+      "link": "https://les-tilleuls.coop/blog/ember-1-1-le-dashboard-frankenphp-devient-encore-meilleur",
+      "pubDate": "2026-04-14T06:00:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-1-1-1024x568.webp",
+      "type": "blog"
+    },
+    {
       "id": "4d9c68d06f2e",
       "title": "Comparez deux arborescences avec diff, confortablement avec riff",
       "description": "En migrant des projets d’une instance Gitlab à une autre pour un client, j’ai eu à adapter les pipelines Gitlab-CI qui étaient définis, les runners [...]",
