@@ -2,6 +2,75 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "979b5cc99e04",
+      "title": "Overflow en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-overflow-2336 Dans ce chapitre, on va découvrir la propriété **`overflow`**. Elle permet de gérer ce qu'il se passe lorsqu'un contenu dépasse de son conteneur, et notamment de contrôler l'apparition des zones de défilement. ______________________…",
+      "link": "https://www.youtube.com/watch?v=KLNiq89ubRE",
+      "pubDate": "2026-04-15T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/KLNiq89ubRE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "KLNiq89ubRE"
+    },
+    {
+      "id": "1ed4a7efdc70",
+      "title": "❇️ La billetterie pour La School of Product du 17 novembre 2026 est ouverte ! ",
+      "description": "Rendez-vous le 17 novembre 2026 pour cette 9e édition de la conférence School of Product ! Profitez d'un tarif préférentiel en vous inscrivant en avril !",
+      "link": "https://blog.octo.com/la-billetterie-pour-la-school-of-product-du-17-novembre-2026-est-ouverte-!",
+      "pubDate": "2026-04-15T12:14:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1a7f51a72c51",
+      "title": "Duck Conf 2026 – CR – Apprivoiser le legacy en startup",
+      "description": "Maria Mokbel, founding engineer et tech lead chez Billy, est venue à la Duck Conf 2026 raconter comment son équipe a géré un legacy technique accumulé en seulement 2 ans",
+      "link": "https://blog.octo.com/duck-conf-2026-cr-apprivoiser-le-legacy-en-startup-1",
+      "pubDate": "2026-04-15T11:51:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bfde26595c17",
+      "title": "Ce que le AWS Summit 2026 nous apprend sur le futur du DevOps",
+      "description": "Retour sur l’AWS Summit 2026 : IA agentique, Amazon EKS, DevOps, souveraineté et innovations cloud qui transforment les architectures modernes.",
+      "link": "https://blog.ippon.fr/2026/04/15/ce-que-le-aws-summit-2026-nous-apprend-sur-le-futur-du-devops/",
+      "pubDate": "2026-04-15T11:38:51.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/Capture-d---e--cran-2026-04-01-a---13.59.56.png",
+      "type": "blog"
+    },
+    {
       "id": "43e402719b33",
       "title": "Liens Tech - Avril 2026",
       "description": "La sélection d'avril : notes Markdown, gestion Docker, Kanban, des sauvegardes Restic, LLM local et un éditeur visuel pour Home Assistant.",
@@ -33,6 +102,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/95976f18-ad50-447d-a216-43a135876465.mp3?_=1776168093",
       "duration": "53:54"
+    },
+    {
+      "id": "899557651d48",
+      "title": "9 devs, 3 équipes, 2 heures : on a fait un hackathon 100% Vibes Coding",
+      "description": "Pour clôturer deux jours de formation sur Claude Code en séminaire, on a organisé une soirée hackathon avec des thèmes absurdes, des contraintes tirées au sort et une seule consigne : Vibes Coding. 9 devs, des pizzas, et un Deliveroo pour écureuils. Retour d'expérience sur un format à reproduire…",
+      "link": "https://yoandev.co/hackathon-vibes-coding",
+      "pubDate": "2026-04-15T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/20260319.BgUMilYe_8wdWs.webp",
+      "type": "blog"
     },
     {
       "id": "b1d52128f57b",
