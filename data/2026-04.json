@@ -2,6 +2,75 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "2676b1e4cf8c",
+      "title": "#305.exe - Apprendre en codant: Être ou ne pas être D.E.V. par Antonio Goncalves",
+      "description": "Pour l'épisode #305 je recevais Alex Delivet. On en débrief avec Antonio. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast.…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-305-0a9b77dec356",
+      "pubDate": "2026-04-17T03:00:25.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/1200296f-42ba-409b-a145-0a9b77dec356.mp3?_=1776348325",
+      "duration": "18:09"
+    },
+    {
+      "id": "625fb5c8b777",
+      "title": "Les transformations en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-transform-2337 Dans ce chapitre, on va s'intéresser à la propriété **`transform`** qui permet d'appliquer des transformations à un élément (le déplacer, le redimensionner, le faire tourner ou encore le déformer). ______________________ Soutenir la…",
+      "link": "https://www.youtube.com/watch?v=mvFwjZg0rdo",
+      "pubDate": "2026-04-16T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/mvFwjZg0rdo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "mvFwjZg0rdo"
+    },
+    {
+      "id": "3c25176af280",
+      "title": "Android Makers 2026 - Conférences marquantes",
+      "description": "La Practice Mobile a de nouveau répondu à l'appel des conférences d’Android Makers édition 2026. Et comme toujours, on ne repart pas les mains vides, pour vous on a fait chauffer nos stylos (ou nos claviers) pour vous proposer une compilation des talks qui nous ont marqués.",
+      "link": "https://blog.ippon.fr/2026/04/16/android-makers-2026/",
+      "pubDate": "2026-04-16T12:30:34.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/image1-1.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "597a8b889247",
+      "title": "React Paris 2026 – CR – Killing Micro Frontends",
+      "description": "PayFit a supprimé ses micro-frontends. Leur CI est passé de 45 à 7 minutes. Leurs déploiements de 2-5 jours à 20 minutes. Leur vélocité a été multipliée par 17. Voici un retour d'expérience concret sur une migration qui a pris 2 ans, avec 2,5 ingénieurs, sur une base de code utilisée par ~100…",
+      "link": "https://blog.octo.com/react-paris-2026-cr-killing-micro-frontends",
+      "pubDate": "2026-04-16T08:23:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "979b5cc99e04",
       "title": "Overflow en CSS",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/css-overflow-2336 Dans ce chapitre, on va découvrir la propriété **`overflow`**. Elle permet de gérer ce qu'il se passe lorsqu'un contenu dépasse de son conteneur, et notamment de contrôler l'apparition des zones de défilement. ______________________…",
