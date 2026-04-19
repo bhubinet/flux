@@ -2,6 +2,39 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "7cd24e8ad4e9",
+      "title": "Imbrication & import en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-nesting-2339 Dans ce chapitre, on va découvrir deux éléments de syntaxe supplémentaire ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬…",
+      "link": "https://www.youtube.com/watch?v=lNQYB-UH2QE",
+      "pubDate": "2026-04-18T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/lNQYB-UH2QE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "lNQYB-UH2QE"
+    },
+    {
+      "id": "8cc7157fe93d",
+      "title": "Symfony en prod sur un mono-VPS : FrankenPHP + K3s, staging + TLS en une demi-journée",
+      "description": "Guide pas-à-pas pour mettre une application Symfony en production sur un mono-VPS : deux environnements (staging + prod) containerisés avec FrankenPHP, orchestrés par K3s, déployés automatiquement via GitHub Actions vers GHCR, avec TLS Let's Encrypt. Tous les snippets sont fournis et prêts à copier.",
+      "link": "https://yoandev.co/symfony-frankenphp-k3s-production",
+      "pubDate": "2026-04-18T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-frankenphp-k3s-production.webp",
+      "type": "blog"
+    },
+    {
       "id": "56ba15d8e4fa",
       "title": "Les animations en CSS",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/css-animations-2338 Dans ce chapitre, on va découvrir les **transitions** et les **animations** en CSS. Ce sont deux mécanismes proches, mais ils ne répondent pas exactement au même besoin. ______________________ Soutenir la chaîne : ⭐ Devenez premium :…",
