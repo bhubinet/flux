@@ -2,6 +2,40 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "ff04bc2943ab",
+      "title": "[OCTO] Quand l’IA accélère, ralentir devient essentiel",
+      "description": "Préserver cet équilibre s’impose désormais comme une exigence cardinale. Dans un monde où tout semble conspirer à l’accélération, savoir composer avec le temps long et le temps court ne relève plus d’une simple qualité : c’est une condition indispensable pour penser avec justesse et agir avec…",
+      "link": "https://blog.octo.com/octo-quand-l'ia-accelere-ralentir-devient-essentiel",
+      "pubDate": "2026-04-20T05:23:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d6a1aac82ef6",
+      "title": "Les calques en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/css-layers-2340 Dans ce chapitre, on va revenir sur une notion importante en CSS : la **spécificité**. On va aussi découvrir un nouvel outil très utile pour mieux organiser nos styles : les **calques** . ______________________ Soutenir la chaîne : ⭐…",
+      "link": "https://www.youtube.com/watch?v=GK4D25EhNS4",
+      "pubDate": "2026-04-19T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/GK4D25EhNS4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "GK4D25EhNS4"
+    },
+    {
       "id": "7cd24e8ad4e9",
       "title": "Imbrication & import en CSS",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/css-nesting-2339 Dans ce chapitre, on va découvrir deux éléments de syntaxe supplémentaire ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬…",
