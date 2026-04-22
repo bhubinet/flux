@@ -2,6 +2,54 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "261995fdee7c",
+      "title": "#353.src - IA et Java: Le nouvel âge d'or de Java avec Julien Dubois",
+      "description": "\"Aujourd'hui, on peut obtenir un résultat extraordinaire à partir du moment où l'on a bien compris quelque chose et que l'on sait l'exprimer clairement. Et ce sont deux choses assez différentes.\" Le D.E.V. de la semaine est Julien Dubois, Java Developer Relations Lead chez Microsoft/GitHub. Julien…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-353-f195d6c36f38",
+      "pubDate": "2026-04-22T03:00:35.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/4c8d8684-b712-44d9-86ee-fcd67bdd1b1f.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/8f818c9f-25fd-4777-b6bf-f195d6c36f38.mp3?_=1776772895",
+      "duration": "57:32"
+    },
+    {
+      "id": "c06d4ae057f1",
+      "title": "Product Builder : un agent IA qui créé des agents PM - Tuto Cursor",
+      "description": "Pierre Carpentier, Product Builder chez Thiga, démontre en live comment construire un Agent Wizard sur Cursor : un agent capable de générer l'architecture complète d'une équipe d'agents. Résultat, un agent PM, baptisé Francis, capable de faire de la discovery à la volée, avec ses propres skills et…",
+      "link": "https://www.media.thiga.co/product-builder-tuto-cursor-agent-qui-cree-des-agents",
+      "pubDate": "2026-04-21T09:28:30.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20D%C3%A9mo%20Pierre%20C-1.png",
+      "type": "blog"
+    },
+    {
+      "id": "d6ab30a4c0ce",
+      "title": "Mon AI Chief of Staff avec Claude Code : 12 jours après",
+      "description": "Et si votre IA se souvenait d'un Slack vieux d'un mois pour répondre à un mail de ce matin ? Douze jours après son lancement, mon Chief of Staff IA \"Life\" a franchi un cap : celui de la continuité de contexte. Derrière les 304 messages échangés se cache une architecture invisible mais robuste que…",
+      "link": "https://www.media.thiga.co/mon-ai-chief-of-staff-avec-claude-code-12-jours-apres",
+      "pubDate": "2026-04-21T08:29:22.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20Hugo%20Chief%20of%20Staff%202.png",
+      "type": "blog"
+    },
+    {
       "id": "c34fc2acf5c2",
       "title": "Dockman, enfin un gestionnaire Docker Compose natif complet",
       "description": "Dockman : un gestionnaire Docker Compose qui laisse vos fichiers en place et couvre aussi les images, volumes et réseaux.",
