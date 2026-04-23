@@ -2,6 +2,53 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3006c9ee0c41",
+      "title": "CSS & rythme vertical pour le texte, les images et les tableaux",
+      "description": "Le rythme vertical structure les lignes selon un espacement régulier de haut en bas. Il permet de guider l’œil de manière fluide et prévisible. Grâce à l’unité CSS rlh, ce rythme est simple à mettre en place pour le texte1. Mais les illustrations et les tableaux peuvent perturber la mise en page.…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-css-rythme-vertical",
+      "pubDate": "2026-04-22T19:48:10.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/vertical-rhythm/text@1x.17b2e8512acd85.png",
+      "type": "blog"
+    },
+    {
+      "id": "1f7f32aec1ac",
+      "title": "Guide des evals IA : 7 étapes pour tester et évaluer vos features IA",
+      "description": "Construire une feature IA est une chose, mais garantir qu'elle ne fasse pas n'importe quoi en production en est une autre ! Contrairement au code classique, l'IA ne valide pas un résultat binaire, mais une intention. Alors, comment sortir de la boucle infinie du \"c'est presque bon\" et éviter que…",
+      "link": "https://www.media.thiga.co/guide-evals-ia-2026",
+      "pubDate": "2026-04-22T17:13:24.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20K%C3%A9vin.png",
+      "type": "blog"
+    },
+    {
+      "id": "c5b0631755b5",
+      "title": "DevoxxFR 2026 - Récap du mercredi (jour 1)",
+      "description": "Les résumés des 3 jours de DevoxxFR 2026 DevoxxFR - Récap du mercredi (jour 1) TODO DevoxxFR - Récap du jeudi (jour 2) TODO DevoxxFR - Récap du vendredi (jour 3) Premier jour de DevoxxFR 2026 C’est reparti pour DevoxxFR, avec un mercredi bien dense, orienté IA le matin, puis des formats plus…",
+      "link": "https://blog.zwindler.fr/2026/04/22/devoxxfr-2026-recap-jour-1/",
+      "pubDate": "2026-04-22T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/devoxxfr-ouverture.webp",
+      "type": "blog"
+    },
+    {
       "id": "261995fdee7c",
       "title": "#353.src - IA et Java: Le nouvel âge d'or de Java avec Julien Dubois",
       "description": "\"Aujourd'hui, on peut obtenir un résultat extraordinaire à partir du moment où l'on a bien compris quelque chose et que l'on sait l'exprimer clairement. Et ce sont deux choses assez différentes.\" Le D.E.V. de la semaine est Julien Dubois, Java Developer Relations Lead chez Microsoft/GitHub. Julien…",
@@ -18,6 +65,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/8f818c9f-25fd-4777-b6bf-f195d6c36f38.mp3?_=1776772895",
       "duration": "57:32"
+    },
+    {
+      "id": "12321c78f00a",
+      "title": "L'IA accélère la valeur et les erreurs",
+      "description": "L’IA permet de livrer plus vite, même parfois beaucoup plus vite. Mais livrer vite, ce n’est pas sans conséquences. Car si l’IA permet d’aller plus vite, elle accentue aussi les erreurs et les problèmes qui vont avec. Ce billet a été initialement publié sur LinkedIn Voir la publication originale…",
+      "link": "https://www.jdecool.fr/blog/2026/04/22/l-ia-accelere-la-valeur-et-les-erreurs.html",
+      "pubDate": "2026-04-21T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "c06d4ae057f1",
