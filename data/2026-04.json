@@ -2,6 +2,40 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "c35bafd53f67",
+      "title": "#333.exe - Bodyguard: Coder contre la haine  par Kevin Davin",
+      "description": "Pour l'épisode #333 je recevais Charles Cohen. On en débrief avec Kevin. **MCP://IFTTD** Grande nouvelle, ce podcast t'a rendu meilleur.e dev, tu peux maintenant rendre ton IA meilleure aussi ! Avec le MCP IFTTD, ton Cursor ou Claude Code va enfin pouvoir utiliser toute l'expertise de ce podcast.…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-333-6305217ec0d1",
+      "pubDate": "2026-04-24T03:00:35.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/45444cdb-b822-4068-9872-6305217ec0d1.mp3?_=1776945695",
+      "duration": "10:49"
+    },
+    {
+      "id": "1d25d1709eb5",
+      "title": "DevoxxFR 2026 - Récap du jeudi (jour 2)",
+      "description": "Les résumés des 3 jours de DevoxxFR 2026 DevoxxFR - Récap du mercredi (jour 1) DevoxxFR - Récap du jeudi (jour 2) TODO DevoxxFR - Récap du vendredi (jour 3) Deuxième jour de DevoxxFR 2026 Pour ce jeudi, j’ai raté les keynotes du matin (arrivé un peu tard), j’ai donc commencé par un tour des stands…",
+      "link": "https://blog.zwindler.fr/2026/04/23/devoxxfr-2026-recap-jour-2/",
+      "pubDate": "2026-04-23T16:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/04/docto-salle-bondee.webp",
+      "type": "blog"
+    },
+    {
       "id": "3006c9ee0c41",
       "title": "CSS & rythme vertical pour le texte, les images et les tableaux",
       "description": "Le rythme vertical structure les lignes selon un espacement régulier de haut en bas. Il permet de guider l’œil de manière fluide et prévisible. Grâce à l’unité CSS rlh, ce rythme est simple à mettre en place pour le texte1. Mais les illustrations et les tableaux peuvent perturber la mise en page.…",
