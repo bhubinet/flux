@@ -2,6 +2,135 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "3bbc48bcd1ac",
+      "title": "Ember 1.2 / 1.3 : logs, plugins et une plateforme qui grandit avec vous",
+      "description": "Il y a quelques semaines, nous avons sorti Ember 1.1 et transformé un simple moniteur Caddy en quelque chose qui ressemblait davantage à un panneau de contrôle : un onglet Config, une vue Certificates, des graphiques waterfall, le support des sockets Unix. Les retours ont été excellents : issues,…",
+      "link": "https://les-tilleuls.coop/blog/ember-1-2-1-3-highlight-des-nouvelles-features",
+      "pubDate": "2026-04-28T06:00:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/ember-release-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0d276a4b6595",
+      "title": "Sauvegarder votre Raspberry Pi avec rpi-clone et rsync",
+      "description": "Une mise à jour qui se passe mal, une coupure de courant : la carte SD n'y survit pas toujours. rsync + rpi-clone pour ne plus tout reconfigurer depuis zéro.",
+      "link": "https://domopi.eu/sauvegarder-votre-raspberry-pi-avec-rpi-clone-et-rsync/",
+      "pubDate": "2026-04-28T05:45:21.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/01/Designer--1-.png",
+      "type": "blog"
+    },
+    {
+      "id": "71e2693cb3e4",
+      "title": "Specification-Driven Development : du Vibe Coding à l’Agentic Engineering",
+      "description": "Apparu en février 2025, le terme Vibe Coding a fait l’objet d’une hype sans précédent. Si l’on en croyait certains",
+      "link": "https://blog.zenika.com/2026/04/27/specification-driven-development-du-vibe-coding-a-lagentic-engineering/",
+      "pubDate": "2026-04-27T14:32:26.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/04/image-22.png?resize=800%2C437&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "e9a6e0daa81c",
+      "title": "Agent Development Kit 2.0, ADK-java 1,1 et Go 1.0 🚀",
+      "description": "La grosse nouvelle de la fin mars dans le monde du développement d’agent IA vient de Google avec les releases",
+      "link": "https://blog.zenika.com/2026/04/27/agent-development-kit-2-0-adk-java-11-et-go-1-0-%f0%9f%9a%80/",
+      "pubDate": "2026-04-27T14:12:50.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2728.png",
+      "type": "blog"
+    },
+    {
+      "id": "af5531cdac26",
+      "title": "47,5 % d’économie Cloud : retour d’expérience sur l’optimisation de la plateforme Mercure.rocks",
+      "description": "Fournir un service managé haute performance et temps réel comme Mercure.rocks exige une infrastructure robuste. Face à la croissance rapide de notre base d’utilisateurs, nous avons souhaité reprendre le contrôle sur notre consommation de ressources Cloud : nous avons donc passé notre infra au…",
+      "link": "https://les-tilleuls.coop/blog/economie-cloud-retour-dexperience-sur-loptimisation-de-la-plateforme-mercure-rocks",
+      "pubDate": "2026-04-27T13:07:20.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/04/cloud-1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "21ad7aede0e2",
+      "title": "J'ai quitté Google Workspace, retour d'expérience",
+      "description": "🔗 Article : https://grafikart.fr/blog/google-workspace-ksuite Cela fait plusieurs mois que j'ai migré mes emails en quittant Google Google Workspace et je vous propose de partager avec vous mon expérience. 00:00 Pourquoi j'ai quitté Workspace 02:25 Les remplaçants 04:50 Migration vers KSuite 11:44…",
+      "link": "https://www.youtube.com/watch?v=yRwlBnycmDw",
+      "pubDate": "2026-04-27T13:06:24.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/yRwlBnycmDw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "yRwlBnycmDw"
+    },
+    {
+      "id": "fd946aba0439",
+      "title": "Plan de migration vers Tailwind CSS v4 🚀 : la méthode (presque) sans douleur",
+      "description": "Ça y est, le grand jour est arrivé ! Vous avez enfin décidé de vous attaquer à cette fameuse dette technique qui vous fait faire des cauchemars la nuit. 😅 Beaucoup de nos projets (et sans doute les vôtres) reposent encore sur d’anciens frameworks CSS basés sur Sass, comme Bootstrap v4 ou d'autres…",
+      "link": "https://jolicode.com/blog/plan-de-migration-vers-tailwind-css-v4-la-methode-presque-sans-douleur",
+      "pubDate": "2026-04-27T08:20:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b75a89803c5",
+      "title": "Pourquoi l'Open Source ne suffira pas à nous libérer des Big Tech",
+      "description": "264 milliards d'euros s'échappent d'Europe chaque année. Pourquoi l'open source, sans une vraie stratégie de communs numériques, ne nous sauvera pas.",
+      "link": "https://eventuallycoding.com/p/pourquoi-l-open-source-ne-suffira-pas-a-nous-liberer-des-big-tech",
+      "pubDate": "2026-04-27T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1777282153184-5ozqknf.png",
+      "type": "blog"
+    },
+    {
       "id": "b5678d7ca519",
       "title": "Configurer votre éditeur Zed sur le bout des doigts",
       "description": "Cela fait maintenant plus d’un an que j’utilise cet éditeur en remplacement de ce bon vieux Sublime Text qui fait décidément beaucoup trop de sur-place. [...]",
