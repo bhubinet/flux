@@ -2,6 +2,38 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "cd0a3ca965d1",
+      "title": "Héritage Doctrine : la troisième porte que personne ne montre",
+      "description": "Découvrez la stratégie d'héritage Doctrine Mapped Superclass, souvent oubliée face à STI et CTI. Optimisez vos modèles PHP Symfony avec cette troisième approche pour une meilleure qualité de code.",
+      "link": "https://lecodeestdanslepre.fr/billets/heritage-doctrine-la-troisieme-porte-que-personne-ne-montre",
+      "pubDate": "2026-04-29T09:12:17.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-7p8zXXI.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "7c7652b59f0c",
+      "title": "Du PDD au multi-agent : mon premier REX avec Liza",
+      "description": "Du Prompt-Driven Development au multi-agent orchestré : j'ai confié un projet entier à Liza, un système multi-agent open source. Ce que j'en retiens, ce que ça coûte, et pourquoi le craft fait toute la différence.",
+      "link": "https://blog.ippon.fr/2026/04/29/premier-rex-multi-agent-liza/",
+      "pubDate": "2026-04-29T07:00:12.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/04/liza-tui-coding-review-1.png",
+      "type": "blog"
+    },
+    {
       "id": "bfd417e37179",
       "title": "#354.src - Self Hosting: Tout refaire pour être indépendant avec Loic Tosser",
       "description": "\"La souveraineté c'est être capable d'aller chercher sa data et de l'exploiter comme on veut, quand on veut\" Le D.E.V. de la semaine est Loïc Tosser, CTO et cofounder de Kalvad. Pionnier du self-hosting dans un environnement hyper-régulé, il raconte comment la nécessité de souveraineté des données…",
@@ -18,6 +50,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/96fa46c8-3640-4896-8f87-147e055f4087.mp3?_=1777377723",
       "duration": "53:44"
+    },
+    {
+      "id": "049ba199cc11",
+      "title": "Quand personne ne répare la CI, ce n'est pas un bug. C'est un choix.",
+      "description": "J’ai connu des équipes dans lesquels, quand on arrivait le matin, on pouvait constater que la branche principale était cassée depuis plusieurs jours. La CI (eg. l’intégration continue) échouait en continu, et personne dans l’équipe ne semblait s’en inquiéter. Quand on vit cette situation, ce n’est…",
+      "link": "https://www.jdecool.fr/blog/2026/04/29/quand-personne-ne-repare-la-ci-ce-n-est-pas-un-bug-c-est-un-choix.html",
+      "pubDate": "2026-04-28T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "6691e3f1fd9e",
@@ -242,6 +289,22 @@
         "Cloud"
       ],
       "image": "https://codeka.io/2026/04/25/devoxx-france-2026-bilan/cover_hu_97ac4ca26c325055.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c7a32d157976",
+      "title": "🎤 Talks donnés à Devoxx France 🎤",
+      "description": "Liste de talks donnés lors de la conférence Devoxx France",
+      "link": "https://philippart-s.github.io/blog/talks/devoxx-fr-2026/",
+      "pubDate": "2026-04-25T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
