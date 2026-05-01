@@ -2,6 +2,36 @@
   "month": "2026-04",
   "articles": [
     {
+      "id": "01daa01c2d2e",
+      "title": "Le consultant : une lecture sociologique",
+      "description": "Je publie dans le dernier numéro de la Nouvelle revue du travail, consacré à « Ce que manager veut dire », une recension du roman de David Naïm, Le Consultant. J’y propose une lecture sociologique de ce récit acerbe sur Le consultant : une lecture sociologique first appeared on Mais où va le Web.",
+      "link": "https://maisouvaleweb.fr/le-consultant-une-lecture-sociologique/",
+      "pubDate": "2026-04-30T11:17:14.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ba84b93bc3ba",
+      "title": "C'est parti pour installer EasyAdmin",
+      "description": "Installez EasyAdmin sur Symfony en quelques minutes pour un back-office efficace. Découvrez pourquoi ce bundle est la solution idéale pour administrer vos entités Doctrine. Guide complet.",
+      "link": "https://lecodeestdanslepre.fr/billets/c-est-parti-pour-installer-easyadmin",
+      "pubDate": "2026-04-29T15:59:05.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "cd0a3ca965d1",
       "title": "Héritage Doctrine : la troisième porte que personne ne montre",
       "description": "Découvrez la stratégie d'héritage Doctrine Mapped Superclass, souvent oubliée face à STI et CTI. Optimisez vos modèles PHP Symfony avec cette troisième approche pour une meilleure qualité de code.",
