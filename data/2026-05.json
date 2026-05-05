@@ -2,6 +2,36 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "4b2bbfa2f94d",
+      "title": "Le fruit est aveugle. C’est l’arbre qui voit",
+      "description": "Transaction ou relation ? Vendre, produire, acheter : l’entreprise est une machine à transactions. Son organisation, ses process et procédures sont construits pour en produire et reproduire un maximum, au […] Cet article Le fruit est aveugle. C’est l’arbre qui voit est apparu en premier sur…",
+      "link": "https://www.institut-lean-france.fr/le-fruit-est-aveugle-cest-larbre-qui-voit/",
+      "pubDate": "2026-05-04T15:20:05.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/05/transaction-ou-relation.png",
+      "type": "blog"
+    },
+    {
+      "id": "0cc207dc2b08",
+      "title": "Symfony AI Mate : un troisième port d'entrée pour votre app Symfony",
+      "description": "Découvrez Symfony AI Mate, la solution innovante qui ouvre votre application Symfony aux agents via JSON-RPC sur stdio. Exposez vos services à des IDE ou chatbots en toute sécurité, sans port TCP ouvert. Simplifiez le développement avec cette approche unique.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-ai-mate-un-troisieme-port-d-entree-pour-votre-app-symfony",
+      "pubDate": "2026-05-04T11:22:16.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "fde31b1a0ea7",
       "title": "#204.diff - Dev bas niveau: Voyage au centre de l'application. avec Christophe Le Douarec",
       "description": "Il y a 3 ans, dans l'épisode #204 je recevais Christophe Le Douarec. 3 ans plus tard, nous faisons une refacto de l'épisode ! 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes…",
@@ -67,6 +97,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/7b2af2c5-8b09-4eff-a333-08e07f9ea763.mp3?_=1777550508",
       "duration": "11:43"
+    },
+    {
+      "id": "c1b8657ecbf4",
+      "title": "Jour 181 : Ce que j'ai appris avec un skill Claude pour du SEO",
+      "description": "Comment utiliser Claude-SEO pour auditer son site ? Test complet sur Writizzy : du JSON-LD aux headers de sécurité. Analyse des conseils de l'IA pour booster le trafic et résoudre les problèmes d'indexation.",
+      "link": "https://eventuallycoding.com/p/jour-181-ce-que-j-ai-appris-avec-un-skill-claude-pour-du-seo",
+      "pubDate": "2026-05-01T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1777635362166-iw90sjp.png",
+      "type": "blog"
     }
   ]
 }

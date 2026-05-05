@@ -64,6 +64,23 @@
       "type": "blog"
     },
     {
+      "id": "b46f58fbe551",
+      "title": "Dataquitaine 2026 : comment Industrialiser l'IA de Manière Souveraine",
+      "description": "Retour sur Dataquitaine 2026 : souveraineté numérique, délégation cognitive, embeddings multimodaux et notre REX sur un RAG industrialisé avec l'ANSSI. Les enseignements clés de cette 9e édition bordelaise.",
+      "link": "https://blog.ippon.fr/2026/04/29/dataquitaine-2026-ia-souverainete/",
+      "pubDate": "2026-04-29T07:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/dataquitaine.png",
+      "type": "blog"
+    },
+    {
       "id": "bfd417e37179",
       "title": "#354.src - Self Hosting: Tout refaire pour être indépendant avec Loic Tosser",
       "description": "\"La souveraineté c'est être capable d'aller chercher sa data et de l'exploiter comme on veut, quand on veut\" Le D.E.V. de la semaine est Loïc Tosser, CTO et cofounder de Kalvad. Pionnier du self-hosting dans un environnement hyper-régulé, il raconte comment la nécessité de souveraineté des données…",
