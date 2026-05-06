@@ -2,6 +2,140 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "23aa6e2f08d4",
+      "title": "#355.src - SRE et DevOps: La prod relax : désacraliser la tension dans l'ère SRE avec Kevin Davin",
+      "description": "\"Pour moi, la prod, ça doit être un sujet qui est relaxant\" Le D.E.V. de la semaine est Kevin Davin, Google Developer Expert Cloud et Kotlin, SRE chez Gradle. Dans cet épisode, on clarifie la frontière (parfois floue) entre SRE et DevOps, et comment la philosophie DevOps s'oppose au métier concret…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-355-9f21f7fcd7ff",
+      "pubDate": "2026-05-06T03:00:38.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/583b328b-9353-4cf0-adf8-7bd0996391b0.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/40db127b-5ccd-4c82-97fd-9f21f7fcd7ff.mp3?_=1777982558",
+      "duration": "52:47"
+    },
+    {
+      "id": "93951d1fb522",
+      "title": "Interviews d'experts - épisode #3 : GreenOps  and  FinOps",
+      "description": "Lors cette série d’interviews, OCTO mobilise ses experts pour vous décrypter l’actualité. Aujourd’hui, Brice Le Roux, expert Ops, nous parle de GreenOps and amp; FinOps.",
+      "link": "https://blog.octo.com/interviews-d'experts-episode-3--greenops-and-finops",
+      "pubDate": "2026-05-05T15:05:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a93dcd6efbbc",
+      "title": " Software development : les DSI face au chaos du code généré par l’IA",
+      "description": "Grâce à l'IA, la production logicielle tend à se démocratiser au sein de l’entreprise, il devient essentiel de mettre en place dès maintenant un accompagnement structuré autour de l’IA. À défaut, la DSI pourrait de se transformer en « Wall-E du code », contrainte de trier et réparer les déchets…",
+      "link": "https://blog.octo.com/software-development--les-dsi-face-au-chaos-du-code-genere-par-l'ia",
+      "pubDate": "2026-05-05T13:14:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "30444acf322d",
+      "title": "Vibe coding pour Product Managers : guide complet 2026",
+      "description": "Le vibe coding permet aux Product Managers de prototyper en quelques heures ce qui prenait des semaines. Un accélérateur puissant pour la discovery, à condition de ne pas confondre vitesse d'exécution et qualité produit.",
+      "link": "https://www.media.thiga.co/vibe-coding-product-manager-2026",
+      "pubDate": "2026-05-05T11:40:45.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20Vibecoding.png",
+      "type": "blog"
+    },
+    {
+      "id": "9c7ec985e506",
+      "title": "Product Builder en mission : retour de terrain",
+      "description": "Le terme Product Builder fait parler. Entre ce qu'on peut parfois entendre sur les réseaux sociaux et la réalité du terrain, il y a parfois un (grand) écart. Ou en tout cas, c'est ce que constate Pierre Sur après plusieurs mois de mission chez un acteur MedTech en tant que Product Builder. Limites…",
+      "link": "https://www.media.thiga.co/product-builder-en-mission-retour-terrain",
+      "pubDate": "2026-05-05T10:40:14.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20Pierre%20S.png",
+      "type": "blog"
+    },
+    {
+      "id": "1a7415b2375c",
+      "title": "Mes choix pour le nouveau site",
+      "description": "🔗 Article : https://grafikart.fr/blog/new-site-laravel Dans cette vidéo je vous partage les choix technologique fait dans le cadre du développement de la nouvelle version du site. 00:00 Introduction 02:31 Pourquoi Laravel ? 11:48 Pourquoi Tailwind CSS 13:45 React & Custom Elements 16:39 Inertia…",
+      "link": "https://www.youtube.com/watch?v=mWpvFGw2c7I",
+      "pubDate": "2026-05-05T09:54:13.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/mWpvFGw2c7I/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "mWpvFGw2c7I"
+    },
+    {
+      "id": "2fb8cd470e7d",
+      "title": "Le site fait peau neuve !",
+      "description": "Petite vidéo pour vous présenter la nouvelle version du site et les nouvelles fonctionnalités. ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium Retrouvez Grafikart : 🐦 Twitter : https://twitter.com/grafikart_fr 💬 Discord : https://grafikart.fr/tchat",
+      "link": "https://www.youtube.com/watch?v=w11uBPAJ1R4",
+      "pubDate": "2026-05-05T09:12:35.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/w11uBPAJ1R4/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "w11uBPAJ1R4"
+    },
+    {
+      "id": "1fa0dc856639",
+      "title": "Design ops, Product ops, Research ops : comment passer de pompier à stratège en 3 mois",
+      "description": "Les fonctions opérationnelles des équipes Produit - Design Ops, Product Ops et Research Ops - sont soumises actuellement à une pression sans précédent, à l’heure de l’hyper-accélération provoquée par l’Intelligence Artificielle. Je vous partage ici une méthode en 3 temps pour construire une…",
+      "link": "https://blog.octo.com/design-ops-product-ops-research-ops--comment-passer-de-pompier-a-stratege-en-3-mois",
+      "pubDate": "2026-05-05T08:10:00.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4b2bbfa2f94d",
       "title": "Le fruit est aveugle. C’est l’arbre qui voit",
       "description": "Transaction ou relation ? Vendre, produire, acheter : l’entreprise est une machine à transactions. Son organisation, ses process et procédures sont construits pour en produire et reproduire un maximum, au […] Cet article Le fruit est aveugle. C’est l’arbre qui voit est apparu en premier sur…",
