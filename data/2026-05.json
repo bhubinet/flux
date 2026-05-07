@@ -2,6 +2,70 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "5c0ffed1c14e",
+      "title": "Docker Bake : une nouvelle manière de build nos images Docker",
+      "description": "Découvrez Docker Bake pour standardiser vos builds Docker. Cette surcouche déclarative de Buildx offre parallélisation intelligente, cache partagé et multi-plateforme.",
+      "link": "https://blog.ippon.fr/2026/05/07/docker-bake-une-nouvelle-maniere-de-build-nos-images-docker/",
+      "pubDate": "2026-05-07T06:01:45.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/docker-bake.png",
+      "type": "blog"
+    },
+    {
+      "id": "8ff80cd00316",
+      "title": "La résistance des organisations face au lean",
+      "description": "Au-delà de la méthode, le lean comme discipline du réel – Partie 1 Avant-propos : Et si le lean n’était pas d’abord une méthode de performance, mais une discipline de […] Cet article La résistance des organisations face au lean est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/la-resistance-des-organisations-face-au-lean/",
+      "pubDate": "2026-05-06T15:44:08.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/05/resistance-au-lean.png",
+      "type": "blog"
+    },
+    {
+      "id": "6e5abd011ee9",
+      "title": "L'IA débarque sur le banc de touche : comment la tech transforme le rugby",
+      "description": "L'IA sur le banc de touche : les défis de l'intégration logicielle dans le rugby. Analyse des étapes cruciales pour déployer des solutions de Deep Learning : de la gestion de la qualité vidéo à l'adoption par les coachs, pour une technologie au service de l'humain.",
+      "link": "https://blog.ippon.fr/2026/05/06/lia-debarque-sur-le-banc-de-touche-comment-la-tech-transforme-le-rugby/",
+      "pubDate": "2026-05-06T13:19:47.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Gemini_Generated_Image_ttfd8mttfd8mttfd.png",
+      "type": "blog"
+    },
+    {
+      "id": "7aa3c232743c",
+      "title": "Une boucle for contre 11,7 millions de Français : autopsie d'une faille IDOR",
+      "description": "Analysez la faille IDOR exploitée chez l'ANTS. Comprenez cette vulnérabilité critique et découvrez comment la prévenir efficacement avec Symfony et PHP pour sécuriser vos applications web.",
+      "link": "https://lecodeestdanslepre.fr/billets/une-boucle-for-contre-11-7-millions-de-francais-autopsie-d-une-faille-idor",
+      "pubDate": "2026-05-06T06:20:50.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "23aa6e2f08d4",
       "title": "#355.src - SRE et DevOps: La prod relax : désacraliser la tension dans l'ère SRE avec Kevin Davin",
       "description": "\"Pour moi, la prod, ça doit être un sujet qui est relaxant\" Le D.E.V. de la semaine est Kevin Davin, Google Developer Expert Cloud et Kotlin, SRE chez Gradle. Dans cet épisode, on clarifie la frontière (parfois floue) entre SRE et DevOps, et comment la philosophie DevOps s'oppose au métier concret…",
@@ -18,6 +82,38 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/40db127b-5ccd-4c82-97fd-9f21f7fcd7ff.mp3?_=1777982558",
       "duration": "52:47"
+    },
+    {
+      "id": "946d82ad2229",
+      "title": "Les news du mois d'avril 2026",
+      "description": "Elin Mel sur Unsplash Avril est terminé, et il fut déjà le mois le plus chaud de l’année. Malgré la pluie et les inondations de cet hiver, nous sommes déjà en sécheresse sur une bonne partie du pays et notamment en Bretagne ! Malgré cette nouvelle démoralisante, je vous ai sélectionné des articles…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/04/news-avril/",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/04/news-avril/banner.avif",
+      "type": "blog"
+    },
+    {
+      "id": "f99fa5aa996f",
+      "title": "Être développeur, c'est résoudre des problèmes, pas écrire du code",
+      "description": "Je constate que de plus en plus de développeurs s’interrogent sur leur avenir face à l’IA. Je ne parle pas de simplement s’inquiéter de la perte de leur emploi, mais une remise en question qui va jusqu’à changer de métier. Ce billet a été initialement publié sur LinkedIn Voir la publication…",
+      "link": "https://www.jdecool.fr/blog/2026/05/06/etre-developpeur-c-est-resoudre-des-problemes-pas-ecrire-du-code.html",
+      "pubDate": "2026-05-05T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "93951d1fb522",
