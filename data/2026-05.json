@@ -2,6 +2,101 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "c1dbf70cf7c5",
+      "title": "La résistance des organisations face au lean – Partie 2",
+      "description": "(La première partie est ici) Quelques instants après m’avoir dit : « Tu vois quelqu’un qui compense silencieusement les faiblesses d’un système », Matsumoto-San est resté silencieux. Pensif. Puis il […] Cet article La résistance des organisations face au lean – Partie 2 est apparu en premier sur…",
+      "link": "https://www.institut-lean-france.fr/la-resistance-des-organisations-face-au-lean-partie-2/",
+      "pubDate": "2026-05-08T04:07:00.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/05/resistance-au-lean-partie-2.png",
+      "type": "blog"
+    },
+    {
+      "id": "1d0018336ffd",
+      "title": "#330.exe - Souveraineté numérique: Sortir de l'ombre des GAFAM par Guillaume Lours",
+      "description": "Pour l'épisode #330 je recevais Damien Lecan. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-330-f4d95537c5b8",
+      "pubDate": "2026-05-08T03:00:33.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/e0a9ce25-0270-493a-a5e9-f4d95537c5b8.mp3?_=1778155353",
+      "duration": "12:45"
+    },
+    {
+      "id": "a6191f32cbf1",
+      "title": "Sortie de Mercure 0.23.5 : un Helm chart blindé pour vos clusters Kubernetes",
+      "description": "Mercure v0.23.5 vient de sortir, et le sujet central de cette release est le Helm chart. Si vous faites tourner des hubs sur Kubernetes, cette version durcit les configurations par défaut et intègre des templates de politiques (policies) qui nécessitaient auparavant de patcher le chart ou de les…",
+      "link": "https://les-tilleuls.coop/blog/mercure-0-23-5-helm-chart-kubernetes",
+      "pubDate": "2026-05-07T08:38:12.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/Mercure-hardened-Helm-chart-for-Kubernetes-2048x1143-1-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "c5c09497bd4a",
+      "title": "Pourquoi les études qui prévoient la fin de l’emploi « à cause » de l’IA se plantent-elles toujours ?",
+      "description": "Pourquoi les études qui prévoient la fin de tel ou tel emploi « à cause » de l’IA finissent-elles toujours par se planter ? Alors que les prédictions catastrophistes sur l’emploi circulent comme autant de rumeurs médiatiquement séduisantes, ce papier de Thomas Pourquoi les études qui prévoient la…",
+      "link": "https://maisouvaleweb.fr/pourquoi-les-etudes-qui-prevoient-la-de-lemploi-a-cause-de-lia-se-plantent-elles-toujours/",
+      "pubDate": "2026-05-07T07:53:32.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "053659d09e27",
+      "title": "Qu’est-ce qu’un ADR (Architecture Decision Record) ?",
+      "description": "Découvrez ce qu’est un ADR (Architecture Decision Record), pourquoi il est utile dans un projet logiciel et comment documenter vos décisions techniques simplement.",
+      "link": "https://code-garage.com/blog/qu-est-ce-qu-un-adr-architecture-decision-record",
+      "pubDate": "2026-05-07T07:37:03.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5800f8f44afc",
+      "title": "Une IA pour faire tout ce que nous voulons ? Oui, mais que voulons-nous vraiment ?",
+      "description": "La question se pose dans les entreprises comme dans le reste de la société. Imaginons que nous tenions la baguette magique en mains : que voulons-nous ? De l’efficacité. Tout […] Cet article Une IA pour faire tout ce que nous voulons ? Oui, mais que voulons-nous vraiment ? est apparu en premier sur…",
+      "link": "https://www.institut-lean-france.fr/que-voulons-nous-vraiment/",
+      "pubDate": "2026-05-07T06:55:13.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/05/shutterstock_1657245325.jpg",
+      "type": "blog"
+    },
+    {
       "id": "5c0ffed1c14e",
       "title": "Docker Bake : une nouvelle manière de build nos images Docker",
       "description": "Découvrez Docker Bake pour standardiser vos builds Docker. Cette surcouche déclarative de Buildx offre parallélisation intelligente, cache partagé et multi-plateforme.",
@@ -16,6 +111,22 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/05/docker-bake.png",
+      "type": "blog"
+    },
+    {
+      "id": "d995f51c0b9f",
+      "title": "🤖 Découverte d&#39;ADK Java de Google",
+      "description": "There is no spoon. ©The Oracle",
+      "link": "https://philippart-s.github.io/blog/2026-05-07-adk-java/",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
