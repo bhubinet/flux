@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e7ea1c47583f",
+      "title": "EasyAdmin : construire un menu admin qui tient la route",
+      "description": "Créez un menu admin EasyAdmin robuste avec Symfony. ConfigureMenuItems(), linkTo: bonnes pratiques pour une navigation back-office efficace.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-construire-un-menu-admin-qui-tient-la-route",
+      "pubDate": "2026-05-08T10:32:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "c1dbf70cf7c5",
       "title": "La résistance des organisations face au lean – Partie 2",
       "description": "(La première partie est ici) Quelques instants après m’avoir dit : « Tu vois quelqu’un qui compense silencieusement les faiblesses d’un système », Matsumoto-San est resté silencieux. Pensif. Puis il […] Cet article La résistance des organisations face au lean – Partie 2 est apparu en premier sur…",
@@ -33,6 +48,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/e0a9ce25-0270-493a-a5e9-f4d95537c5b8.mp3?_=1778155353",
       "duration": "12:45"
+    },
+    {
+      "id": "4541c71264fe",
+      "title": "🎤 Talks donnés à Devoxx UK 🎤",
+      "description": "Talk donné lors de la conférence Devoxx UK",
+      "link": "https://philippart-s.github.io/blog/talks/devoxx-uk-2026/",
+      "pubDate": "2026-05-08T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "a6191f32cbf1",
