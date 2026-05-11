@@ -2,6 +2,69 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "b2b51374975d",
+      "title": "Un widget Tui custom : trois bugs et un chat dégoûté",
+      "description": "Créez un widget personnalisé Tui pour afficher un GIF dans le terminal avec Symfony Terminal. Découvrez les étapes pour étendre AbstractWidget, implémenter render(RenderContext): array et utiliser onAttach(WidgetContext) pour animer une image.",
+      "link": "https://lecodeestdanslepre.fr/billets/un-widget-tui-custom-trois-bugs-et-un-chat-degoute",
+      "pubDate": "2026-05-10T16:24:26.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3624cd922763",
+      "title": "Claude pour Product Designer : guide complet 2026",
+      "description": "En 2026, l'écosystème Claude (Claude Code, Figma MCP, Claude Design, Cowork, Skills) couvre un spectre élargi de tâches Designer : prototypage interactif, analyse de recherche utilisateur à grande échelle, intégration directe avec un design system Figma. Voici ce que les Product Designers peuvent…",
+      "link": "https://www.media.thiga.co/claude-product-designer-2026",
+      "pubDate": "2026-05-10T15:46:37.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20Claude%20pour%20designers.png",
+      "type": "blog"
+    },
+    {
+      "id": "ea5e41198d90",
+      "title": "Le mirage de la productivité IA : et si on en faisait moins ?",
+      "description": "L'IA t'a fait gagner trois heures aujourd'hui. T'en as fait quoi ? Probablement codé trois heures de plus. Pourquoi le temps gagné par l'IA n'est jamais à nous, et comment le reprendre.",
+      "link": "https://yoandev.co/mirage-productivite-ia",
+      "pubDate": "2026-05-10T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/mirage-productivite-ia.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3cd1780a2e15",
+      "title": "Construire des Golden Images avec Packer sur Scaleway",
+      "description": "Pour mes expérimentations sur Tangled, je souhaitais tester l’auto-hébergement des knot et spindles dans des machines virtuelles (les explications arrivent dans un futur article). C’était donc l’occasion de rejouer un peu sur Scaleway, et avec Packer.",
+      "link": "https://codeka.io/2026/05/10/packer-scaleway/",
+      "pubDate": "2026-05-10T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/10/packer-scaleway/cover_hu_bfba8d5cff808896.webp",
+      "type": "blog"
+    },
+    {
       "id": "2e009a142515",
       "title": "Varnish 9 et le TLS, cool, et avec Let’s Encrypt ?",
       "description": "J’ai pu expérimenter le support HTTPS de Varnish 9 en live « à l’ancienne » sur une VM Debian 13. Comme la gestion de Let’s Encrypt (d’ACME [...]",
