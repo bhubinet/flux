@@ -2,6 +2,117 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "032dd932355b",
+      "title": "L'outil n'est pas la compétence",
+      "description": "L’IA a changé (comme pour beaucoup, je pense) ma manière de travailler. Pas seulement dans ma façon d’écrire du code, mais aussi dans les outils que j’utilise au quotidien. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas…",
+      "link": "https://www.jdecool.fr/blog/2026/05/12/l-outil-n-est-pas-la-competence.html",
+      "pubDate": "2026-05-11T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c22d0aa558b",
+      "title": "Faire tourner des LLM gratuitement avec Ollama",
+      "description": "Découvrez comment faire fonctionner un grand modèle de langage localement avec Ollama. Apprenez à installer, à tirer un modèle et à l'intégrer dans votre application Symfony grâce à ce guide complet.",
+      "link": "https://lecodeestdanslepre.fr/billets/faire-tourner-des-llm-gratuitement-avec-ollama",
+      "pubDate": "2026-05-11T19:22:30.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f1b56b79978a",
+      "title": "Maternité et leadership : faut-il vraiment choisir ?",
+      "description": "Dans l'univers de la Tech et du Produit, où la performance se mesure souvent à la réactivité et à la disponibilité constante, la maternité fait encore figure d'exception culturelle. Pour beaucoup de femmes à des postes stratégiques, annoncer une grossesse reste un moment de tension, entre crainte…",
+      "link": "https://www.media.thiga.co/maternite-et-leadership",
+      "pubDate": "2026-05-11T15:32:44.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Illu%20maternit%C3%A9.png",
+      "type": "blog"
+    },
+    {
+      "id": "83f09041e6f3",
+      "title": "Apprendre le CSS : Gérer le thème foncé / clair",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/light-dark-css-2343 Sur les systèmes d'exploitation modernes, les utilisateurs peuvent basculer entre un thème clair et un thème sombre selon leurs préférences. La bonne nouvelle, c'est qu'on peut détecter cette préférence directement en CSS pour adapter…",
+      "link": "https://www.youtube.com/watch?v=aCKXGNtulQQ",
+      "pubDate": "2026-05-11T13:03:00.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/aCKXGNtulQQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "aCKXGNtulQQ"
+    },
+    {
+      "id": "75228f599af9",
+      "title": "Autonomation, et l’IA alors ?",
+      "description": "Il y a un usage de l’IA que personne ne mentionne. Le lean, lui, le pratique depuis la fin du XIXe siècle. Quand on parle d’intelligence artificielle en entreprise, la […] Cet article Autonomation, et l’IA alors ? est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/autonomation-et-lia-alors/",
+      "pubDate": "2026-05-11T09:49:36.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/05/Autonomation-et-IA.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a7178f275540",
+      "title": "Llama.cpp, SGLang, vLLM : quel framework d'inférence LLM choisir pour votre assistant de code ?",
+      "description": "Étude d’une architecture auto-hébergée (LiteLLM + vLLM/SGLang/llama.cpp) sur GPUs H100/L40S avec le modèle Devstral-Small-2-24B. Tests jusqu’à 200 utilisateurs via llm-grill, notre outil d'évaluation open source.",
+      "link": "https://blog.octo.com/llama.cpp-sglang-vllm--quel-framework-d'inference-llm-choisir-pour-votre-assistant-de-code",
+      "pubDate": "2026-05-11T07:40:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4a43f4bfd86b",
+      "title": "Devoxx 2026",
+      "description": "L'édition 2026 du Devoxx décrypte les avancées majeures de l'IA sur l'ingénierie logicielle, des architectures multi-agents à l'informatique quantique et aux stratégies pour maintenir la qualité du code.",
+      "link": "https://blog.ippon.fr/2026/05/11/devoxx-2026/",
+      "pubDate": "2026-05-11T07:00:31.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/devoxx_2026.png",
+      "type": "blog"
+    },
+    {
       "id": "b2b51374975d",
       "title": "Un widget Tui custom : trois bugs et un chat dégoûté",
       "description": "Créez un widget personnalisé Tui pour afficher un GIF dans le terminal avec Symfony Terminal. Découvrez les étapes pour étendre AbstractWidget, implémenter render(RenderContext): array et utiliser onAttach(WidgetContext) pour animer une image.",
