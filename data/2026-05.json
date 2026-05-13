@@ -2,6 +2,70 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "35041c9bc45b",
+      "title": "#356.src - La force de la conférence: Pourquoi les devs ont besoin de se retrouver IRL avec Julien Landuré",
+      "description": "\"Notre métier est profondément ancré dans une culture de transmission, de personne à personne.\" Le D.E.V. de la semaine est Julien Landuré, CTO chez TechTown. Organisateur engagé de conférences comme le DevFest Nantes, il nous explique pourquoi la culture tech adore se retrouver en chair et en os,…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-356-e93b537c95bb",
+      "pubDate": "2026-05-13T03:00:51.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/f4d9b2bd-548b-4d48-acc3-b352e1c39292.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/ea2e1295-c58f-4ca6-b83f-e93b537c95bb.mp3?_=1778587371",
+      "duration": "53:16"
+    },
+    {
+      "id": "b3f1d7332de3",
+      "title": "CrowdSec : la défense réseau communautaire expliquée",
+      "description": "Découvrez comment CrowdSec protège votre serveur en apprenant des attaques détectées par la communauté et en appliquant des bans instantanément.",
+      "link": "https://lecodeestdanslepre.fr/billets/crowdsec-la-defense-reseau-communautaire-expliquee",
+      "pubDate": "2026-05-12T20:12:34.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4e2eb40572b4",
+      "title": "Comment intégrer l'IA dans son workflow UX/UI",
+      "description": "\"On a déjà deux agents IA qui tournent en interne.\" Ce n'est pas en réunion que j'ai entendu ça. C'est en mission chez un client, dans leurs bureaux. Ce genre de phrase, je l'entends de plus en plus souvent maintenant, entre deux écrans, dans les couloirs, pendant la pause déjeuner. L'IA fait…",
+      "link": "https://jolicode.com/blog/comment-integrer-l-ia-dans-son-workflow-ux-ui",
+      "pubDate": "2026-05-12T10:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/workflow-ia-ux-ui/article-ai-design-01.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "90b21435647f",
+      "title": "Test de CKE, le Kubernetes managé chez Clever Cloud (partie 1)",
+      "description": "La suite de ma saga avec Clever Cloud Ça fait maintenant quelques années que je teste les produits de Clever Cloud sur ce blog. En 2022, j’avais testé le Clever Kubernetes Operator, qui permet de provisionner des services managés (MySQL, Redis, Pulsar…) directement depuis un cluster Kubernetes via…",
+      "link": "https://blog.zwindler.fr/2026/05/12/test-cke-kubernetes-manage-clever-cloud-partie-1/",
+      "pubDate": "2026-05-12T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/logo-cke2026.webp",
+      "type": "blog"
+    },
+    {
       "id": "032dd932355b",
       "title": "L'outil n'est pas la compétence",
       "description": "L’IA a changé (comme pour beaucoup, je pense) ma manière de travailler. Pas seulement dans ma façon d’écrire du code, mais aussi dans les outils que j’utilise au quotidien. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas…",
@@ -12,6 +76,22 @@
       "categories": [
         "Programmation",
         "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32303d5fd426",
+      "title": "Mise + Krew : vos plugins kubectl en mode déclaratif",
+      "description": "Comment Mise arrive à résoudre les problèmes de Krew et du tooling interne des équipes SRE en général",
+      "link": "https://une-tasse-de.cafe/expresso/mise-krew/",
+      "pubDate": "2026-05-11T22:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
       ],
       "image": null,
       "type": "blog"
