@@ -2,6 +2,24 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "43d3633ecb8e",
+      "title": "L'intelligence artificielle et le paradoxe de l'expérience",
+      "description": "Contrairement aux dynamiques économiques habituelles, l'intelligence artificielle semble progressivement inverser la logique traditionnelle de création de valeur : ce ne sont plus nécessairement les profils les plus juniors qui sont valorisés, mais les plus expérimentés.",
+      "link": "https://blog.octo.com/octo-article-de-blog-21",
+      "pubDate": "2026-05-15T20:09:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b2261206a8e5",
       "title": "#340.exe - De l’idée à une entreprise avec Flutter: Quitter la stabilité pour l'impact par Guillaume Laforge",
       "description": "Pour l'épisode #340 je recevais Nicolas Guillot. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
