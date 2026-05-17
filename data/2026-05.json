@@ -20,6 +20,21 @@
       "type": "blog"
     },
     {
+      "id": "127c9d7f8295",
+      "title": "Symfony Scheduler en prod : j'ai attendu d'avoir Redis pour migrer, et j'ai bien fait",
+      "description": "Symfony Scheduler sans worker Messenger ni Redis n'est qu'un cron déguisé. Découvrez les trois briques à avoir sous la main avant #[AsSchedule] et cinq jobs qui tournent aujourd'hui sur ce site.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-scheduler-en-prod-j-ai-attendu-d-avoir-redis-pour-migrer-et-j-ai-bien-fait",
+      "pubDate": "2026-05-15T15:35:18.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "b2261206a8e5",
       "title": "#340.exe - De l’idée à une entreprise avec Flutter: Quitter la stabilité pour l'impact par Guillaume Laforge",
       "description": "Pour l'épisode #340 je recevais Nicolas Guillot. On en débrief avec Guillaume. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
