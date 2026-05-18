@@ -2,6 +2,96 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "af4da8f23fac",
+      "title": "Liens Tech - Mai 2026",
+      "description": "Mai : gestion Docker, traces GPS, nettoyage macOS, notes IA en local, sauvegardes de bases de données et un audit HAProxy qui rassure.",
+      "link": "https://domopi.eu/liens-tech-mai-2026/",
+      "pubDate": "2026-05-18T05:45:34.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "dc92fc4324ad",
+      "title": "Utiliser PHP avec Airflow",
+      "description": "Je travaille actuellement sur un projet orienté BI pour lequel des scripts d’analyse et de visualisation de données sont écrits en Python et sont orchestrés par Apache Airflow. Airflow est un outil Python, initialement conçu et pensé pour l’écosystème Python. Mais travaillant essentiellement en…",
+      "link": "https://www.jdecool.fr/blog/2026/05/18/utiliser-php-avec-airflow.html",
+      "pubDate": "2026-05-17T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b18b03322ba0",
+      "title": "Utiliser npm link pour tester un module localement",
+      "description": "Découvrez comment utiliser la commande npm link pour développer et tester un module NPM localement sans avoir à le publier à chaque modification.",
+      "link": "https://code-garage.com/blog/utiliser-npm-link-pour-tester-un-module-localement",
+      "pubDate": "2026-05-17T16:18:20.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dd591ca783af",
+      "title": "Symfony 8.1 : vos Commands passent en mode Controller",
+      "description": "Découvrez comment Symfony 8.1 modernise les Commandes Console avec les value resolvers Doctrine côté console, comme #[MapEntity], pour plus de confort et de performances.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-vos-commands-passent-en-mode-controller",
+      "pubDate": "2026-05-17T13:22:09.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3421b21cc412",
+      "title": "Donner une conference tech : les coulisses ",
+      "description": "",
+      "link": "https://smaine-milianni.medium.com/donner-une-conference-tech-les-coulisses-03139ca832ae?source=rss-c730ddf97658------2",
+      "pubDate": "2026-05-17T10:54:28.000Z",
+      "source": "Smaïne Milianni",
+      "sourceUrl": "https://medium.com/feed/@smaine-milianni",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://cdn-images-1.medium.com/max/1024/1*YhHB7FViZrJK7btucTiuaw.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "8cbba0ec633d",
+      "title": "FrankenPHP en prod : un binaire, quatre sous-domaines, un seul worker",
+      "description": "Découvrez FrankenPHP, le binaire qui remplace Nginx et PHP-FPM tout en servant plusieurs sous-domaines depuis un seul process. Avec Caddy et Symfony en tant que reverse proxy et application respectively.",
+      "link": "https://lecodeestdanslepre.fr/billets/frankenphp-en-prod-un-binaire-quatre-sous-domaines-un-seul-worker",
+      "pubDate": "2026-05-16T13:14:47.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "43d3633ecb8e",
       "title": "L'intelligence artificielle et le paradoxe de l'expérience",
       "description": "Contrairement aux dynamiques économiques habituelles, l'intelligence artificielle semble progressivement inverser la logique traditionnelle de création de valeur : ce ne sont plus nécessairement les profils les plus juniors qui sont valorisés, mais les plus expérimentés.",
