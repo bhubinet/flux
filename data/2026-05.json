@@ -2,6 +2,89 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "8d62859ec507",
+      "title": "Technostress et IA générative : le remplacement n’est pas le cœur du problème",
+      "description": "« Je pense effectivement que le secteur va un peu changer. Mais ce n’est pas comme si vous pouviez être remplacé. » Sortis des ronces des études économiques qui prétendent que le travail sera automatisé, il suffit d’une quinzaine d’entretiens Technostress et IA générative : le remplacement n’est…",
+      "link": "https://maisouvaleweb.fr/technostress-et-ia-generative-le-remplacement-nest-pas-le-coeur-du-probleme/",
+      "pubDate": "2026-05-18T15:45:02.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dbe1e1f1dac5",
+      "title": "Le chemin que l’industrie mondiale n’ose pas emprunter…",
+      "description": "… et qui est l’essence même du TPS ! Pour les chanceux qui ont pu voyager au Japon, visiter des usines du groupe Toyota ou assister à une conférence d’un […] Cet article Le chemin que l’industrie mondiale n’ose pas emprunter… est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/le-chemin-que-lindustrie-mondiale-nose-pas-emprunter/",
+      "pubDate": "2026-05-18T15:40:40.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/05/karakuri-kaizen.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "c9356c0febd4",
+      "title": "Devoxx France 2026: retour d'expérience",
+      "description": "Après trois jours à la Devoxx France 2026,, voici mon top 3 des conférences qui m’ont le plus marquée.",
+      "link": "https://blog.octo.com/devoxx-france-2026-retour-d'experience",
+      "pubDate": "2026-05-18T11:51:55.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "97d42c7edfef",
+      "title": "L'IA va-t-elle tuer nos métiers ? L'histoire dit non : Elle les transforme",
+      "description": "Arrêtons-nous une seconde sur le bruit ambiant. and quot;L'IA va remplacer les développeurs. and quot; and quot;Dans cinq ans, coder sera un métier obsolète. and quot; and quot;ChatGPT fait déjà le travail d'une équipe entière. and quot; Ces phrases, vous les avez lues, entendues, peut-être même…",
+      "link": "https://blog.octo.com/l'ia-va-t-elle-tuer-nos-metiers-l'histoire-dit-non--elle-les-transforme",
+      "pubDate": "2026-05-18T10:15:37.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3396b938f745",
+      "title": "Computer Vision et Rugby : retour d’expérience sur la construction d’un pipeline d’analyse vidéo avec YOLO et DeepFace",
+      "description": "L’IA dans le sport, tout le monde en parle. Le player tracking en NBA, les analyses xG en football, les capteurs GPS dans les maillots… Mais, quand on creuse un peu, on se rend compte que certains sports restent les grands oubliés de cette r&",
+      "link": "https://blog.ippon.fr/2026/05/18/computer-vision-et-rugby-retour-dexperience-sur-la-construction-dun-pipeline-danalyse-video-avec-yolo-et-deepface/",
+      "pubDate": "2026-05-18T09:52:36.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/05/Gemini_Generated_Image_ei981uei981uei98.png",
+      "type": "blog"
+    },
+    {
       "id": "af4da8f23fac",
       "title": "Liens Tech - Mai 2026",
       "description": "Mai : gestion Docker, traces GPS, nettoyage macOS, notes IA en local, sauvegardes de bases de données et un audit HAProxy qui rassure.",
@@ -74,6 +157,21 @@
         "IA"
       ],
       "image": "https://cdn-images-1.medium.com/max/1024/1*YhHB7FViZrJK7btucTiuaw.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "3aaea3375e37",
+      "title": "jakzal/phpqa : sortir la QA Symfony de son vendor/",
+      "description": "Découvrez jakzal/phpqa, une image Docker pour exécuter des outils de qualité de code en PHP sans les installer dans votre projet. Finis les conflits de dépendances et les paquets inutiles en production.",
+      "link": "https://lecodeestdanslepre.fr/billets/jakzal-phpqa-sortir-la-qa-symfony-de-son-vendor",
+      "pubDate": "2026-05-16T17:56:11.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
