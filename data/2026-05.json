@@ -2,6 +2,40 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a9e46db2bda4",
+      "title": "#357.src - Azure et IA: Dans l'ouragan des modèles, où est la vraie valeur du dev ? avec Antonio Goncalves",
+      "description": "\"Peut-être que notre plus-value aujourd'hui, c'est d'être des devs. Et devs, c'est pas que taper du code\" Le D.E.V. de la semaine est Antonio Goncalves, Principal Software Engineer chez Microsoft et co-organisateur de Devoxx. Dans cet épisode, on plonge dans la complexification du métier avec…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-357-1a5e1a045717",
+      "pubDate": "2026-05-20T03:00:07.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/c4cf6951-ebd6-4980-9990-395d538c3924.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/167ee484-efb2-4e34-8870-1a5e1a045717.mp3?_=1779192127",
+      "duration": "01:05:55"
+    },
+    {
+      "id": "26ec2b11dba4",
+      "title": "nodes/proxy GET : la permission Kubernetes de trop",
+      "description": "TL;DR Ca date un peu mais j’avais quand même envie de faire un petit REX sur ce sujet. En janvier un chercheur en cybersécurité a remonté une faille de Kubernetes qui a pas mal fait le buzz. Ca faisait un moment qu’on avait plus eu de faille sur Kube qui fasse autant parler, de mémoire de Denis…",
+      "link": "https://blog.zwindler.fr/2026/05/19/kubernetes-nodes-proxy-rce/",
+      "pubDate": "2026-05-19T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/node_proxy_RCE.webp",
+      "type": "blog"
+    },
+    {
       "id": "8d62859ec507",
       "title": "Technostress et IA générative : le remplacement n’est pas le cœur du problème",
       "description": "« Je pense effectivement que le secteur va un peu changer. Mais ce n’est pas comme si vous pouviez être remplacé. » Sortis des ronces des études économiques qui prétendent que le travail sera automatisé, il suffit d’une quinzaine d’entretiens Technostress et IA générative : le remplacement n’est…",
@@ -385,6 +419,23 @@
       "type": "blog"
     },
     {
+      "id": "7b2ff137aa91",
+      "title": "API Platform Conference 2026 : les thématiques à ne pas manquer cette année",
+      "description": "Le programme de l’API Platform Conference est en ligne depuis ce matin, et cette sixième édition s’annonce ambitieuse. Entre l’explosion de l’IA, la maturité de FrankenPHP appliquée à des projets en production et les enjeux de résilience, le contenu est particulièrement dense. Que vous soyez là…",
+      "link": "https://les-tilleuls.coop/Blog/api-platform-conference-2026-les-thematiques-a-ne-pas-manquer-cette-annee",
+      "pubDate": "2026-05-12T09:45:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/announcement1-1024x569.png",
+      "type": "blog"
+    },
+    {
       "id": "032dd932355b",
       "title": "L'outil n'est pas la compétence",
       "description": "L’IA a changé (comme pour beaucoup, je pense) ma manière de travailler. Pas seulement dans ma façon d’écrire du code, mais aussi dans les outils que j’utilise au quotidien. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas…",
@@ -674,6 +725,23 @@
       "title": "Sortie de Mercure 0.23.5 : un Helm chart blindé pour vos clusters Kubernetes",
       "description": "Mercure v0.23.5 vient de sortir, et le sujet central de cette release est le Helm chart. Si vous faites tourner des hubs sur Kubernetes, cette version durcit les configurations par défaut et intègre des templates de politiques (policies) qui nécessitaient auparavant de patcher le chart ou de les…",
       "link": "https://les-tilleuls.coop/blog/mercure-0-23-5-helm-chart-kubernetes",
+      "pubDate": "2026-05-07T08:38:12.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/Mercure-hardened-Helm-chart-for-Kubernetes-2048x1143-1-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "eca5b88e102e",
+      "title": "Sortie de Mercure 0.23.5 : un Helm chart blindé pour vos clusters Kubernetes",
+      "description": "Mercure v0.23.5 vient de sortir, et le sujet central de cette release est le Helm chart. Si vous faites tourner des hubs sur Kubernetes, cette version durcit les configurations par défaut et intègre des templates de politiques (policies) qui nécessitaient auparavant de patcher le chart ou de les…",
+      "link": "https://les-tilleuls.coop/Blog/mercure-0-23-5-helm-chart-kubernetes",
       "pubDate": "2026-05-07T08:38:12.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",
