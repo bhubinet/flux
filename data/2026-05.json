@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "a462885791ef",
+      "title": "Refonte complète de mon infrastructure DNS avec Technitium et AdGuard Home en haute disponibilité",
+      "description": "Un setup DNS sans redondance ni zone locale, c'est un SPOF qui s'ignore. Découvrez comment refondre son infrastructure DNS en haute disponibilité avec Technitium, AdGuard Home et Proxmox HA.",
+      "link": "https://domopi.eu/refonte-complete-de-mon-infrastructure-dns-avec-technitium-et-adguard-home-en-haute-disponibilite/",
+      "pubDate": "2026-05-21T05:45:17.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/05/article_dns.webp",
+      "type": "blog"
+    },
+    {
       "id": "a9e46db2bda4",
       "title": "#357.src - Azure et IA: Dans l'ouragan des modèles, où est la vraie valeur du dev ? avec Antonio Goncalves",
       "description": "\"Peut-être que notre plus-value aujourd'hui, c'est d'être des devs. Et devs, c'est pas que taper du code\" Le D.E.V. de la semaine est Antonio Goncalves, Principal Software Engineer chez Microsoft et co-organisateur de Devoxx. Dans cet épisode, on plonge dans la complexification du métier avec…",
@@ -423,6 +438,23 @@
       "title": "API Platform Conference 2026 : les thématiques à ne pas manquer cette année",
       "description": "Le programme de l’API Platform Conference est en ligne depuis ce matin, et cette sixième édition s’annonce ambitieuse. Entre l’explosion de l’IA, la maturité de FrankenPHP appliquée à des projets en production et les enjeux de résilience, le contenu est particulièrement dense. Que vous soyez là…",
       "link": "https://les-tilleuls.coop/Blog/api-platform-conference-2026-les-thematiques-a-ne-pas-manquer-cette-annee",
+      "pubDate": "2026-05-12T09:45:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/05/announcement1-1024x569.png",
+      "type": "blog"
+    },
+    {
+      "id": "96d738a1c140",
+      "title": "API Platform Conference 2026 : les thématiques à ne pas manquer cette année",
+      "description": "Le programme de l’API Platform Conference est en ligne depuis ce matin, et cette sixième édition s’annonce ambitieuse. Entre l’explosion de l’IA, la maturité de FrankenPHP appliquée à des projets en production et les enjeux de résilience, le contenu est particulièrement dense. Que vous soyez là…",
+      "link": "https://les-tilleuls.coop/blog/api-platform-conference-2026-les-thematiques-a-ne-pas-manquer-cette-annee",
       "pubDate": "2026-05-12T09:45:00.000Z",
       "source": "Les-Tilleuls.coop",
       "sourceUrl": "https://les-tilleuls.coop/feed.xml",
