@@ -2,6 +2,56 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "ef7877ed4e8e",
+      "title": "Forum PHP 2026 - 8&9 octobre, Hotel New York - The Art of Marvel, Disneyland Paris",
+      "description": "Le rendez-vous de l'année pour la communauté PHP en France ! Ensemble, comprenons comment évolue notre secteur et dessinons l'avenir de nos métiers. Plus d'informations sur l'événement : https://event.afup.org/ Cette vidéo vous a plu ? Adhérez à l'AFUP pour soutenir son activité :…",
+      "link": "https://www.youtube.com/watch?v=PqHUVCUBZJk",
+      "pubDate": "2026-05-22T20:29:59.000Z",
+      "source": "AFUP PHP (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCb-D560WkMEPE7dwNta_nqA",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/PqHUVCUBZJk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "PqHUVCUBZJk"
+    },
+    {
+      "id": "06bca7f3eacc",
+      "title": "Refonte de l'UI de GroROTI",
+      "description": "Si vous lisez régulièrement ce blog et mes aventures sur les réseaux sociaux, vous savez que j’aime énormément l’infrastructure, un peu le code backend (surtout en Golang), mais que dès qu’il s’agit de concevoir une interface graphique moderne et agréable, il n’y a plus personne. C’est un fait…",
+      "link": "https://blog.zwindler.fr/2026/05/22/refonte-ui-groroti/",
+      "pubDate": "2026-05-22T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/roti-avant-apr%C3%A8s.webp",
+      "type": "blog"
+    },
+    {
+      "id": "21227f70f400",
+      "title": "Redéfinir le \"bien travailler\" dans un monde saturé d’outils",
+      "description": "Efficacité, performance… L’intelligence artificielle et nos outils nous promettent tout. Pourtant, ils créent des paradoxes. Voici 5 pistes pour repenser le ‘bien travailler’ aujourd’hui.",
+      "link": "https://blog.octo.com/redefinir-le-bien-travailler-dans-un-monde-sature-d'outils",
+      "pubDate": "2026-05-22T09:48:13.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ad985d1acb6b",
       "title": "#343.exe - Sensome: La miniaturisation jusqu'à l'extrême par Yacine Hmito",
       "description": "Pour l'épisode #343 je recevais Gor Lebedev. On en débrief avec Yacine. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées…",
@@ -33,6 +83,37 @@
         "IA"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e7506c296f54",
+      "title": "Tangled - une alternative à GitHub sur AT Protocol",
+      "description": "Avec la chute progressive de GitHub, on voit de plus en plus de messages d’entreprises ou de projets qui cherchent à en sortir. Au-delà de l’hébergement d’un simple service Git, GitHub, c’était aussi une plateforme de réseau social. Les développeurs partagent leur code, et on y découvre de nouveaux…",
+      "link": "https://codeka.io/2026/05/22/tangled/",
+      "pubDate": "2026-05-22T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/22/tangled/cover_hu_504506566c19fc08.webp",
+      "type": "blog"
+    },
+    {
+      "id": "096cd8c42300",
+      "title": "EasyAdmin : quand un seul trait configure quatre CRUDs",
+      "description": "Structurer les champs de quatre entités partagées avec EasyAdmin. Quatre CRUDs pour Post, Page, Category et Series. Mutualisation en trait PHP pour éviter le copier-coller. FormField, tabs et fieldsets au service de la maintenabilité.",
+      "link": "https://lecodeestdanslepre.fr/billets/easyadmin-quand-un-seul-trait-configure-quatre-cruds",
+      "pubDate": "2026-05-21T17:38:32.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
       "type": "blog"
     },
     {
