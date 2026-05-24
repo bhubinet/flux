@@ -2,6 +2,21 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "e27359654531",
+      "title": "La meilleure technologie, c'est celle que l'équipe maîtrise",
+      "description": "Lorsque l’on doit résoudre un problème technique, il est tentant de chercher la solution la plus adaptée. Celle qui répond le mieux aux contraintes identifiées. Pourtant, il peut arriver que la meilleure technologie ne soit pas celle qui colle parfaitement au problème. Choisir une technologie,…",
+      "link": "https://www.jdecool.fr/blog/2026/05/23/la-meilleure-technologie-c-est-celle-que-l-equipe-maitrise.html",
+      "pubDate": "2026-05-22T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "ef7877ed4e8e",
       "title": "Forum PHP 2026 - 8&9 octobre, Hotel New York - The Art of Marvel, Disneyland Paris",
       "description": "Le rendez-vous de l'année pour la communauté PHP en France ! Ensemble, comprenons comment évolue notre secteur et dessinons l'avenir de nos métiers. Plus d'informations sur l'événement : https://event.afup.org/ Cette vidéo vous a plu ? Adhérez à l'AFUP pour soutenir son activité :…",
