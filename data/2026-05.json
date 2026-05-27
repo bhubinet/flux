@@ -2,6 +2,105 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "dd7ac9019d5a",
+      "title": "#358.src - DevSecOps: Pourquoi l'automatisation ne sauvera pas (toute seule) la sécu avec Tugdual Grall",
+      "description": "\"La plupart des développeurs ne sont pas des experts en sécurité. On nous demande de développer de plus en plus de choses.\" Le D.E.V. de la semaine est Tugdual Grall, Copilot Specialist chez GitHub. Dans cet épisode, Tug revient sur la façon dont l'IA et l'automatisation bouleversent notre rapport…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-358-15f4f5b20d70",
+      "pubDate": "2026-05-27T03:00:17.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/4a09f082-a3d9-4761-85a5-edfc507af6c1.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/a1f6ef9d-c10f-41c6-986d-15f4f5b20d70.mp3?_=1779796937",
+      "duration": "56:15"
+    },
+    {
+      "id": "c5e94c75ffd3",
+      "title": "Découvrir VueUse : la boîte à outils indispensable pour Vue.js",
+      "description": "Découvrez VueUse, une collection de composables ultra pratiques pour Vue.js. Géolocalisation, presse-papiers, gamepads, état du réseau… gagnez du temps avec useClipboard, useGeolocation, useNetwork et useGamepad.",
+      "link": "https://code-garage.com/blog/decouvrir-vueuse-la-boite-a-outils-indispensable-pour-vuejs",
+      "pubDate": "2026-05-26T15:15:39.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3feb13ddf0ac",
+      "title": "AFUP Day 2026 Paris, retour sur une journée dans l'écosystème PHP",
+      "description": "Ce vendredi 22 mai 2026, l'équipe JoliCode était présente à l'AFUP Day 2026 Paris à l'ESGI Paris pour une journée de conférences. L'ambiance était conviviale et studieuse, avec un programme axé sur l'IA, l'architecture et la productivité. Nous avons eu l'honneur de présenter deux sujets, Loïck…",
+      "link": "https://jolicode.com/blog/afup-day-2026-paris-retour-sur-une-journee-dans-l-ecosysteme-php",
+      "pubDate": "2026-05-26T13:30:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/afup-day/salle-conference.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f26163a03a9e",
+      "title": "Harnessing des agents : 9 pratiques venant du logiciel",
+      "description": "C’est dans les vieux pots que l’on fait les meilleures soupes, cet article est un plaidoyer pour ne pas oublier les bonnes pratiques du logiciel mais plutôt les utiliser et les adapter pour maximiser l’impact des agents de code.",
+      "link": "https://blog.octo.com/harnessing-des-agents--9-pratiques-venant-du-logiciel",
+      "pubDate": "2026-05-26T09:28:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e30488025aa0",
+      "title": "Refus d’apprendre !",
+      "description": "Le Lean ne se heurte pas à la résistance. Il se heurte au refus d’apprendre. Quand une transformation Lean cale, on parle presque toujours de « résistance au changement ». […] Cet article Refus d’apprendre ! est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/refus-dapprendre/",
+      "pubDate": "2026-05-26T08:53:22.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/05/Refus-d-apprendre.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "750a09d1b5e5",
+      "title": "L'Event-Driven Architecture chez Octo : épisode 1, le pourquoi",
+      "description": "Un legacy de 13 ans à bichonner, une vingtaine d'applis à faire causer entre elles, et des SaaS externes à intégrer toujours plus vite. Pour sortir de la spaghetti d'APIs, on a misé sur l'Event-Driven Architecture. Premier article d'une série : on pose les bases, et on raconte comment ça nous a…",
+      "link": "https://blog.octo.com/l-event-driven-architecture-chez-octo--episode-1-le-pourquoi",
+      "pubDate": "2026-05-26T07:50:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "33d45a478ca9",
       "title": "Produit  and  IA : nouvelles organisations, et un \"Pourquoi\" plus vital que jamais",
       "description": "L’IA générative s’invite dans les pratiques Produit avec une promesse simple : aller plus vite. Mais derrière ce gain apparent, elle déplace surtout les points de friction de l’organisation. Ce n’est pas seulement notre manière de produire qui change ; c’est la répartition même de la valeur dans…",
