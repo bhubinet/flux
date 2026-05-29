@@ -2,6 +2,90 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "36e333311ba7",
+      "title": "#337.exe - Gestion de la performance: Quand la perf devient l'affaire de toute l'équipe par Loïc Mathieu",
+      "description": "Pour l'épisode #337 je recevais Adrien Cacciaguerra. On en débrief avec Loïc. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-337-fbcb1b37a123",
+      "pubDate": "2026-05-29T03:00:31.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/4ba68f80-cf6d-4750-9953-fbcb1b37a123.mp3?_=1779973111",
+      "duration": "09:54"
+    },
+    {
+      "id": "49a78ac23c57",
+      "title": "Par quel langage débuter ?",
+      "description": "🔗 Article : https://grafikart.fr/blog/langage-debuter La première étape quand on veut débuter dans le développement est de choisir son premier langage de programmation et ce n'est pas un choix facile.... ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium…",
+      "link": "https://www.youtube.com/watch?v=-NTOGTyznYw",
+      "pubDate": "2026-05-28T13:00:04.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/-NTOGTyznYw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "-NTOGTyznYw"
+    },
+    {
+      "id": "7cff8472d74d",
+      "title": "L’auto-configuration Spring Boot expliquée : La Magie Derrière @SpringBootApplication",
+      "description": "Tu ajoutes @SpringBootApplication, tu lances ton projet… et tout fonctionne. Connexion à la base de données ✔Serveur web ✔Injection de",
+      "link": "https://blog.zenika.com/2026/05/28/lauto-configuration-spring-boot-expliquee-la-magie-derriere-springbootapplication/",
+      "pubDate": "2026-05-28T11:24:36.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/cdn-images-1.medium.com/max/1200/1%2Agxd5_QFMG1tYsr4sYibCyA.png?w=800&#038;ssl=1",
+      "type": "blog"
+    },
+    {
+      "id": "015e6aaaeda7",
+      "title": "Le DDD à l'épreuve de l'expérience utilisateur",
+      "description": "Dans les modernisations les plus ambitieuses, le découpage en sous-domaines peut légitimement être interrogé au regard de l’intégrité des informations présentées à l’utilisateur.",
+      "link": "https://blog.octo.com/le-ddd-a-l'epreuve-de-l'experience-utilisateur",
+      "pubDate": "2026-05-28T11:07:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "624eb8c6db4d",
+      "title": "C'est quoi une Hacker residency ?",
+      "description": "Entre hackerspaces et résidences d'artistes, découvrez le concept des \"Hackers in residence\".",
+      "link": "https://eventuallycoding.com/p/c-est-quoi-une-hacker-residency",
+      "pubDate": "2026-05-28T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1779954519848-eyyuv1q.png",
+      "type": "blog"
+    },
+    {
       "id": "571ef160ce45",
       "title": "Event UX Reboot - L'IA redessine l'expérience. Êtes-vous prêts ?",
       "description": "La question qui nous intéresse tous (et qui a ouvert l'event) : est-ce que l’IA a sonné le glas du design ? Spoiler : pas encore, mais les designers et product managers vont devoir revoir leurs positionnements.",
