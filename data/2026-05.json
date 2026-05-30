@@ -20,6 +20,22 @@
       "duration": "09:54"
     },
     {
+      "id": "519690cd10d7",
+      "title": "La veille de Wittouck - Fin mai 2026",
+      "description": "Entre deux matchs de Roland Garros, et pour prendre un peu l’air, pourquoi ne pas en profiter pour lire quelques articles intéressants (enfin, que J’AI trouvés intéressants 😅). Ce mois-ci dans “La Veille de Wittouck”, plusieurs sujets autours de l’AT Protocol (je m’y intéresse depuis quelques…",
+      "link": "https://codeka.io/2026/05/29/la-veille-de-wittouck-fin-mai-2026/",
+      "pubDate": "2026-05-29T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/05/29/la-veille-de-wittouck-fin-mai-2026/cover_hu_70ad207e097a0706.webp",
+      "type": "blog"
+    },
+    {
       "id": "49a78ac23c57",
       "title": "Par quel langage débuter ?",
       "description": "🔗 Article : https://grafikart.fr/blog/langage-debuter La première étape quand on veut débuter dans le développement est de choisir son premier langage de programmation et ce n'est pas un choix facile.... ______________________ Soutenir la chaîne : ⭐ Devenez premium : https://grafikart.fr/premium…",
