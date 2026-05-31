@@ -2,6 +2,22 @@
   "month": "2026-05",
   "articles": [
     {
+      "id": "bb4a6924d5b8",
+      "title": "zeropod v0.12.0 : un an après, le scale-to-zero tient-il ses promesses ?",
+      "description": "Qu’est-ce que zeropod ? Il y a un peu moins d’un an, j’avais publié un premier article sur un projet open source qui s’apelle zeropod. Zeropod is a Kubernetes runtime (more specifically a containerd shim) that automatically checkpoints containers to disk after a certain amount of time of the last…",
+      "link": "https://blog.zwindler.fr/2026/05/30/zeropod-v12-scale-to-zero-checkpointing-retour/",
+      "pubDate": "2026-05-30T10:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/05/zeropod.webp",
+      "type": "blog"
+    },
+    {
       "id": "36e333311ba7",
       "title": "#337.exe - Gestion de la performance: Quand la perf devient l'affaire de toute l'équipe par Loïc Mathieu",
       "description": "Pour l'épisode #337 je recevais Adrien Cacciaguerra. On en débrief avec Loïc. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
