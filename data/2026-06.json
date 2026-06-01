@@ -1,0 +1,38 @@
+{
+  "month": "2026-06",
+  "articles": [
+    {
+      "id": "fe4c8962e185",
+      "title": "TRS 40 % ?",
+      "description": "TRS (*) à 40 % : quand traiter la maintenance comme un coût vous coûte tout !!! La semaine dernière j’ai eu une conversation intéressante, et troublante à la fois, […] Cet article TRS 40 % ? est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/trs-40/",
+      "pubDate": "2026-06-01T09:06:46.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/06/TRS.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "cc300d8f743f",
+      "title": "La mémoire subversive de nos systèmes legacy",
+      "description": "On parle souvent de dette technique, de code illisible, de tests manquants. Ces diagnostics sont justes, mais partiels. Ce qui se dégrade en premier dans un système legacy, ce n'est pas le code. C'est la mémoire collective de ceux qui l'ont construit. Et sans elle, même un système propre reste…",
+      "link": "https://blog.octo.com/la-memoire-subversive-de-nos-systemes-legacy",
+      "pubDate": "2026-06-01T08:41:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    }
+  ]
+}
