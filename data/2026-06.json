@@ -2,6 +2,42 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "072f8eb5f192",
+      "title": "Platform Engineering : le prochain chantier stratégique des DSI à l’ère de l’IA",
+      "description": "Les DSI ont multiplié outils, automatisation et cloud pour accélérer le delivery. Mais le vrai frein n’est plus le code : ce sont les processus autour : validations, sécurité, architecture, production. Le Platform Engineering émerge pour répondre à cette tension, avec une approche produit,…",
+      "link": "https://blog.octo.com/platform-engineering--le-prochain-chantier-strategique-des-dsi-a-l'ere-de-l'ia",
+      "pubDate": "2026-06-01T12:38:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "bc46687bc6e2",
+      "title": "De l’expérimentation au passage à l’échelle : le grand défi de l’IA en  entreprise",
+      "description": "L’IA agit comme un multiplicateur de vitesse sur les systèmes existants. Elle n’améliore pas mécaniquement les organisations : elle accélère leurs dynamiques, qu’elles soient robustes ou désalignées. Cette accélération révèle les fragilités de l’ingénierie, du produit, du SI et de l’organisation.…",
+      "link": "https://blog.octo.com/de-l'experimentation-au-passage-a-l'echelle--le-grand-defi-de-l'ia-en-entreprise-1",
+      "pubDate": "2026-06-01T12:11:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "fe4c8962e185",
       "title": "TRS 40 % ?",
       "description": "TRS (*) à 40 % : quand traiter la maintenance comme un coût vous coûte tout !!! La semaine dernière j’ai eu une conversation intéressante, et troublante à la fois, […] Cet article TRS 40 % ? est apparu en premier sur Institut Lean France.",
