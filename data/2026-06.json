@@ -2,6 +2,92 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "088c6b448b4c",
+      "title": "La vaste blague du macronisme crypto-spatial",
+      "description": "Deux semaines en orbite pour deux astronautes français, Thomas Pesquet et Arnaud Prost. Voilà ce qu’a négocié le Mozart de la finance : un plan annoncé en grande pompe au sommet Choose France, ce 1er juin, sur fond de souveraineté industrielle et La vaste blague du macronisme crypto-spatial first…",
+      "link": "https://maisouvaleweb.fr/la-vaste-blague-du-macronisme-crypto-spatial/",
+      "pubDate": "2026-06-03T08:21:22.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ff6fb0eae21e",
+      "title": "Tout sur Symfony 8.1",
+      "description": "Symfony 8.1 vient de sortir, et fidèle à sa promesse, le framework garantit une rétrocompatibilité totale, permettant une mise à jour transparente. Cette release apporte également des changements de paradigme majeurs : elle pousse encore plus loin l’utilisation des Attributs PHP, simplifie…",
+      "link": "https://les-tilleuls.coop/blog/tout-sur-symfony-8-1",
+      "pubDate": "2026-06-03T07:30:00.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/06/symfony-8.1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "bde389d891df",
+      "title": "Brève histoire du Prompt Engineering au Harness engineering",
+      "description": "Après une consolidation de notre veille sur le sujet, nous vous proposons de survoler l'histoire de quelques termes de ces dernières années, pour ensuite les articuler entre eux.",
+      "link": "https://blog.octo.com/breve-histoire-du-prompt-engineering-au-harness-engineering",
+      "pubDate": "2026-06-03T07:21:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "90674bb16372",
+      "title": "#359.src - Devenir tech lead: Ne rien lâcher avec Houleymatou Baldé",
+      "description": "\"J'ai toujours su, quand je veux quelque chose, aller le chercher, mais surtout argumenter\" Le D.E.V. de la semaine est Houleymatou Baldé, ex-Tech Lead et fondatrice de Yeeso. Venue en France sans prérequis informatiques, Houleymatou raconte comment elle est devenue tech lead après un parcours semé…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-359-cb22f11ffcad",
+      "pubDate": "2026-06-03T03:00:09.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/e59c7556-bb9c-47ff-9b38-e8592e0567aa.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/657127aa-456a-4ded-9438-cb22f11ffcad.mp3?_=1780401669",
+      "duration": "01:14:51"
+    },
+    {
+      "id": "29ec5fa9463e",
+      "title": "Event-Driven Architecture chez Octo : épisode 2, la théorie",
+      "description": "Deuxième volet de notre série EDA : l'article à la fois chiant et utile. On rentre dans la théorie — patterns (Pub/Sub, Event Sourcing, CQRS), garanties de livraison, gestion des ratés (replay, DLQ) et pièges classiques. Promis, on a essayé de rendre ça digeste.",
+      "link": "https://blog.octo.com/event-driven-architecture-chez-octo--episode-2-la-theorie",
+      "pubDate": "2026-06-02T12:06:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "072f8eb5f192",
       "title": "Platform Engineering : le prochain chantier stratégique des DSI à l’ère de l’IA",
       "description": "Les DSI ont multiplié outils, automatisation et cloud pour accélérer le delivery. Mais le vrai frein n’est plus le code : ce sont les processus autour : validations, sécurité, architecture, production. Le Platform Engineering émerge pour répondre à cette tension, avec une approche produit,…",
