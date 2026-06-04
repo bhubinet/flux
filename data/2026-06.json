@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "6baf7f10911e",
+      "title": "500€ de tokens en 5 jours : piloter les coûts d'une app IA",
+      "description": "Grâce à l'IA, un Product Builder peut passer de l'idée à la production en autonomie. Mais quand le code s'écrit en arrière-plan, personne ne voit ce qui se passe : ni celui qui construit, ni sa direction. Matthias, Product Builder chez Thiga, s'en est rendu compte avec 500$ de tokens consommés en…",
+      "link": "https://www.media.thiga.co/500-euros-tokens-cinq-jours-pilotage-couts-app-ia",
+      "pubDate": "2026-06-03T09:44:29.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20tokens%20Matthias.png",
+      "type": "blog"
+    },
+    {
       "id": "088c6b448b4c",
       "title": "La vaste blague du macronisme crypto-spatial",
       "description": "Deux semaines en orbite pour deux astronautes français, Thomas Pesquet et Arnaud Prost. Voilà ce qu’a négocié le Mozart de la finance : un plan annoncé en grande pompe au sommet Choose France, ce 1er juin, sur fond de souveraineté industrielle et La vaste blague du macronisme crypto-spatial first…",
