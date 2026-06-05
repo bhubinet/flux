@@ -2,6 +2,40 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "161b9ceb75f5",
+      "title": "#344.exe - Cloud du coeur: Pas de cloud sans casserole, bricoler pour 35 000 utilisateurs par Tugdual Grall",
+      "description": "Pour l'épisode #344 je recevais Julien Briault. On en débrief avec Tugdual. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-344-e015963107fd",
+      "pubDate": "2026-06-05T03:00:04.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/e51413b8-e044-4cda-ae64-e015963107fd.mp3?_=1780574464",
+      "duration": "10:03"
+    },
+    {
+      "id": "bc4ff9b247d1",
+      "title": "FrankenPHP une alternative à PHP FPM & Nginx",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/frankenphp-2344 Aujourd'hui, lorsque l'on veut héberger une application PHP, on a recours à 2 briques : un serveur web comme Nginx ou Apache, puis PHP-FPM pour interpréter les fichiers PHP. Si on utilise Docker, cela implique deux conteneurs qui doivent…",
+      "link": "https://www.youtube.com/watch?v=8zKyFWcdk0I",
+      "pubDate": "2026-06-04T13:00:26.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/8zKyFWcdk0I/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "8zKyFWcdk0I"
+    },
+    {
       "id": "6baf7f10911e",
       "title": "500€ de tokens en 5 jours : piloter les coûts d'une app IA",
       "description": "Grâce à l'IA, un Product Builder peut passer de l'idée à la production en autonomie. Mais quand le code s'écrit en arrière-plan, personne ne voit ce qui se passe : ni celui qui construit, ni sa direction. Matthias, Product Builder chez Thiga, s'en est rendu compte avec 500$ de tokens consommés en…",
