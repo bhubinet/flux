@@ -17,6 +17,21 @@
       "type": "blog"
     },
     {
+      "id": "e5ddde255d59",
+      "title": "Staff42: où en sont sept entreprises tech françaises avec l'IA générative ?",
+      "description": "Imaginez : 7 slides et dix minutes pour raconter l'adoption des agents de développement comme Claude Code dans votre entreprise. Comment cela se passe-t-il ? Quels sont vos succès ? Qu'est-ce qui marche moins bien ? Back Market a réuni plusieurs entreprises à Paris, pour partager leur retour…",
+      "link": "https://www.touilleur-express.fr/2026/06/05/sept-entreprises-tech-francaises-et-l-ia-generative",
+      "pubDate": "2026-06-05T20:28:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1541c6b6f21f",
       "title": "Quand ça va mal, c’est là que tout va bien",
       "description": "Ceux qui m’ont formé étaient tous méthodiques. Ils n’avaient pas toujours la bonne méthode et ils n’avaient pas tous la même méthode, mais ils en avaient une. Le lean est […] Cet article Quand ça va mal, c’est là que tout va bien est apparu en premier sur Institut Lean France.",
