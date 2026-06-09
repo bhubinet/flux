@@ -2,6 +2,73 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "7d288d56574f",
+      "title": "FinOps: comment économiser 100 000 $/an en ouvrant simplement AWS Cost Explorer",
+      "description": "REX FinOps : en ouvrant AWS Cost Explorer sur un data lake à 6 500 $/mois, trois anomalies apparaissent. AWS KMS à 4 000 $/mois, des licences fantômes pour des développeurs partis, 10 pipelines CI/CD redondantes. Optimisation des coûts cloud : 100 000 $ d'économies annuelles. Sans outil, sans…",
+      "link": "https://blog.octo.com/finops-comment-economiser-100-000-dollaran-en-ouvrant-simplement-aws-cost-explorer",
+      "pubDate": "2026-06-09T05:52:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "32bbb332d7a0",
+      "title": "Lean et IA : et si le Team Leader était notre dernier rempart ?",
+      "description": "Au sortir du 10ᵉ Lean Summit France, l’IA était partout. Pas nécessairement sur les slides. pas toujours dans les ateliers, mais en filigrane des conversations, dans les couloirs, aux pauses, […] Cet article Lean et IA : et si le Team Leader était notre dernier rempart ? est apparu en premier sur…",
+      "link": "https://www.institut-lean-france.fr/lean-et-ia-et-si-le-team-leader-etait-notre-dernier-rempart/",
+      "pubDate": "2026-06-08T17:27:13.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/06/lean-et-ia.png",
+      "type": "blog"
+    },
+    {
+      "id": "1f921a168e46",
+      "title": "Mistral AI NOW Summit : Entre ambitions technologiques et réalités d'adoption en entreprise",
+      "description": "Au AI Now Summit 2026, Mistral a présenté une vision ambitieuse de l’IA industrielle : maîtrise de l’infrastructure, modèles spécialisés, agents outillés et souveraineté des données. Derrière la vitrine, une conférence utile pour lire les vrais enjeux d’adoption de l’IA en entreprise.",
+      "link": "https://blog.octo.com/mistral-ai-now-summit--entre-ambitions-technologiques-et-realites-d'adoption-en-entreprise",
+      "pubDate": "2026-06-08T14:44:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "417a176d05b7",
+      "title": "Protéger votre système des agents avec Greywall",
+      "description": "🔗 Article : https://grafikart.fr/blog/greywall-decouverte Les actualités récentes nous ont montré qu'en tant que développeur, on doit être attentif lorsqu'on exécute des commandes, que ce soit avec les agents IA ou avec les outils que l'on utilise au quotidien. Les dépendances que l'on importe…",
+      "link": "https://www.youtube.com/watch?v=Fil4lufhnKQ",
+      "pubDate": "2026-06-08T08:57:02.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/Fil4lufhnKQ/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "Fil4lufhnKQ"
+    },
+    {
       "id": "503a446838ae",
       "title": "Qu'est-ce qu'un « bon code » à l'ère de l'IA ?",
       "description": "La semaine dernière, je faisais référence au mantra “code is cheap”. Depuis, j’ai trouvé le projet “Agentic Engineering Patterns” de Simon Willison qui documente les patterns pratiques pour travailler et obtenir les meilleurs résultats possibles avec l’IA. On y retrouve une section “Writing code is…",
