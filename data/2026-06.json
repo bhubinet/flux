@@ -2,6 +2,78 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "95a0904623cf",
+      "title": "Souveraineté numérique : ce qu’en disent les experts OCTO.",
+      "description": "La souveraineté numérique n’est plus un concept abstrait. Elle s’impose désormais comme une préoccupation stratégique pour les organisations, dans un contexte où les tensions géopolitiques, les dépendances technologiques et les risques systémiques se multiplient.Pour comprendre comment ce sujet est…",
+      "link": "https://blog.octo.com/octo-souverainete-numerique--ce-qu'en-disent-les-experts-octo.",
+      "pubDate": "2026-06-12T07:40:39.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0cfc04bf5d19",
+      "title": "#311.exe - IA Agentique: IAutonomie numérique par Thomas Pierrain",
+      "description": "Pour l'épisode #311 je recevais Samy Lastmann. On en débrief avec Thomas. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-311-d17e66dbd229",
+      "pubDate": "2026-06-12T03:00:24.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/311ca887-218b-47c9-a68b-d17e66dbd229.mp3?_=1781179284",
+      "duration": "13:21"
+    },
+    {
+      "id": "fdf9201b7223",
+      "title": "Notre journée au FLUPA UX Days 2026 : le métier de designer a encore de l'avenir !",
+      "description": "Nous étions aux Flupa UX Days 2026, la conférence à ne pas manquer pour les designers français ! Cette année, le fil conducteur de l'édition parisienne était : « Concevoir, c'est choisir en conscience ». Une question à la hauteur des enjeux que rencontre notre profession actuellement, bousculée par…",
+      "link": "https://blog.octo.com/notre-journee-au-flupa-ux-days-2026--le-metier-de-designer-a-encore-de-l'avenir-!",
+      "pubDate": "2026-06-11T16:32:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b6b1d9cd1b54",
+      "title": "DAT4 : une machine à voyager dans le temps pour l'ingénieur data",
+      "description": "Présentation d'un framework de data engineering d'un client d'Octo démontrant des principes intéressants ( and quot;Window-aware pipeline and quot;) pour faciliter leur gestion et leur monitoring",
+      "link": "https://blog.octo.com/octo-dat4--une-machine-a-voyager-dans-le-temps-pour-l'ingenieur-data",
+      "pubDate": "2026-06-11T14:31:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a5451db01738",
       "title": "Software development  and  IA : qu'est ce que l'IA générative peut apporter à un PO au sein d’une équipe agile ?",
       "description": "L'AI pour un PO accéléré : l’IA joue un rôle d’assistant (optimisation) et facilite son travail qu’il a l’habitude de faire Le PO augmenté : le PO profite de nouvelles possibilités auparavant impossibles car trop complexes ou trop lourdes à mettre en oeuvre.",
