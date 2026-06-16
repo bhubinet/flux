@@ -2,6 +2,22 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "9b25b76e2622",
+      "title": "L'usine à clous soviétique ou l'échec des KPI",
+      "description": "En 2008, j’ai décroché mon second emploi, dans l’équipe réseau d’, la division derrière les sites web et le moteur de recherche de l’opérateur télécom français Orange. Tout y fonctionnait comme sur des roulettes : un environnement technique complet, une équipe dédiée pour chaque pan de l’activité…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-kpi-goodhart",
+      "pubDate": "2026-06-16T06:26:27.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/orange-impacts.03b883aacf07da.svg",
+      "type": "blog"
+    },
+    {
       "id": "3535e094ee89",
       "title": "Comprendre (enfin) les TTY et PTY avec le composant Process de Symfony",
       "description": "Vous est-il déjà arrivé de lancer une commande (composer, rsync ou une commande Symfony) directement dans votre terminal pour y admirer de jolies barres de progression colorées, mais de constater que cette même commande, une fois exécutée via un script PHP, perdait soudainement tout son formatage ?…",
