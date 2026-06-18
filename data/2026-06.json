@@ -2,6 +2,24 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "e8b7e976e714",
+      "title": "Software development  and  IA: De l'artisan du code au superviseur de l'IA - une histoire déjà vécue dans l’aviation civile",
+      "description": "Faire un parallèle entre la transformation du métier de pilote de ligne sous l'effet de l'automatisation et celle que connaissent aujourd'hui les informaticiens avec l'essor de l'IA. Comparaison n'est pas raison. Mais regarder dans le rétroviseur de l'histoire permet souvent de mieux comprendre les…",
+      "link": "https://blog.octo.com/software-development-and-ia-de-l'artisan-du-code-au-superviseur-de-l'ia-une-histoire-deja-vecue-dans-l'aviation-civile",
+      "pubDate": "2026-06-17T13:25:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "28e594d2103e",
       "title": "UX Insight : L’UX Research face au miroir de l’IA et du Business Design",
       "description": "UX Research face à l'IA et au Business Design : découvrez le décryptage et les insights clés de 5 talks marquants du festival UXinsight.",
@@ -48,6 +66,21 @@
         "Programmation",
         "DevOps",
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "778c30c13d82",
+      "title": "L'IA pousse à faire soi-même, au détriment de l'équipe",
+      "description": "Je commence à voir de plus en plus d’équipes où le lead tech est devenu plus rapide à implémenter une fonctionnalité via l’IA qu’à l’expliquer, la déléguer et attendre que quelqu’un la prenne en charge. Pourquoi cadrer un ticket, répondre aux questions et relire du code quand on peut obtenir le…",
+      "link": "https://www.jdecool.fr/blog/2026/06/17/l-ia-pousse-a-faire-soi-meme-au-detriment-de-l-equipe.html",
+      "pubDate": "2026-06-16T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
