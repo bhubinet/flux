@@ -2,6 +2,41 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "86411a213f60",
+      "title": "Skills IA : le guide complet pour comprendre leur cycle de vie",
+      "description": "Skills IA mal testées, mises à jour silencieuses, régressions invisibles : ce guide couvre le cycle de vie complet d'un SKILL.md — du design à l'archivage — avec des evals reproductibles en 3 couches.",
+      "link": "https://blog.ippon.fr/2026/06/19/cycle-de-vie-skill-ia-guide-complet/",
+      "pubDate": "2026-06-19T07:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/HEADER.png",
+      "type": "blog"
+    },
+    {
+      "id": "18c55d2ab27d",
+      "title": "#346.exe - IA & DevX: Code assisté, valeur humaine préservée par Julien Lepine",
+      "description": "Pour l'épisode #346 je recevais Jocelyn N'takpe. On en débrief avec Julien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-346-c0a1a3b44aff",
+      "pubDate": "2026-06-19T03:00:22.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/5ff8b9d8-26cc-43e1-9488-c0a1a3b44aff.mp3?_=1781794162",
+      "duration": "17:04"
+    },
+    {
       "id": "e8b7e976e714",
       "title": "Software development  and  IA: De l'artisan du code au superviseur de l'IA - une histoire déjà vécue dans l’aviation civile",
       "description": "Faire un parallèle entre la transformation du métier de pilote de ligne sous l'effet de l'automatisation et celle que connaissent aujourd'hui les informaticiens avec l'essor de l'IA. Comparaison n'est pas raison. Mais regarder dans le rétroviseur de l'histoire permet souvent de mieux comprendre les…",
