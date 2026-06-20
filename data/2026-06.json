@@ -37,6 +37,21 @@
       "duration": "17:04"
     },
     {
+      "id": "81a703761386",
+      "title": "Ce que j’ai appris en dépensant 100€ pour de la pub en ligne",
+      "description": "Comment j'ai dépensé mes 100 premiers euros sur Reddit Ads pour mon SaaS Writizzy. Mes erreurs, l'impact sur le trafic, mes métriques et le bilan.",
+      "link": "https://eventuallycoding.com/p/ce-que-j-ai-appris-en-depensant-100-pour-de-la-pub-en-ligne",
+      "pubDate": "2026-06-19T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1781875355471-8d6xn3b.png?width=800",
+      "type": "blog"
+    },
+    {
       "id": "e8b7e976e714",
       "title": "Software development  and  IA: De l'artisan du code au superviseur de l'IA - une histoire déjà vécue dans l’aviation civile",
       "description": "Faire un parallèle entre la transformation du métier de pilote de ligne sous l'effet de l'automatisation et celle que connaissent aujourd'hui les informaticiens avec l'essor de l'IA. Comparaison n'est pas raison. Mais regarder dans le rétroviseur de l'histoire permet souvent de mieux comprendre les…",
