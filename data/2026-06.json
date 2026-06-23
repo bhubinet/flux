@@ -2,6 +2,55 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "f8a5bcbb7b6c",
+      "title": "Comment compter des millions de vues ? HyperLogLog",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/hyperloglog-2345 Imaginez-vous travailler chez YouTube : on vous demande de compter le nombre de vues d'une vidéo, comment feriez-vous ? Intuitivement, on penserait à enregistrer tous les utilisateurs qui consultent la vidéo puis à compter la taille de la…",
+      "link": "https://www.youtube.com/watch?v=OWBT86qoEqk",
+      "pubDate": "2026-06-22T13:00:04.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/OWBT86qoEqk/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "OWBT86qoEqk"
+    },
+    {
+      "id": "919c7cfddcd7",
+      "title": "Déclaré mort, toujours vivant : ce que le vinyle apprend à nos équipes tech",
+      "description": "On a déclaré le vinyle mort. Le COBOL aussi. Les tests de mutation dormaient dans les bonnes pratiques oubliées. Ils sont tous revenus ou n'ont jamais vraiment disparu. Parce que nouveau ne veut pas dire meilleur. Et que certains outils font quelque chose que rien d'autre ne fait aussi bien.",
+      "link": "https://blog.octo.com/declare-mort-toujours-vivant--ce-que-le-vinyle-apprend-a-nos-equipes-tech",
+      "pubDate": "2026-06-22T12:36:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b6da3aea5176",
+      "title": "Démission intérieure, perte de sens… Il y a d’autres voies !",
+      "description": "Brown-out : et si le Lean était avant tout une réponse à la perte de sens au travail ? Depuis quelques années, un nouveau terme s’est imposé dans les discussions […] Cet article Démission intérieure, perte de sens… Il y a d’autres voies ! est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/demission-interieure-perte-de-sens-il-y-a-dautres-voies/",
+      "pubDate": "2026-06-22T10:32:30.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/06/demission.jpg",
+      "type": "blog"
+    },
+    {
       "id": "8c5217c9c8c4",
       "title": "AGO 2026 : une croissance historique et une expertise IA confirmée",
       "description": "Hier s’est tenue notre Assemblée Générale Ordinaire 2026, un temps fort de notre coopérative où nous avons fait l’état des lieux de notre activité, validé nos résultats, l’entrée au sociétariat de nos nouveaux associés ou encore renouvelé les membres de notre conseil de surveillance. Nous clôturons…",
