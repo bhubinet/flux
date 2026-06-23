@@ -2,6 +2,14 @@ feeds:
   - url: https://blog.zwindler.fr/index.xml
     name: Zwindler's Reflection
     categories: [ DevOps, Cloud, Programmation ]
+    
+  - url: https://www.elao.com/blog/rss.xml
+    name: Elao
+    categories: [Programmation, Web]
+  
+  - url: https://kolapsis.com/index.xml
+    name: Kolapsis (Benjamin Touchard)
+    categories: [Programmation, DevOps]
 
   - url: https://medium.com/feed/@smaine-milianni
     name: Smaïne Milianni
@@ -119,6 +127,11 @@ feeds:
     name: IFTTD - If This Then Dev
     type: podcast
     categories: [ Programmation, IA, Web ]
+    
+  - url: https://double-slash.dev/podcast-rss-feed.xml
+    name: Double Slash
+    type: podcast
+    categories: [Programmation, Web]
 
   - url: https://www.camilleroux.com/feed/
     name: Camille Roux
@@ -128,6 +141,14 @@ feeds:
     name: Data Driven 101
     type: podcast
     categories: [ IA ]
+    
+  - url: https://codeheroes.fr/rss.xml
+    name: Code Heroes
+    categories: [Programmation, DevOps, Cloud]
+    
+  - url: https://uxcode.fr/feed.xml
+    name: UXCode
+    categories: [Programmation, Web]  
 
   - url: UCb-D560WkMEPE7dwNta_nqA
     name: AFUP PHP (YouTube)
