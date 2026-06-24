@@ -757,6 +757,22 @@
       "type": "blog"
     },
     {
+      "id": "24db45e19fba",
+      "title": "Profiler son application Node.js : un profiler pensé pour les agents IA",
+      "description": "Les profilers Node.js mesurent, mais laissent l'analyse à un humain. Lanterna fait le choix inverse : un rapport déjà structuré, catégorisé et corrélé, qu'un agent IA peut exploiter directement. Pourquoi je l'ai construit, et comment il fonctionne.",
+      "link": "https://codeheroes.fr/blog/profiler-son-application-node-js-un-profiler-pour-les-agents-ia/",
+      "pubDate": "2026-05-18T00:00:00.000Z",
+      "source": "Code Heroes",
+      "sourceUrl": "https://codeheroes.fr/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "dc92fc4324ad",
       "title": "Utiliser PHP avec Airflow",
       "description": "Je travaille actuellement sur un projet orienté BI pour lequel des scripts d’analyse et de visualisation de données sont écrits en Python et sont orchestrés par Apache Airflow. Airflow est un outil Python, initialement conçu et pensé pour l’écosystème Python. Mais travaillant essentiellement en…",
@@ -1076,6 +1092,23 @@
       "type": "blog"
     },
     {
+      "id": "3ff391e24f5f",
+      "title": "Comment faire tourner une IA en local: outils, modèles et configuration matérielle",
+      "description": "Le prix des tokens ne cesse de monter et la protection des données devient de plus en plus importante. Alors, pourquoi ne pas faire tourner un modèle d'IA directement sur votre machine, en local ? Dans cet épisode, nous vous expliquons comment procéder, quel modèle choisir en fonction de la…",
+      "link": "https://double-slash.dev/podcasts/ia-local/",
+      "pubDate": "2026-05-12T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1778599560/episode/ART_132_kg8gzh.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_132_ia-local.mp3",
+      "duration": "2129"
+    },
+    {
       "id": "032dd932355b",
       "title": "L'outil n'est pas la compétence",
       "description": "L’IA a changé (comme pour beaucoup, je pense) ma manière de travailler. Pas seulement dans ma façon d’écrire du code, mais aussi dans les outils que j’utilise au quotidien. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas…",
@@ -1200,6 +1233,21 @@
         "DevOps"
       ],
       "image": "https://blog.ippon.fr/content/images/2026/05/devoxx_2026.png",
+      "type": "blog"
+    },
+    {
+      "id": "ef6c5175c730",
+      "title": "Les couleurs en CSS : 4 fonctionnalités pour des thèmes vivants et adaptatifs",
+      "description": "Découvrez comment CSS prend en charge nativement la gestion des couleurs et des thèmes, sans préprocesseur ni JavaScript.",
+      "link": "https://www.elao.com/blog/dev/nouveautes-css-2025-part3",
+      "pubDate": "2026-05-11T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1473,6 +1521,21 @@
       "type": "blog"
     },
     {
+      "id": "2e719f9ba03e",
+      "title": "Solo, vingt features, AGPL : deux mois à coder Maintenant avec Claude",
+      "description": "Le résultat avant l’histoire Maintenant, c’est un binaire Go de quelques mégaoctets qui tourne à 17 Mo de RAM en idle. Tu le drop dans un container, il auto-discover tes containers Docker, Swarm et Kubernetes, surveille tes endpoints HTTP et TCP, tes jobs cron via heartbeats, tes certificats TLS,…",
+      "link": "https://kolapsis.com/blog/maintenant-solo-claude/",
+      "pubDate": "2026-05-07T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "8ff80cd00316",
       "title": "La résistance des organisations face au lean",
       "description": "Au-delà de la méthode, le lean comme discipline du réel – Partie 1 Avant-propos : Et si le lean n’était pas d’abord une méthode de performance, mais une discipline de […] Cet article La résistance des organisations face au lean est apparu en premier sur Institut Lean France.",
@@ -1553,6 +1616,23 @@
       ],
       "image": "https://david.drugeon-hamon.bzh/blog/2026/04/news-avril/banner.avif",
       "type": "blog"
+    },
+    {
+      "id": "e792c3b1ca5b",
+      "title": "News Mai 2026, TypeScript 7 en beta, faux package TanStack et agent Cursor destructeur",
+      "description": "Nous évoquons TypeScript 7 qui débarque en beta, NPMX et son indicateur « You might not need this dependency », un agent Cursor qui détruit une base de prod en neuf secondes, le faux package TanStack qui volait les fichiers .env, Laravel qui glisse des publicités dans le contexte des agents IA, et…",
+      "link": "https://double-slash.dev/podcasts/news-mai26/",
+      "pubDate": "2026-05-06T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1778059761/episode/ART_131_yyi6wl.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_131_news-mai26.mp3",
+      "duration": "4165"
     },
     {
       "id": "f99fa5aa996f",

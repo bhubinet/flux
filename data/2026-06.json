@@ -2,6 +2,39 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "5f3747d5ea9e",
+      "title": "#362.src - Le LEAN à l'ère de l'IA: Réapprendre à produire du code (vraiment) Lean avec l'IA avec Yacine Hmito",
+      "description": "\"Les meilleures personnes pour résoudre un problème sont celles qui le voient, qui le palpent, voire qui le causent.\" Le D.E.V. de la semaine est Yacine Hmito, VP of Technology chez Fabriq. Ensemble, on explore comment le Lean, conçu à l'origine pour les usines automobiles, nous offre les clés pour…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-362-9c6fd0a77b77",
+      "pubDate": "2026-06-24T03:00:23.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/38cf2ebd-96b7-498d-9097-9b72351cabd6.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/61e55340-6c5b-451d-b8d4-9c6fd0a77b77.mp3?_=1782216083",
+      "duration": "58:02"
+    },
+    {
+      "id": "c01f04b2c2b0",
+      "title": "Générer un App Password pour utiliser Gmail en IMAP/SMTP ",
+      "description": "Découvrez comment utiliser une adresse Gmail avec IMAP et SMTP grâce aux App Passwords de Google. Une solution simple pour connecter Gmail à vos applications, serveurs et outils d'envoi d'emails.",
+      "link": "https://code-garage.com/blog/generer-un-app-password-pour-utiliser-gmail-en-imap-smtp",
+      "pubDate": "2026-06-23T08:29:07.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "f8a5bcbb7b6c",
       "title": "Comment compter des millions de vues ? HyperLogLog",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/hyperloglog-2345 Imaginez-vous travailler chez YouTube : on vous demande de compter le nombre de vues d'une vidéo, comment feriez-vous ? Intuitivement, on penserait à enregistrer tous les utilisateurs qui consultent la vidéo puis à compter la taille de la…",
@@ -68,6 +101,21 @@
       "type": "blog"
     },
     {
+      "id": "1fe7d95390b4",
+      "title": "Dog at Work : comment on a transformé une belle idée en démarche sérieuse",
+      "description": "À l'occasion de la Journée Dog at Work, retour sur 4 ans de cohabitation chez Elao : une mise à jour du DUERP, une enquête d'équipe et une charte dog friendly co-construite qui changent tout.",
+      "link": "https://www.elao.com/blog/elao/dog-at-work",
+      "pubDate": "2026-06-20T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "86411a213f60",
       "title": "Skills IA : le guide complet pour comprendre leur cycle de vie",
       "description": "Skills IA mal testées, mises à jour silencieuses, régressions invisibles : ce guide couvre le cycle de vie complet d'un SKILL.md — du design à l'archivage — avec des evals reproductibles en 3 couches.",
@@ -115,6 +163,21 @@
         "IA"
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1781875355471-8d6xn3b.png?width=800",
+      "type": "blog"
+    },
+    {
+      "id": "597e5262d8a9",
+      "title": "Paralléliser des tâches avec Claude Code : comparatif de 4 approches",
+      "description": "Retour d'expérience sur 4 approches de parallélisation de tâches dans Claude Code : séquentielle, batch, Agent Teams et Task Worker Pool.",
+      "link": "https://www.elao.com/blog/ia/paralleliser-taches-claude-code",
+      "pubDate": "2026-06-18T10:24:10.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -185,6 +248,23 @@
       ],
       "image": null,
       "type": "blog"
+    },
+    {
+      "id": "aaf7e076959d",
+      "title": "News Juin 2026 RC2, React quitte Meta, VoidZero rejoint Cloudflare et IA locale",
+      "description": "Nous évoquons React qui passe sous la Linux Foundation avec la React Foundation, VoidZero et Vite qui rejoignent Cloudflare, l'initiative Protect The Shire pour sécuriser les 78 000 plugins WordPress, TanStack AI en beta, Maizzle 6 et sa refonte Tailwind CSS 4, les nouveaux modèles open-weight de…",
+      "link": "https://double-slash.dev/podcasts/news-juin26-rc2/",
+      "pubDate": "2026-06-17T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1781689392/episode/ART_134_dmbb8r.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_134_news-juin26-rc2.mp3",
+      "duration": "3532"
     },
     {
       "id": "778c30c13d82",
@@ -909,6 +989,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/657127aa-456a-4ded-9438-cb22f11ffcad.mp3?_=1780401669",
       "duration": "01:14:51"
+    },
+    {
+      "id": "479449969bfc",
+      "title": "News Juin 2026, Bun passe à Rust, npm verrouille les scripts et SEO pour l'IA",
+      "description": "Nous évoquons le portage de Bun de Zig vers Rust par des agents IA, npm qui bloque par défaut les scripts postinstall non approuvés, Composer 2.10 qui filtre nativement les paquets malveillants, Windsurf absorbé par Devin Desktop, le guide SEO de Google optimisé pour les IA, MCP Chrome DevTools,…",
+      "link": "https://double-slash.dev/podcasts/news-jun26/",
+      "pubDate": "2026-06-03T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1780480242/episode/ART_133_tt4h5f.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_133_news-juin26.mp3",
+      "duration": "3603"
     },
     {
       "id": "29ec5fa9463e",

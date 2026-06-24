@@ -373,6 +373,21 @@
       "type": "blog"
     },
     {
+      "id": "3727bed5ef92",
+      "title": "Cycles de travail : la flexibilité qui marche… à condition de poser un cadre",
+      "description": "Chez Elao, chaque membre de l'équipe choisit son rythme de travail grâce aux cycles. On vous partage ce qui fonctionne, ce qu'on a dû ajuster et les clés pour que la flexibilité reste un vrai levier.",
+      "link": "https://www.elao.com/blog/elao/cycles-de-travail-et-flexibilite",
+      "pubDate": "2026-03-30T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "21f998eb236b",
       "title": "101 façons de déployer Kubernetes : 125 solutions, des PRs communautaires et une UI qui s'améliore",
       "description": "Il bouge encore Depuis la sortie de l’interface web du projet début février, le projet a continué à évoluer. Ajout de solutions manquantes, petites améliorations de l’UI, contributions externes, optimisations de performances… Bref, un bon petit mois bien rempli pour ce gros side project que…",
@@ -680,6 +695,21 @@
       "type": "blog"
     },
     {
+      "id": "a9d17b873a85",
+      "title": "Maintenant — Monitorer tout. Ne rien configurer.",
+      "description": "La plupart des self-hosters jonglent entre 3 et 5 outils pour surveiller leur stack : un pour les containers, un pour l’uptime, un pour les certificats, un pour les métriques, et encore un autre pour la page de statut. J’ai construit Maintenant pour les remplacer tous. Le problème Uptime Kuma pour…",
+      "link": "https://kolapsis.com/blog/maintenant-monitoring-unifie/",
+      "pubDate": "2026-03-24T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "66a8b73c927a",
       "title": "Quand Mistral veut moraliser le pillage",
       "description": "Cette proposition d’Arthur Mensch, cofondateur de Mistral, dans une tribune au Financial Times, mérite qu’on s’y arrête un instant (NB : comme elle est derrière un paywall, vous en trouverez plusieurs descriptifs, comme celui-ci chez Maddyness). Au moment même où Quand Mistral veut moraliser le…",
@@ -689,6 +719,21 @@
       "sourceUrl": "https://maisouvaleweb.fr/feed/",
       "categories": [
         "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0deb8619764e",
+      "title": "image-optimizer : générez vos images AVIF, WebP et responsive en une commande",
+      "description": "Automatisez la conversion de vos images PNG/JPG en AVIF et WebP dans plusieurs tailles grâce à ce package PHP.",
+      "link": "https://uxcode.fr/articles/php-composer-image-optimizer",
+      "pubDate": "2026-03-23T00:00:00.000Z",
+      "source": "UXCode",
+      "sourceUrl": "https://uxcode.fr/feed.xml",
+      "categories": [
+        "Programmation",
         "Web"
       ],
       "image": null,
@@ -927,6 +972,23 @@
       "duration": "59:50"
     },
     {
+      "id": "8209ed67440b",
+      "title": "News Mars 2026, Vite+, Void Cloud, du drama et de l'IA",
+      "description": "Nous évoquons le média L'Équipe qui repasse en MPA, Void Zero qui arrive avec plusieurs sorties. Vite 8, Vite Plus et Void Cloud. Datagouv nous propose du MCP, Mistral vous donne la possibilité d'avoir votre propre modèle, un DB vectoriel embarqué et des études sur l'IA. Retrouvez toutes les notes…",
+      "link": "https://double-slash.dev/podcasts/news-mars26/",
+      "pubDate": "2026-03-18T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1773850355/ART_129_efsvof.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_129_news-mars26.mp3",
+      "duration": "4126"
+    },
+    {
       "id": "4f4bfb08acbd",
       "title": "Période difficile pour les conférences développeur",
       "description": "Avec l’avènement de l’IA, notre métier de développement logiciel doit se réinventer et avec lui, son écosystème. Je pense notamment aux conférences pour développeurs. Ce billet a été initialement publié sur LinkedIn Voir la publication originale Cette dernière est republiée ici afin de ne pas…",
@@ -1034,6 +1096,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/05baaa16-23ec-4d22-b760-baf3d669cf7e.mp3?_=1773579628",
       "duration": "36:26"
+    },
+    {
+      "id": "0099040e3da4",
+      "title": "Animer et structurer intelligemment : 4 fonctionnalités CSS qui changent la donne",
+      "description": "View Transitions, Scroll-Driven Animations, animation-composition, @property… Découvrez les fonctionnalités CSS modernes qui transforment la façon d'animer et de structurer les interactions — sans JavaScript.",
+      "link": "https://www.elao.com/blog/dev/nouveautes-css-2025-part2",
+      "pubDate": "2026-03-16T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "f96d1348d5dc",
@@ -1273,6 +1350,21 @@
       "sourceUrl": "https://oliviersauvage.com/feed/",
       "categories": [
         "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9ac177a3acfd",
+      "title": "font-optimizer pour réduire de 90% le poids de vos polices dans vos projets PHP",
+      "description": "Réduisez de plus de 90% le poids de vos polices grâce à ce package PHP",
+      "link": "https://uxcode.fr/articles/php-composer-font-optimizer",
+      "pubDate": "2026-03-12T00:00:00.000Z",
+      "source": "UXCode",
+      "sourceUrl": "https://uxcode.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
       ],
       "image": null,
       "type": "blog"
@@ -1604,6 +1696,22 @@
       "type": "blog"
     },
     {
+      "id": "38c5e5f20c76",
+      "title": "Comment je suis devenu manager malgré moi",
+      "description": "Comment je suis passé de développeur passionné à manager d'équipe sans l'avoir prévu. Six ans de recul sur les leçons apprises, les réflexes à désapprendre, et ce que signifie vraiment accompagner une équipe technique.",
+      "link": "https://codeheroes.fr/blog/devenu-manager-malgre-moi/",
+      "pubDate": "2026-03-10T00:00:00.000Z",
+      "source": "Code Heroes",
+      "sourceUrl": "https://codeheroes.fr/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "bd6d01b907e4",
       "title": "RabbitMQ, Kafka et les messages brokers",
       "description": "Quand des services indépendants deviennent nombreux, la communication directe devient fragile. C’est précisément pour résoudre ce problème que l’on utilise des messages brokers comme RabbitMQ. Notes de l'épisode : Notre sponsor : https://www.secretpdf.io/",
@@ -1835,6 +1943,21 @@
         "IA"
       ],
       "image": "https://yoandev.co/img/symfony-ai-mate.webp"
+    },
+    {
+      "id": "04d9dbeb4414",
+      "title": "Divisez par 10 le poids de vos polices grâce au subsetting et profitez des polices variables",
+      "description": "Les polices variables sont une petite révolution mais contrairement à ce que l'on nous a promis, elles sont en réalité bien plus lourdes que les fontes classiques.",
+      "link": "https://uxcode.fr/articles/fontes-variables-subset-performance",
+      "pubDate": "2026-03-08T00:00:00.000Z",
+      "source": "UXCode",
+      "sourceUrl": "https://uxcode.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "125ab1767d78",
@@ -2430,6 +2553,21 @@
         "IA"
       ],
       "image": null
+    },
+    {
+      "id": "6742cd759765",
+      "title": "FAQ — Questions fréquentes",
+      "description": "",
+      "link": "https://kolapsis.com/faq/",
+      "pubDate": "2026-03-01T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
     }
   ]
 }

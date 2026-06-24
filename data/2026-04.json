@@ -476,6 +476,21 @@
       "duration": "10:49"
     },
     {
+      "id": "509a7804e645",
+      "title": "Les sub-agents Claude Code : isoler, déléguer, paralléliser",
+      "description": "Comprendre les sub-agents de Claude Code, leurs cas d'usage et comment ils permettent d'optimiser vos workflows : isolation de contexte, choix du modèle et parallélisation.",
+      "link": "https://www.elao.com/blog/ia/sub-agents-claude-code",
+      "pubDate": "2026-04-24T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "1d25d1709eb5",
       "title": "DevoxxFR 2026 - Récap du jeudi (jour 2)",
       "description": "Les résumés des 3 jours de DevoxxFR 2026 DevoxxFR - Récap du mercredi (jour 1) DevoxxFR - Récap du jeudi (jour 2) TODO DevoxxFR - Récap du vendredi (jour 3) Deuxième jour de DevoxxFR 2026 Pour ce jeudi, j’ai raté les keynotes du matin (arrivé un peu tard), j’ai donc commencé par un tour des stands…",
@@ -632,6 +647,21 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2026/02/Designer--4-.png",
+      "type": "blog"
+    },
+    {
+      "id": "0a19f882f00a",
+      "title": "Pétille — pour les enfants, ce que je n'ai pas trouvé ailleurs",
+      "description": "Celui-ci n’est pas un outil pour DSI. C’est pour mes filles — et les vôtres, si ça vous parle. Le déclic J’ai deux filles, 6 et 8 ans. Comme beaucoup de parents, j’ai fini par remarquer deux choses. La première, c’est qu’elles connaissent environ cinq métiers : vétérinaire, maîtresse, docteur,…",
+      "link": "https://kolapsis.com/blog/petille-carnet-appetences/",
+      "pubDate": "2026-04-21T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
@@ -1367,6 +1397,21 @@
       "type": "blog"
     },
     {
+      "id": "28a2e3a687f6",
+      "title": "Les temps ritualisés chez Elao : quand le dialogue devient une culture",
+      "description": "Entretiens de cycles, 1 to 1 RH, rétrospectives, baromètre interne… Découvrez les temps ritualisés qui rythment la vie chez Elao et font du dialogue une véritable culture d'entreprise.",
+      "link": "https://www.elao.com/blog/elao/temps-ritualises-dialogue-et-culture",
+      "pubDate": "2026-04-13T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "40a75aee99d9",
       "title": "La Duck Conf 2026 - CR - Comment utiliser la GenAI pour moderniser une application en deux fois moins de temps",
       "description": "Ce talk traite de la modernisation d’une application métier utilisée pour gérer les plannings de supervision d’un réseau électrique fonctionnant 24/7.",
@@ -2053,6 +2098,23 @@
       ],
       "image": null,
       "type": "blog"
+    },
+    {
+      "id": "666cedfe1f7a",
+      "title": "News avril 2026, Cursor et Copilot dans la tourmente, Axios compromis et Arrow JS",
+      "description": "Un épisode où l'on évoque le drama pour la sortie du nouveau modèle de Cursor, Copilot qui injecte des bugs dans les PR et qui va utiliser vos données pour s'entraîner, un nouveau framework JS — Next.js — qui s'adapte enfin aux autres providers, Axios qui se fait injecter du code malveillant, et…",
+      "link": "https://double-slash.dev/podcasts/news-avril26/",
+      "pubDate": "2026-04-03T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/q_auto/f_auto/v1775232343/ART_130_jvz7f3.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_130_news-avril26.mp3",
+      "duration": "4180"
     },
     {
       "id": "8f071e120411",
