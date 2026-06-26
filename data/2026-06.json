@@ -2,6 +2,24 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "96aa53a971fc",
+      "title": "#317.exe - SQL: Turing complete et toujours incompris par Léa Buendé",
+      "description": "Pour l'épisode #317 je recevais Cédric Miachon. On en débrief avec Léa. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes passées…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-317-a2f165b9b8ab",
+      "pubDate": "2026-06-26T03:00:17.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/248e3b11-3514-45c3-a17f-a2f165b9b8ab.mp3?_=1782388877",
+      "duration": "11:08"
+    },
+    {
       "id": "f2abcef457a2",
       "title": "Claviers ASUS ROG et Linux : fuyez ! (ou bricolez dur)",
       "description": "Il y a plusieurs années maintenant, j’ai craqué pour un gros clavier gamer avec triple connexion : USB-C, Bluetooth, Dongle 2.4GHz. L’objectif : pouvoir basculer [...]",
