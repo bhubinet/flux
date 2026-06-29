@@ -2,6 +2,21 @@
   "month": "2026-06",
   "articles": [
     {
+      "id": "3e16cf6e7aff",
+      "title": "Symfony 8.1 HTTP-less : pour un projet neuf, pas pour un worker existant",
+      "description": "Le kernel HTTP-less de Symfony 8.1 sert un projet neuf, pas à alléger un worker existant. ServicesBundle, ConsoleBundle, RequiredBundle : pour quel cas.",
+      "link": "https://lecodeestdanslepre.fr/billets/symfony-8-1-http-less-pour-un-projet-neuf-pas-pour-un-worker-existant",
+      "pubDate": "2026-06-28T10:02:57.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
       "id": "312cf7796e2d",
       "title": "Vibe coding : le crash dont vous êtes le héros",
       "description": "Un vendredi, un assistant un peu trop serviable, et deux jauges qui ne disent pas la même chose. Une partie de vibe coding dont vous êtes le héros.",
@@ -44,6 +59,23 @@
         "Web"
       ],
       "image": "https://lecodeestdanslepre.fr/assets/images/opengraph/lecode-zt5B1gK.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "1dd2c53abcb1",
+      "title": "Retours sur le Breizhcamp 2026",
+      "description": "Logo officiel du Breizhcamp — La conférence à l'Ouest Retours sur le Breizhcamp 2026 Depuis plusieurs années, le Breizhcamp est une conférence incontournable pour la communauté technologique rennaise. Cette année, j’ai pu y présenter un talk qui me tient à cœur à savoir « Comment je fais ma veille…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/06/breizhcamp-2026/",
+      "pubDate": "2026-06-27T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/06/breizhcamp-2026/banner.avif",
       "type": "blog"
     },
     {
