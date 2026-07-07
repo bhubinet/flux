@@ -2,6 +2,54 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "47f71ccaf392",
+      "title": "Zéro nouveau matériel : une boussole EROOM pour une solution numérique adaptée au besoin",
+      "description": "Et si la solution matérielle à votre besoin numérique existait déjà? Pour informatiser un suivi médical, au lieu d’un nouveau service cloud, nous avons détourné l’existant : Mac, Android et enceintes connectées. EROOM, c’est ça : avant de construire, inventoriez. Résultat : une solution frugale,…",
+      "link": "https://blog.octo.com/zero-nouveau-materiel--une-boussole-eroom-pour-une-solution-numerique-adaptee-au-besoin",
+      "pubDate": "2026-07-06T15:42:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "eb635cfc00ce",
+      "title": "Le backup de Schrödinger : rejouer son pg_dump avant d'en avoir besoin",
+      "description": "Testez vos sauvegardes PostgreSQL ! Apprenez à rejouer vos pg_dump quotidiens et mesurez votre RTO avant le sinistre.",
+      "link": "https://lecodeestdanslepre.fr/billets/backup-schrodinger-restaurer-pg-dump",
+      "pubDate": "2026-07-06T10:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://lecodeestdanslepre.fr/og/billets/backup-schrodinger-restaurer-pg-dump.png?v=78994141a907d6a6",
+      "type": "blog"
+    },
+    {
+      "id": "4b7d74b11afd",
+      "title": "Se préparer, c’est déjà espérer",
+      "description": "Juin 2026 restera comme l’un des épisodes caniculaires les plus sévères jamais enregistrés en France. Les premiers bilans sanitaires, encore provisoires, montrent que le nombre de malaises dus à la […] Cet article Se préparer, c’est déjà espérer est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/se-preparer-cest-deja-esperer/",
+      "pubDate": "2026-07-06T08:31:36.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/07/espoir.jpg",
+      "type": "blog"
+    },
+    {
       "id": "42e4e3d1812d",
       "title": "EasyAdmin : sécuriser un admin sans toucher à setPermission()",
       "description": "Sécurisez votre back-office EasyAdmin sans setPermission(). Combinez access_control, #[IsGranted] et gardes custom pour une sécurité robuste et efficace.",
