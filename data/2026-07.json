@@ -2,6 +2,22 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "12acdc466b3b",
+      "title": "Karpenter + Cluster API",
+      "description": "Mon cheminement pour autoscaler un cluster OVH déployé via la Cluster API, en utilisant Karpenter et son provider cluster-api, avec MKS comme cluster de management.",
+      "link": "https://une-tasse-de.cafe/blog/karpenter-capi-ovh/",
+      "pubDate": "2026-07-12T01:18:18.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b578e1a53063",
       "title": "Créer des exécutables avec Node 25+",
       "description": "Découvrez la nouvelle fonctionnalité de Node.js qui permet de créer des exécutables directement, sans utiliser de modules externes comme pkg ou nexe.",
