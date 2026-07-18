@@ -2,6 +2,118 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "d2ed2ab58627",
+      "title": "Une timeline et un bouton « Copy as text » : la page d'exception Symfony se redessine",
+      "description": "Découvrez la refonte de la page d'exception Symfony : une timeline cliquable et un bouton 'Copy as text' pour les IA. Analyse de cette évolution.",
+      "link": "https://lecodeestdanslepre.fr/billets/page-exception-symfony-redesign-copy-as-text",
+      "pubDate": "2026-07-17T10:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "99348bfc8be1",
+      "title": "Un RAG Magique !",
+      "description": "Il y a peu, je me suis mis à rejouer à Magic: The Gathering avec des amis. C’est un jeu de cartes à collectionner dans lequel on construit des decks pour affronter ses adversaires à travers divers modes de jeux possibles. Le jeu existe depuis 1993 et n’a cessé d’évoluer depuis. Résultat : même les…",
+      "link": "https://les-tilleuls.coop/blog/un-rag-magique",
+      "pubDate": "2026-07-17T09:56:38.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f474.png",
+      "type": "blog"
+    },
+    {
+      "id": "1cb6e194d4de",
+      "title": "The Token Manifesto",
+      "description": "The Token Manifesto We are uncovering better ways of consuming context by doing it and helping others do it.Through the work of producing tokens, deleting tokens, and staring at a usage bar nervously, we have come to value:1. Short system prompts over clever system prompts : The model reads the…",
+      "link": "https://www.touilleur-express.fr/2026/07/17/the-token-manifesto",
+      "pubDate": "2026-07-17T09:34:00.000Z",
+      "source": "Le Touilleur Express",
+      "sourceUrl": "https://touilleur-express.fr/feed",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "70b9dffc7ddc",
+      "title": "Airflow : introduction au Dynamic Task Mapping",
+      "description": "Airflow : comprendre le Dynamic Task Mapping",
+      "link": "https://blog.ippon.fr/2026/07/17/airflow-introduction-au-dynamic-task-mapping/",
+      "pubDate": "2026-07-17T09:26:15.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/Capture-d---e--cran-2026-07-13-a---15.54.18.png",
+      "type": "blog"
+    },
+    {
+      "id": "22639cfc66ed",
+      "title": "Accélérer votre CI : mettre en cache l’état de la base de données",
+      "description": "Il y a quelques années, j’écrivais Accélérer votre intégration continue. L’article passait en revue tout un tas de techniques pour rendre une CI plus rapide : cache Composer, cache Yarn, layers Docker, parallélisation, tmpDir de PHPStan… et, tout en bas de la liste, une idée un peu à part : plutôt…",
+      "link": "https://jolicode.com/blog/accelerer-votre-ci-mettre-en-cache-l-etat-de-la-base-de-donnees",
+      "pubDate": "2026-07-17T08:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "5d323370d8a0",
+      "title": "Non pas un, mais deux projets mêlant impression 3D et électronique embarquée",
+      "description": "Après un silence quasi religieux depuis 1 mois et demi, vous vous demandez peut-être (ou non) ce que je fais de mes après-midi ? Et bien je vais vous le dire (non non, ne partez pas) En réalité, j’ai enchaîné deux projets “maker” qui méritent que je m’y attarde : une boîte à coucou pilotée par…",
+      "link": "https://blog.zwindler.fr/2026/07/17/non-pas-un-mais-deux-projets-melant-impression-3d-et-electronique-embarquee/",
+      "pubDate": "2026-07-17T07:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/07/alerte-rouge.webp",
+      "type": "blog"
+    },
+    {
+      "id": "e16928709d6a",
+      "title": "Workflow, orchestrer des tâches asynchrones sans usine à gaz",
+      "description": "Présentation de Workflow, la librairie Vercel pour orchestrer simplement des tâches asynchrones en JavaScript/TypeScript, avec retries, pauses, webhooks, actions humaines et observabilité, en partageant son retour d’expérience et des cas concrets. Retrouvez toutes les notes et les liens de…",
+      "link": "https://double-slash.dev/podcasts/workflow/",
+      "pubDate": "2026-07-17T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1784274696/episode/ART_136_zvafgr.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_136_workflow.mp3",
+      "duration": "2637"
+    },
+    {
       "id": "a899d6a853d5",
       "title": "Customizing Sylius Grids - Improved DX with Grid Mutators",
       "description": "In Sylius, grids handle back-office list rendering: data fetching, column definitions, filters, actions, and more. Sylius E-commerce ships with a large number of ready-to-use grids that can be customized to fit your project's needs. Until now, customization mainly relied on YAML configuration…",
