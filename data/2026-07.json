@@ -2,6 +2,21 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "af36626168c5",
+      "title": "Détecter les régressions visuelles dans la CI avec Playwright et Docker",
+      "description": "Sur un gros site public, le front bouge tout le temps : une migration Tailwind par-ci, un composant React par-là, un bloc CMS qui change de gabarit. Et comme toujours avec le CSS, la modification d’une classe qui semblait anodine peut très bien décaler un bloc trois pages plus loin, sans que…",
+      "link": "https://jolicode.com/blog/detecter-les-regressions-visuelles-dans-la-ci-avec-playwright-et-docker",
+      "pubDate": "2026-07-23T07:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/ci-playwright/playwright-elements-masques.png",
+      "type": "blog"
+    },
+    {
       "id": "55bf2c89eeb0",
       "title": "Symfony 8.2 : des URLs signées à usage unique, sans stockage",
       "description": "Symfony 8.2 ajoute l'usage unique aux URLs signées d'UriSigner via un jeton d'état replié dans le HMAC. Mécanisme, limites et comparaison avec login_link.",
@@ -92,6 +107,22 @@
         "Web"
       ],
       "image": "https://jolicode.com//media/cache/content/2026/joliday/table-basse.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "25d65682642d",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 1 : les bases",
+      "description": "I’m sorry, Dave. I’m afraid I can’t do that. ©HAL 9000",
+      "link": "https://philippart-s.github.io/blog/2026-07-21-java-and-ai-part1/",
+      "pubDate": "2026-07-21T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
