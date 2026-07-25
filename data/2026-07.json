@@ -2,6 +2,22 @@
   "month": "2026-07",
   "articles": [
     {
+      "id": "3bf977e9381e",
+      "title": "OVHcloud Secret Manager + External Secrets Operator : gérer ses secrets Kubernetes",
+      "description": "Comment connecter External Secrets Operator (ESO) à l'OVHcloud Secret Manager pour synchroniser automatiquement vos secrets dans Kubernetes, avec un compte de service IAM en moindre privilège.",
+      "link": "https://une-tasse-de.cafe/expresso/ovh-secret-manager-eso/",
+      "pubDate": "2026-07-23T13:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "af36626168c5",
       "title": "Détecter les régressions visuelles dans la CI avec Playwright et Docker",
       "description": "Sur un gros site public, le front bouge tout le temps : une migration Tailwind par-ci, un composant React par-là, un bloc CMS qui change de gabarit. Et comme toujours avec le CSS, la modification d’une classe qui semblait anodine peut très bien décaler un bloc trois pages plus loin, sans que…",
