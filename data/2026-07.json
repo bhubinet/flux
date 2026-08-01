@@ -1108,6 +1108,22 @@
       "type": "blog"
     },
     {
+      "id": "8eb61d3d1318",
+      "title": "Riviera Dev 2026",
+      "description": "Ce début d’été, j’étais en marathon de conférences. DevLille, Tech’Work à Lyon, Breizhcamp à Rennes, et Riviera Dev à Sophia Antipolis. Je vous raconte tout ça : ce que j’ai vu, ce que j’ai apprécié.",
+      "link": "https://codeka.io/2026/07/08/riviera-dev-2026/",
+      "pubDate": "2026-07-08T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/07/08/riviera-dev-2026/cover_hu_c42ecd513d84351f.webp",
+      "type": "blog"
+    },
+    {
       "id": "8b6692bdbe80",
       "title": "Courir après la fonctionnalité n'est pas un objectif",
       "description": "L’IA permet à de nombreux éditeurs logiciels de livrer de nouvelles fonctionnalités toujours plus rapidement. Elle a augmenté la vitesse de production logicielle. La tentation de toujours aller plus vite est alors grande. Les nouvelles fonctionnalités d’un logiciel étant souvent perçu comme un…",
