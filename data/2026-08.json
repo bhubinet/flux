@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "3c794eda813d",
+      "title": "Les agents IA qui piratent tout seuls : accident isolé ou début de série ?",
+      "description": "Configuration réseau défaillante, et non une IA folle, est la cause de la compromission de systèmes externes par des agents d'IA, révèle cette analyse.",
+      "link": "https://lecodeestdanslepre.fr/billets/agents-ia-qui-piratent-tout-seuls",
+      "pubDate": "2026-08-02T08:33:45.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "904be0c9dcb0",
       "title": "Cisco FMC : un mot de passe codé en dur, en 2026, dans un pare-feu d'entreprise",
       "description": "Un mot de passe codé en dur dans Cisco Secure FMC, exploité avant correctif : mécanisme, chaînage, et comment tenir les secrets hors du code web.",
