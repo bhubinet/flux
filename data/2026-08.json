@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "2b76b300af9c",
+      "title": "La QA, c'est quoi ? Demandez aux 8,5 millions d'écrans bleus",
+      "description": "Écrans bleus CrowdStrike, panne Cloudflare, scandale Horizon : ce que coûte une QA absente, et la carte des outils qui protègent un projet web.",
+      "link": "https://lecodeestdanslepre.fr/billets/qa-qualite-logicielle",
+      "pubDate": "2026-08-05T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4e9ff418d3da",
       "title": "#368.bin - Intelligence(s): Sociale: Pourquoi il n'existe pas UNE intelligence sociale avec Dana Samson",
       "description": "\"Pour beaucoup de personnes, l'intérêt d'une conversation, c'est de découvrir des choses qu'on ne savait pas\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie…",
@@ -18,6 +33,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/702460e0-e543-4b34-bbb3-8664c1ac4c41.mp3?_=1785871496",
       "duration": "56:45"
+    },
+    {
+      "id": "1b247a21a874",
+      "title": "Construire la fonction RH d'une TPE : par où commencer ? (épisode 2)",
+      "description": "L'administratif RH, c'est comme les fondations d'une maison : invisible une fois qu'elle est construite, mais tout repose dessus. Épisode 2 : comment on a solidifié ce socle chez Elao, entre conformité et digitalisation.",
+      "link": "https://www.elao.com/blog/elao/rh-tpe-ep-02-par-ou-commencer",
+      "pubDate": "2026-08-05T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "325c1280a338",
