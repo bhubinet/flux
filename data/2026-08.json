@@ -50,6 +50,23 @@
       "type": "blog"
     },
     {
+      "id": "99713918ce40",
+      "title": "Les news de l'été 2026 : juin & juillet",
+      "description": "Ganapathy Kumar sur Unsplash Et nous voici déjà au milieu de l’été et j’ai l’impression qu’il est interminable. Les canicules qui se suivent ont eu raison de ma production d’articles sur mon blog. Pourtant, j’ai des idées d’articles que je publierai sûrement à la rentrée. Que s’est-il passé depuis…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/08/news-ete/",
+      "pubDate": "2026-08-05T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": "https://david.drugeon-hamon.bzh/blog/2026/08/news-ete/banner.avif",
+      "type": "blog"
+    },
+    {
       "id": "325c1280a338",
       "title": "Le rôle du manager Lean : pas celui que l’on croit",
       "description": "« Je fais du Lean », « Comme manager, je suis Lean », ces mots je les ai entendus et je les ai prononcés dans différentes circonstances ; lors de […] Cet article Le rôle du manager Lean : pas celui que l’on croit est apparu en premier sur Institut Lean France.",
