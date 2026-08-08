@@ -2,6 +2,71 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "2eeb87771e7f",
+      "title": "Créer des vidéo avec du code (via Remotion)",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/remotion-2350 Remotion permet de créer des vidéos avec du code en s'appuyant sur React. L'intérêt est double : on peut construire des animations de manière précise, mais aussi automatiser la génération de vidéos puisque tout repose sur des composants, des…",
+      "link": "https://www.youtube.com/watch?v=rFHn0Pwqcao",
+      "pubDate": "2026-08-07T13:00:42.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/rFHn0Pwqcao/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "rFHn0Pwqcao"
+    },
+    {
+      "id": "6985f58228fe",
+      "title": "Skills, agents, hooks : comment Claude Code écrit les issues GitHub de ce blog",
+      "description": "Découvrez comment Claude Code automatise la création d'issues GitHub à partir d'audits SEO. Apprenez sur les skills, agents et hooks pour un DX amélioré.",
+      "link": "https://lecodeestdanslepre.fr/billets/skills-agents-claude-code",
+      "pubDate": "2026-08-07T10:33:46.000Z",
+      "source": "Le Code est dans le Pré",
+      "sourceUrl": "https://lecodeestdanslepre.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a8c5e1f1652",
+      "title": "Duck Conf 2025 - Lana Lesik - Du chaos au flow, faut-il miser sur la DevEx ?",
+      "description": "Du chaos au flow, faut-il miser sur la DevEx ? L'aventure de Lana Lesik pour tendre vers un bien-être et une productivité accrue en tant que développeuse.",
+      "link": "https://blog.octo.com/duck-conf-2025-compte-rendu-du-talk-de-lana-lesik-du-chaos-au-flow-faut-il-miser-sur-la-devex",
+      "pubDate": "2026-08-07T08:57:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "878f2dc85318",
+      "title": "Bilan saison 2025-2026",
+      "description": "Comme l’année dernière, je profite de la journée avant mon départ en congés pour faire le bilan de mon année 2025-2026. Beaucoup de conférences cette année, et pas mal d’articles sur ce blog.",
+      "link": "https://codeka.io/2026/08/07/bilan-saison-2025-2026/",
+      "pubDate": "2026-08-07T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/08/07/bilan-saison-2025-2026/cover_hu_60875252e736008b.webp",
+      "type": "blog"
+    },
+    {
       "id": "2b76b300af9c",
       "title": "La QA, c'est quoi ? Demandez aux 8,5 millions d'écrans bleus",
       "description": "Écrans bleus CrowdStrike, panne Cloudflare, scandale Horizon : ce que coûte une QA absente, et la carte des outils qui protègent un projet web.",
