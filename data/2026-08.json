@@ -2,6 +2,42 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "5ad607fa468c",
+      "title": "#369.bin - Intelligence(s): Collective: Performance = Expertise + Diversité avec Emile Servan-schreiber",
+      "description": "\"On utilise la bêtise des autres pour annuler sa bêtise à soi\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie,…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-369-08ef98906495",
+      "pubDate": "2026-08-12T03:00:18.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/323c8e7f-ac57-44bc-9bce-e218e80594d7.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/56cdc8d2-3fdc-4bb7-9a38-08ef98906495.mp3?_=1786449678",
+      "duration": "01:02:29"
+    },
+    {
+      "id": "ab3ff80d36ce",
+      "title": "Évaluer la maturité du Product Management d'une organisation : méthode et constats sur l'IA",
+      "description": "Comment comparer des équipes produit qui ne mettent pas les mêmes réalités derrière les rôles de Product Owner ou Product Manager ? Une démarche construite chez OCTO propose un référentiel commun et une méthode structurée pour évaluer objectivement les pratiques produit.",
+      "link": "https://blog.octo.com/evaluer-la-maturite-du-product-management-d'une-organisation--methode-et-constats-sur-l'ia",
+      "pubDate": "2026-08-11T09:00:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "4d6e0cd3f9e5",
       "title": "L'Agent Development Environment : une nouvelle unité de travail",
       "description": "Régulièrement, quelque chose arrive et change ce que « écrire du code » veut dire. Cette fois, il se pourrait que ça ne veuille plus dire écrire du tout. D'où je viens Ce qui suit est mon parcours, pas une histoire de PHP. D'autres ont vécu ces mêmes années très différemment. Mon histoire commence…",
