@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "5bce5bc8ca3f",
+      "title": "Liens Tech - Août 2026",
+      "description": "La sélection du mois : un serveur de livres audio auto-hébergé, un outil de gestion multi-cluster pour Proxmox, un générateur de fichiers docker-compose, une plateforme de simulation d'attaques cyber, un outil de visualisation de données et un système de prévention d'intrusion pour serveurs Linux.",
+      "link": "https://domopi.eu/liens-tech-aout-2026/",
+      "pubDate": "2026-08-14T05:45:35.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "a94551effe0a",
       "title": "Herdr, un multiplexeur qui gère vos agents",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/herdr-multiplexer-2351 Dans cette vidéo je vous propose de découvrir Herdr, un multiplexeur de terminal qui permet depuis une fenêtre de lancer plusieurs session de terminal avec des workspaces et des onglets et surtout un support des agents IA. 00:00…",
