@@ -2,6 +2,22 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "c3153b881c7c",
+      "title": "Sous le capot de Bluesky : l'ATProto)",
+      "description": "Sous le capot d'un PDS ATProto : un dépôt de données cryptographique, trié dans un Merkle Search Tree et signé à chaque écriture. On ouvre mon propre dépôt à la main : on liste ses records, on télécharge son export CAR, et on vérifie sa signature nous-mêmes, sans jamais faire confiance au serveur.",
+      "link": "https://une-tasse-de.cafe/blog/atproto-pds/",
+      "pubDate": "2026-08-15T06:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "5bce5bc8ca3f",
       "title": "Liens Tech - Août 2026",
       "description": "La sélection du mois : un serveur de livres audio auto-hébergé, un outil de gestion multi-cluster pour Proxmox, un générateur de fichiers docker-compose, une plateforme de simulation d'attaques cyber, un outil de visualisation de données et un système de prévention d'intrusion pour serveurs Linux.",
