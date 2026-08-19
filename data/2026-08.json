@@ -2,6 +2,55 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "7e9cac0def52",
+      "title": "#370.bin - Intelligence(s): Apprentissage: Stocker la bonne information au bon endroit avec Mathieu Hainselin",
+      "description": "\"Notre cerveau n'est pas un disque dur\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-370-47246092eba9",
+      "pubDate": "2026-08-19T03:00:29.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/9faeda6b-eee1-45fd-a0cb-630f290b0c72.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/b6fa9c96-8f1e-4222-a1e6-47246092eba9.mp3?_=1787054489",
+      "duration": "01:05:59"
+    },
+    {
+      "id": "4c4aa5b713d9",
+      "title": "Comprendre le RAG, adapté l'IA à ses documents",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/rag-ia-2352 Le RAG, pour **Retrieval-Augmented Generation** ou génération augmentée par récupération, permet d'aider une IA à répondre à des questions à partir de documents internes. L'idée n'est pas d'envoyer toute la documentation au modèle, mais de…",
+      "link": "https://www.youtube.com/watch?v=qUHEUXwr_J8",
+      "pubDate": "2026-08-18T13:00:48.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/qUHEUXwr_J8/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "qUHEUXwr_J8"
+    },
+    {
+      "id": "bae254b51c37",
+      "title": "SimHash : trouver les pages qui se ressemblent",
+      "description": "Il y a quelques semaines, j'ai eu besoin de détecter du contenu dupliqué dans le crawler de redirection.io. Pas du dupliqué à la virgule près, ça c'est facile, mais du dupliqué « en gros, c'est la même page ». J'aurais pu utiliser des embeddings avec un LLM, mais il me fallait quelque chose de…",
+      "link": "https://jolicode.com/blog/simhash-trouver-les-pages-qui-se-ressemblent",
+      "pubDate": "2026-08-18T07:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/simhash/simhash.png",
+      "type": "blog"
+    },
+    {
       "id": "c3153b881c7c",
       "title": "Sous le capot de Bluesky : l'ATProto)",
       "description": "Sous le capot d'un PDS ATProto : un dépôt de données cryptographique, trié dans un Merkle Search Tree et signé à chaque écriture. On ouvre mon propre dépôt à la main : on liste ses records, on télécharge son export CAR, et on vérifie sa signature nous-mêmes, sans jamais faire confiance au serveur.",
