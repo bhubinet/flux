@@ -2,6 +2,38 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "2ba8175c483a",
+      "title": "RATP Dev : la bascule vers une organisation Produit",
+      "description": "Comment passer d'une DSI perçue comme un centre de livraison de projets à une Direction SI & Digitale plus intégrée, jouant le rôle de véritable partenaire stratégique ? Face à la diversité de ses outils et aux enjeux d'appropriation sur le terrain, la Direction Digitale de RATP Dev a fait un choix…",
+      "link": "https://www.media.thiga.co/bascule-organisation-produit-ratp-dev",
+      "pubDate": "2026-08-19T13:31:53.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/image%20article%20RATP%20Dev.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8eee77fdbd47",
+      "title": "Comment héberger un LLM (partie 1)",
+      "description": "Un serveur GPU, un an d'expérimentations : ce premier article vulgarise ce qu'est réellement un LLM (poids, biais, softmax) avant de le mettre à disposition avec vLLM, le GPU Operator NVIDIA et Kubernetes.",
+      "link": "https://blog.ippon.fr/2026/08/19/comment-heberger-un-llm-partie-1/",
+      "pubDate": "2026-08-19T08:00:28.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/blog-vllm-kubernetes.png",
+      "type": "blog"
+    },
+    {
       "id": "7e9cac0def52",
       "title": "#370.bin - Intelligence(s): Apprentissage: Stocker la bonne information au bon endroit avec Mathieu Hainselin",
       "description": "\"Notre cerveau n'est pas un disque dur\" Série spéciale Intelligence(s) Cet été, IFTTD part en exploration. Sur les 52 derniers épisodes, on a parlé d'intelligence artificielle 38 fois. On maîtrise plutôt bien la partie artificielle &mdash mais l'intelligence, la vraie, l'originale, on n'en a…",
@@ -18,6 +50,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/b6fa9c96-8f1e-4222-a1e6-47246092eba9.mp3?_=1787054489",
       "duration": "01:05:59"
+    },
+    {
+      "id": "0a2e282e125c",
+      "title": "Écrire du code avec l'IA, c'est la partie facile",
+      "description": "On parle de plus en plus de dépendance à l’IA : du code produit “trop vite” et en trop grande quantité, que l’on ne comprend pas ou que l’on ne sait plus maintenir. Mais est-ce vraiment un problème d’IA ? Avant elle, on copiait déjà du code trouvé sur StackOverflow sans le comprendre. On reprenait…",
+      "link": "https://www.jdecool.fr/blog/2026/08/19/ecrire-du-code-avec-l-ia-c-est-la-partie-facile.html",
+      "pubDate": "2026-08-18T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "4c4aa5b713d9",
