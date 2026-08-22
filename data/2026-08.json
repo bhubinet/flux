@@ -2,6 +2,77 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "b3c8edbc950f",
+      "title": "Résilience numérique : comprendre la réponse européenne",
+      "description": "Résilience numérique : comprendre la réponse européenne",
+      "link": "https://blog.octo.com/resilience-numerique--comprendre-la-reponse-europeenne",
+      "pubDate": "2026-08-21T10:54:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "6e8f7f4ad540",
+      "title": "Cloud souverain : comprendre la dépendance invisible de l’Europe",
+      "description": "Cloud souverain : comprendre la dépendance invisible de l’Europe",
+      "link": "https://blog.octo.com/cloud-souverain--comprendre-la-dependance-invisible-de-l'europe",
+      "pubDate": "2026-08-21T10:52:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7a2814d2325b",
+      "title": "Cloud souverain : comprendre les règles du jeu en France et en Europe",
+      "description": "Cloud souverain : comprendre les règles du jeu en France et en EuropeNous utilisons tous des services cloud au quotidien. Pourtant, derrière le choix d'un fournisseur se cachent aujourd'hui des enjeux qui dépassent largement la technique : protection des données, dépendance aux grandes puissances…",
+      "link": "https://blog.octo.com/cloud-souverain--comprendre-les-regles-du-jeu-en-france-et-en-europe",
+      "pubDate": "2026-08-21T10:50:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "c2ff2882e6d1",
+      "title": "News août 2026 : Cursor Origin, requêtes HTTP, Lerd et modèles IA open-weight",
+      "description": "Nous évoquons WebMCP et Kitesurf que Cloudflare lance pour les agents IA, pnpm 12 réécrit en Rust, la méthode HTTP QUERY, Cursor qui passe à React et lance Origin, Mesa le filesystem versionné pour agents, Mistral et Hetzner côté IA souveraine, et quelques outils comme Xirp, Lerd, fx ou CodexBar.…",
+      "link": "https://double-slash.dev/podcasts/news08-26/",
+      "pubDate": "2026-08-21T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1787235734/episode/ART_137_yhshvy.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_137_news08-26.mp3",
+      "duration": "4762"
+    },
+    {
       "id": "2ba8175c483a",
       "title": "RATP Dev : la bascule vers une organisation Produit",
       "description": "Comment passer d'une DSI perçue comme un centre de livraison de projets à une Direction SI & Digitale plus intégrée, jouant le rôle de véritable partenaire stratégique ? Face à la diversité de ses outils et aux enjeux d'appropriation sur le terrain, la Direction Digitale de RATP Dev a fait un choix…",
@@ -350,6 +421,21 @@
         "Cloud"
       ],
       "image": "https://codeka.io/2026/08/07/bilan-saison-2025-2026/cover_hu_60875252e736008b.webp",
+      "type": "blog"
+    },
+    {
+      "id": "647ef81ea828",
+      "title": "Et si la bulle IA explosait ?",
+      "description": "Et si la bulle IA explosait ? Est ce que c'est une bulle déjà ? Comment elle pourrait exploser ? Avec quelles conséquences ?",
+      "link": "https://eventuallycoding.com/p/et-si-la-bulle-ia-explosait",
+      "pubDate": "2026-08-06T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
