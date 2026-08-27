@@ -2,6 +2,53 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "c375e95c0410",
+      "title": "Migrating from Webpack Encore to Vite with Reprise",
+      "description": "We maintain a high-traffic project for one of our clients: 5 websites served by a single Symfony application, 800 Twig templates, and a React + Tailwind front end that has been built by Webpack Encore for years. A front-end build that was starting to weigh on us: over a minute of Webpack, a…",
+      "link": "https://jolicode.com/blog/migrating-from-webpack-encore-to-vite-with-reprise",
+      "pubDate": "2026-08-27T11:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "1182d0a4c68e",
+      "title": "Migrer de Webpack Encore vers Vite avec Reprise",
+      "description": "Nous maintenons, pour un de nos clients, un projet à fort trafic : 5 sites servis par une même application Symfony, 800 templates Twig, et un front React + Tailwind buildé depuis des années par Webpack Encore. Un build front qui commençait sérieusement à peser : plus d'une minute de Webpack, un…",
+      "link": "https://jolicode.com/blog/migrer-de-webpack-encore-vers-vite-avec-reprise",
+      "pubDate": "2026-08-27T11:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "199fe31e9e5a",
+      "title": "La seule règle qu'une IA respecte vraiment, c'est une erreur ESLint",
+      "description": "Lâcher une IA dans votre projet sans le voir se dégrader : le dispositif complet.",
+      "link": "https://blog.ippon.fr/2026/08/26/la-seule-regle-quune-ia-respecte-vraiment-cest-une-erreur-eslint/",
+      "pubDate": "2026-08-26T09:31:29.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/Sans-titre5.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "f524e2a1ecee",
       "title": "#371.src - Everyone can build: La révolution du code ouvert chez Alan avec Alexandre Gerlic",
       "description": "\"Chez Alan, quelqu'un voit un bug et, au lieu d'écrire un ticket, ouvre une PR. Ça change tout.\" Le D.E.V. de la semaine est Alexandre Gerlic, VP of Engineering chez Alan. Alexandre revient sur le projet \"Everyone Can Build\" qui ouvre l'accès au code à tous les collaborateurs, même ceux qui ne sont…",
@@ -18,6 +65,38 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/146da634-fbc6-4ae3-a643-f4e4ac141a8c.mp3?_=1787659336",
       "duration": "01:01:10"
+    },
+    {
+      "id": "77d9fc69d0a8",
+      "title": "Spécifier, c'est coder",
+      "description": "Depuis quelques semaines, je ne lance plus les agents : je tague des cartes, et un agent d'évaluation décide s'il les prend. Carnet de bord d'une expérimentation en cours, où le travail de développement a discrètement changé de place.",
+      "link": "https://yoandev.co/specifier-c-est-coder",
+      "pubDate": "2026-08-26T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/84406cb1-4abf-4f73-93e0-61a6e4a5d973.webp",
+      "type": "blog"
+    },
+    {
+      "id": "a9f92e1373ca",
+      "title": "Penser problème avant de penser solution",
+      "description": "En tant que développeur, quand on démarre une tâche ou un projet, on pense facilement au framework que l’on va utiliser, à la base de données, aux patterns que l’on va pouvoir mettre en place. Et si c’était une erreur ? Car en réfléchissant de la sorte, on prend déjà des décisions avant même que le…",
+      "link": "https://www.jdecool.fr/blog/2026/08/26/penser-probleme-avant-de-penser-solution.html",
+      "pubDate": "2026-08-25T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "0f5821dec0e5",
@@ -701,6 +780,22 @@
       "image": "https://i.ytimg.com/vi/jKq6miaPeoA/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "jKq6miaPeoA"
+    },
+    {
+      "id": "4ea964f209b6",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 2 : la mémoire",
+      "description": "Those aren't your memories. They're somebody else's. ©Rick Deckard",
+      "link": "https://philippart-s.github.io/blog/2026-08-03-java-and-ai-part2/",
+      "pubDate": "2026-08-03T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "3c794eda813d",
