@@ -2,6 +2,24 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "52fc3f06faf0",
+      "title": "#347.exe - Vibe Coding: Coder, c'est valider : prototyper, jeter, recommencer par Sébastien Deleuze",
+      "description": "Pour l'épisode #347 je recevais Pierre Lemaire. On en débrief avec Sébastien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-347-29a62fb9d59b",
+      "pubDate": "2026-08-28T03:00:15.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/c1df776a-ff5f-4a46-98be-29a62fb9d59b.mp3?_=1787832075",
+      "duration": "16:27"
+    },
+    {
       "id": "c375e95c0410",
       "title": "Migrating from Webpack Encore to Vite with Reprise",
       "description": "We maintain a high-traffic project for one of our clients: 5 websites served by a single Symfony application, 800 Twig templates, and a React + Tailwind front end that has been built by Webpack Encore for years. A front-end build that was starting to weigh on us: over a minute of Webpack, a…",
