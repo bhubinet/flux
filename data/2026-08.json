@@ -2,6 +2,21 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "ce2f925a4546",
+      "title": "Filtrer une collection Doctrine",
+      "description": "Quand on doit filtrer une collection Doctrine, le premier réflexe est d’utiliser la méthode filter(). Simple et pratique, le code est plus court et lisible qu’une boucle traditionnelle. #[ORM\\Entity] class Project { #[ORM\\OneToMany(targetEntity: Task::class)] private Collection $tasks; public…",
+      "link": "https://www.jdecool.fr/blog/2026/08/29/filtrer-une-collection-doctrine.html",
+      "pubDate": "2026-08-28T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "52fc3f06faf0",
       "title": "#347.exe - Vibe Coding: Coder, c'est valider : prototyper, jeter, recommencer par Sébastien Deleuze",
       "description": "Pour l'épisode #347 je recevais Pierre Lemaire. On en débrief avec Sébastien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
