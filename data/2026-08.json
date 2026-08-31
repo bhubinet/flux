@@ -2,6 +2,87 @@
   "month": "2026-08",
   "articles": [
     {
+      "id": "cf663f86c151",
+      "title": "AI-SDLC d'Anthropic : notre analyse",
+      "description": "Du code à la méthode : Anthropic dévoile sa vision du génie logiciel sous IA à travers un guide en six étapes et ses propres configurations en clair. Ce qui est intéressant c'est qu'on sort de la documentation classique fonctionnelle d'un produit pour remonter sur le process. Analyse pas à pas d'un…",
+      "link": "https://www.media.thiga.co/ai-sdlc-anthropic-analyse",
+      "pubDate": "2026-08-31T09:39:31.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/6a8858c2eccce183e7553cf2_53b010df.png",
+      "type": "blog"
+    },
+    {
+      "id": "f625d7c3ff49",
+      "title": "Le Starter Pack du Software Engineer pour la certification AWS Developer Associate",
+      "description": "Quelques conseils pour passer la certification AWS Developer Associate DVA-C02",
+      "link": "https://blog.ippon.fr/2026/08/31/le-starter-pack-du-software-engineer-pour-la-certification-aws-developer-associate/",
+      "pubDate": "2026-08-31T07:22:49.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/07/image-article-aws-2.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d95c471bf60e",
+      "title": "Lean, GenAI et Delivery Tech - Entretien Sylvain Fagnent : Le Lean est au coeur du sujet du Harness Engineering ",
+      "description": "Sylvain Fagnent est un des experts les plus avancés sur les sujets du Low Code / No Code et de la Gen AI chez OCTO Technology. Il a rédigé de nombreux articles sur notre blog et il nous semblait naturellement un candidat idéal pour réfléchir aux intersections entre la pensée Lean et l’avènement de…",
+      "link": "https://blog.octo.com/lean-genai-et-delivery-tech-entretien-sylvain-fagnent--le-lean-est-au-coeur-du-sujet-du-harness-engineering",
+      "pubDate": "2026-08-31T06:43:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "54a7bcb34778",
+      "title": "Un guide non interactif du Spanning Tree Protocol",
+      "description": "Imaginez que vous louiez des bureaux pour un événement de trois jours. Vous installez à la hâte quelques commutateurs Ethernet et scotchez des câbles au sol pour connecter tout le monde. Malheureusement, Gaston, votre collègue le plus maladroit, trébuche sur un câble à chaque fois qu’il se lève…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-spanning-tree-video",
+      "pubDate": "2026-08-30T20:54:32.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "db0c63c54598",
+      "title": "Le piège de la transparence par défaut sur Bluesky et le protocole ATProto",
+      "description": "PDS public, likes visibles, métadonnées exposées : sur Bluesky, tout se croise. Attention, la transparence a un prix.",
+      "link": "https://eventuallycoding.com/p/le-piege-de-la-transparence-par-defaut-sur-bluesky-et-le-protocole-atproto",
+      "pubDate": "2026-08-29T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1788014460629-ykk6had.png?width=400",
+      "type": "blog"
+    },
+    {
       "id": "ce2f925a4546",
       "title": "Filtrer une collection Doctrine",
       "description": "Quand on doit filtrer une collection Doctrine, le premier réflexe est d’utiliser la méthode filter(). Simple et pratique, le code est plus court et lisible qu’une boucle traditionnelle. #[ORM\\Entity] class Project { #[ORM\\OneToMany(targetEntity: Task::class)] private Collection $tasks; public…",
