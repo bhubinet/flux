@@ -2,6 +2,39 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "1d4eecc1397d",
+      "title": "Organiser une équipe de développement à l’ère de l’IA - Part II.2",
+      "description": "Le Domain-Driven Design structure le domaine métier en identifiant ses concepts, son langage ubiquitaire et les responsabilités qui organisent le système. Mais un logiciel ne se contente pas de représenter le métier : il en exprime aussi les comportements.",
+      "link": "https://blog.octo.com/organiser-une-equipe-de-developpement-a-l'ere-de-l'ia-part-ii.2",
+      "pubDate": "2026-09-02T08:41:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a8f172498951",
+      "title": "Designers B2E : comprendre les experts métiers",
+      "description": "Concevoir sur des outils métiers complexes sans connaître le domaine, c'est une situation courante pour les designers en mission. Par où commencer ? Comment comprendre ce que les experts font vraiment ? Quand et comment les impliquer dans la conception ? Voici les méthodes que j'ai développées au…",
+      "link": "https://www.media.thiga.co/rendez-vous-en-terre-inconnue-les-designers-b2e-la-rencontre-des-experts-metiers",
+      "pubDate": "2026-09-02T08:16:28.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/shutterstock_2514740607.jpg",
+      "type": "blog"
+    },
+    {
       "id": "224197d7ec93",
       "title": "Comment héberger un LLM (partie 2)",
       "description": "Suite et fin de notre série sur l'auto-hébergement d'un LLM. Au programme : le KV cache et le mécanisme d'attention, le scaling multi-GPU avec KServe et Kubernetes, la quantification, PagedAttention, le KV offloading, et des benchmarks vLLM chiffrés.",
@@ -80,6 +113,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/de97bbbd-d6a1-4fa8-ac91-1de47b6f557f.mp3?_=1788264093",
       "duration": "01:08:27"
+    },
+    {
+      "id": "15806e25c9c7",
+      "title": "L'IA déplace les frontières de chaque métier",
+      "description": "J’aborde régulièrement l’IA sous l’angle du développeur et du bouleversement que cela représente dans notre métier. Mais nous ne sommes pas les seuls concernés. C’est l’ensemble des métiers du logiciel qui évolue. Puisque l’écriture du code occupe moins de place, les développeurs se recentrent sur…",
+      "link": "https://www.jdecool.fr/blog/2026/09/02/l-ia-deplace-les-frontieres-de-chaque-metier.html",
+      "pubDate": "2026-09-01T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "d02371777dd6",
