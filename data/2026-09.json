@@ -2,6 +2,72 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "3548b7321fbf",
+      "title": "#348.exe - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS par Gabriel de Marmiesse",
+      "description": "Pour l'épisode #348 je recevais Jean-Christophe Leducq. On en débrief avec Gabriel. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-348-ab8dcdda8a8c",
+      "pubDate": "2026-09-04T03:00:57.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/588e6cc9-b401-41a0-93c3-ab8dcdda8a8c.mp3?_=1788436857",
+      "duration": "12:22"
+    },
+    {
+      "id": "7b2af67ddbf6",
+      "title": "Il a trouvé une faille sur Grafikart.fr !",
+      "description": "🔗 Article : https://grafikart.fr/blog/faille-xss-grafikart Récemment, une vulnérabilité critique m'a été signalée sur Grafikart. Le problème permettait, dans certaines conditions, de prendre le contrôle d'un compte sur le site en faisant cliquer l'utilisateur sur un lien. Plutôt que de corriger…",
+      "link": "https://www.youtube.com/watch?v=k4KhK3hfbrc",
+      "pubDate": "2026-09-03T13:00:38.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/k4KhK3hfbrc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "k4KhK3hfbrc"
+    },
+    {
+      "id": "3dd17d7cef32",
+      "title": "Pourquoi s’engageraient-ils ?",
+      "description": "Quel futur proposez-vous à ceux qui vous entourent ? Savent-ils se projeter à trois ou cinq ans dans leur poste ou un autre ? Ou bien se disent-ils « on […] Cet article Pourquoi s’engageraient-ils ? est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/pourquoi-sengageraient-ils/",
+      "pubDate": "2026-09-03T08:41:50.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/09/2026-2027.png",
+      "type": "blog"
+    },
+    {
+      "id": "ca8cf68d5661",
+      "title": "News Septembre 2026 RC1, OpenAI coupe Cursor, Omarchy, HTMX 4 et Bun 1.4",
+      "description": "Nous évoquons OpenAI qui coupe l'accès à ses modèles pour Cursor après le rachat par SpaceX, la sortie de HTMX 4.0 et de Bun 1.4, Lovable qui quitte Next.js pour TanStack Start, Vercel qui collabore avec TanStack, TypePHP qui compile du PHP en binaire natif, Zed qui retire l'edit prediction du plan…",
+      "link": "https://double-slash.dev/podcasts/news-sept26/",
+      "pubDate": "2026-09-03T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1788439787/episode/ART_138_kwbvlq.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_138_news-sept26.mp3",
+      "duration": "3973"
+    },
+    {
       "id": "1d4eecc1397d",
       "title": "Organiser une équipe de développement à l’ère de l’IA - Part II.2",
       "description": "Le Domain-Driven Design structure le domaine métier en identifiant ses concepts, son langage ubiquitaire et les responsabilités qui organisent le système. Mais un logiciel ne se contente pas de représenter le métier : il en exprime aussi les comportements.",
