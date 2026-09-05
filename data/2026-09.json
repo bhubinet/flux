@@ -2,6 +2,41 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "518af6a0a98b",
+      "title": "Glossaire IA : Comprendre l’intelligence artificielle, un mot à la fois",
+      "description": "Un glossaire IA pour comprendre simplement les termes clés de l’intelligence artificielle, des LLM aux agents en passant par le RAG.",
+      "link": "https://blog.octo.com/octo-glossaire-ia--comprendre-l'intelligence-artificielle-un-mot-a-la-fois-1",
+      "pubDate": "2026-09-04T12:57:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d091d825794",
+      "title": "Fast Forward Merge: Advantages, Limits, and Best Practices",
+      "description": "In a team environment, where multiple developers work on the same codebase, branching and merging are part of everyday life.",
+      "link": "https://blog.zenika.com/2026/09/04/fast-forward-merge-advantages-limits-and-best-practices/",
+      "pubDate": "2026-09-04T12:39:51.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2025/07/Capture-decran-2025-07-03-a-16.41.03.png?resize=800%2C267&#038;ssl=1",
+      "type": "blog"
+    },
+    {
       "id": "3548b7321fbf",
       "title": "#348.exe - Digital Substrate: Au-delà du framework : quand l'infrastructure devient un Data OS par Gabriel de Marmiesse",
       "description": "Pour l'épisode #348 je recevais Jean-Christophe Leducq. On en débrief avec Gabriel. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et…",
