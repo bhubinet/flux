@@ -2,6 +2,57 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "09108ae3b2e4",
+      "title": "Souveraineté : de l’IA agentique qui garde vos données en Europe",
+      "description": "Face à une actualité internationale qui nous pousse à réduire nos dépendances technologiques vis-à-vis des acteurs américains (infrastructure comme IA), on peut construire un agent IA pleinement opérationnel 100 % hébergé et exécuté en Europe. Notre assistant de conférence tourne sur une stack open…",
+      "link": "https://les-tilleuls.coop/blog/souverainete-de-lia-agentique-qui-garde-vos-donnees-en-europe",
+      "pubDate": "2026-09-07T13:06:01.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-III-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "3173fe2dc6a1",
+      "title": "Transformer une API en boîte à outils pour agents : l’architecture de notre assistant de conférence",
+      "description": "La première partie de ce retour d’expérience expliquait le choix d’architecture : construire un serveur MCP plutôt qu’un chatbot isolé, pour que le service soit accessible à n’importe quel agent IA, l’interface de chat devenant simplement son premier client. Cet article rentre dans le détail…",
+      "link": "https://les-tilleuls.coop/blog/transformer-une-api-en-boite-a-outils-pour-agents-larchitecture-de-notre-assistant-de-conference",
+      "pubDate": "2026-09-07T13:04:48.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-II-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "f33b5a6a5176",
+      "title": "Comment nous avons créé un assistant IA pour l’API Platform Conference 2026",
+      "description": "Trouver le talk qui correspond à vos objectifs, savoir qui va briller sur la scène FrankenPHP, caler votre agenda… La billetterie de l’API Platform Conference 2026 ferme dans quelques jours, et on a voulu vous accompagner jusqu’au bout avec un nouvel outil : un assistant IA avec qui échanger…",
+      "link": "https://les-tilleuls.coop/blog/comment-nous-avons-cree-un-assistant-ia-pour-lapi-platform-conference-2026",
+      "pubDate": "2026-09-07T13:03:32.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/09/mcp-api-con-I-1024x569.webp",
+      "type": "blog"
+    },
+    {
       "id": "6ba4ceef27a8",
       "title": "Null : l'erreur à un milliard qui hante encore Java",
       "description": "Retour sur l'invention de la référence nulle par Tony Hoare en 1965 : pourquoi le NullPointerException persiste en Java, les limites d'Optional, et les alternatives (JSpecify, Vavr, Kotlin).",
@@ -51,6 +102,22 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/8a6f4b52-f2ec-4691-9d9f-8efdcfb1b423.mp3?_=1788696040",
       "duration": "51:16"
+    },
+    {
+      "id": "1d58f708d342",
+      "title": "Mon site sur AT Proto avec standard.site",
+      "description": "Je continue mon exploration d’AT Protocol. Après avoir joué avec Tangled, cette fois, j’ai essayé d’intégrer mon site sur AT Protocol avec standard.site. Ça s’est plutôt révélé facile de mon côté, je vous explique tout ça.",
+      "link": "https://codeka.io/2026/09/07/mon-site-sur-at-proto-avec-standard-site/",
+      "pubDate": "2026-09-07T00:00:00.000Z",
+      "source": "Codeka (Julien Wittouck)",
+      "sourceUrl": "https://codeka.io/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "Cloud"
+      ],
+      "image": "https://codeka.io/2026/09/07/mon-site-sur-at-proto-avec-standard-site/cover_hu_aa246b4abc5b86fd.webp",
+      "type": "blog"
     },
     {
       "id": "518af6a0a98b",
