@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "feb7c9204333",
+      "title": "Introducing beberlei/metrics v3.0.0",
+      "description": "Since 2012, beberlei/metrics has been doing one small job well: giving PHP applications a single, consistent API to send metrics (counters, timings, gauges...) without tying the calling code to a specific backend. Swap StatsD for Prometheus, or send to both at once, and the instrumented code never…",
+      "link": "https://jolicode.com/blog/introducing-beberlei-metrics-v3-0-0",
+      "pubDate": "2026-09-09T11:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/metrics/home.png",
+      "type": "blog"
+    },
+    {
       "id": "946af9bac8d8",
       "title": "Peut-on coder à 0 $ ? Mon retour d'expérience sans concession entre IA Cloud et IA locale",
       "description": "Un développeur Ippon a testé pendant 3 semaines le développement à 0$ : IA locale (Ollama, Qwen3) contre IA Cloud (Gemini, Claude) sur un vrai projet Flutter de 130 000 lignes. Résultat : chiffres, galères techniques et recommandations concrètes.",
@@ -35,6 +50,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/b870889b-aa8c-49d7-800b-513245d92e8d.mp3?_=1788868865",
       "duration": "59:03"
+    },
+    {
+      "id": "238ef2515364",
+      "title": "Migration de Github vers une alternative européenne",
+      "description": "Parmi les briques de bases importantes pour construire du logiciel et qui sont monopolisées par les US, je vous présente : Github (Microsoft).",
+      "link": "https://eventuallycoding.com/p/migration-de-github-vers-une-alternative-europeenne",
+      "pubDate": "2026-09-09T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1788967051506-3wnst4z.jpg",
+      "type": "blog"
     },
     {
       "id": "08f50bc60bc8",
