@@ -2,6 +2,89 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "081dff56bd10",
+      "title": "Mon dernier livre : La sommation technologique",
+      "description": "La sommation technologique – au temps des catastrophes (La Fabrique), mon dernier livre, est désormais en librairie. 199 pages : j’ai fait un effort pour aller droit au but. Hasard du calendrier, le 11 septembre : jour funeste où la question Mon dernier livre : La sommation technologique first…",
+      "link": "https://maisouvaleweb.fr/mon-dernier-livre-la-sommation-technologique/",
+      "pubDate": "2026-09-11T07:12:27.000Z",
+      "source": "Mais où va le Web",
+      "sourceUrl": "https://maisouvaleweb.fr/feed/",
+      "categories": [
+        "IA",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a342cac7479c",
+      "title": "#313.exe - Open Source: Mettre le dev en musique par Bastien Albertus",
+      "description": "Pour l'épisode #313 je recevais Fabien Potencier. On en débrief avec Bastien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-313-4988b48436dc",
+      "pubDate": "2026-09-11T03:00:45.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/7eea3368-8c27-45d2-8caa-4988b48436dc.mp3?_=1789041645",
+      "duration": "30:09"
+    },
+    {
+      "id": "ad8416d7495d",
+      "title": "BunJS, l'environement JS ultime ?",
+      "description": "Bun est un toolkit tout-en-un pour JavaScript et TypeScript: runtime, gestionnaire de paquets, test runner et bundler, dans un seul exécutable. Créé par Jarred Sumner, présenté publiquement en juillet 2022 puis stable avec la 1.0 de septembre 2023, il se pose en alternative plus rapide à Node.js.…",
+      "link": "https://double-slash.dev/podcasts/bun/",
+      "pubDate": "2026-09-11T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1789110154/episode/ART_139_szimen.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_139_bun.mp3",
+      "duration": "3768"
+    },
+    {
+      "id": "c87549e5c685",
+      "title": "CR talk : Éloge du compromis",
+      "description": "Ce talk revient sur le rôle du designer dans la transformation des organisations, à travers l'idée du compromis : pas une compromission, mais un engagement noble qui consiste à proposer une troisième voie là où deux camps s'opposent.",
+      "link": "https://blog.octo.com/octo-article-de-blog-25",
+      "pubDate": "2026-09-10T14:21:54.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "18a79eb4e9ce",
+      "title": "Le mythe du side project obligatoire",
+      "description": "Il y a un mythe fortement ancré dans la tête des développeurs, sur l’importance d’avoir des side projects. Cassons-le immédiatement. Non, il n’est pas obligatoire d’avoir un side project pour être un bon développeur. C’est une injonction que j’entends régulièrement: avoir un profil Github vide…",
+      "link": "https://www.jdecool.fr/blog/2026/09/10/le-mythe-du-side-project-obligatoire.html",
+      "pubDate": "2026-09-09T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "feb7c9204333",
       "title": "Introducing beberlei/metrics v3.0.0",
       "description": "Since 2012, beberlei/metrics has been doing one small job well: giving PHP applications a single, consistent API to send metrics (counters, timings, gauges...) without tying the calling code to a specific backend. Swap StatsD for Prometheus, or send to both at once, and the instrumented code never…",
