@@ -17,6 +17,23 @@
       "type": "blog"
     },
     {
+      "id": "3374c243bf42",
+      "title": "La seconde vie de votre patrimoine applicatif",
+      "description": "Comment réduire réellement la dette technique de votre SI en migrant sur AWS, grâce à la méthode Ippon qui combine le programme AWS MAP et les agents IA de AWS Transform, sans dépendance à un outillage propriétaire.",
+      "link": "https://blog.ippon.fr/2026/09/11/migration-aws-ia-agentique-dette-technique/",
+      "pubDate": "2026-09-11T06:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/Gemini_Generated_Image_qxllbcqxllbcqxll-1.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "a342cac7479c",
       "title": "#313.exe - Open Source: Mettre le dev en musique par Bastien Albertus",
       "description": "Pour l'épisode #313 je recevais Fabien Potencier. On en débrief avec Bastien. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
