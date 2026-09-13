@@ -2,6 +2,23 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "c9299e509788",
+      "title": "Symfony LSP en ligne de commande : ce que PHPStan ne verra jamais",
+      "description": "PHPStan en niveau max, extension Symfony activée, conteneur compilé sous les yeux : aucune erreur sur une application pourtant cassée en huit points. Le serveur LSP officiel de Symfony les trouve tous, sans éditeur, en une seconde. Tutoriel pas à pas avec dépôt de démonstration.",
+      "link": "https://yoandev.co/symfony-lsp-ligne-de-commande",
+      "pubDate": "2026-09-12T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-lsp-ligne-de-commande.webp",
+      "type": "blog"
+    },
+    {
       "id": "081dff56bd10",
       "title": "Mon dernier livre : La sommation technologique",
       "description": "La sommation technologique – au temps des catastrophes (La Fabrique), mon dernier livre, est désormais en librairie. 199 pages : j’ai fait un effort pour aller droit au but. Hasard du calendrier, le 11 septembre : jour funeste où la question Mon dernier livre : La sommation technologique first…",
