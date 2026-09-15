@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "a3e0de4513d6",
+      "title": "Liens Tech - Septembre 2026",
+      "description": "Ce mois-ci : un enregistreur d'écran dans le navigateur, un tracker d'inventaire domestique, un outil de diapos en markdown, une plateforme d'observabilité et un convertisseur de fichiers universel, avec un documentaire sur la cybersurveillance et des formations Anthropic sur l'IA en bonus.",
+      "link": "https://domopi.eu/liens-tech-septembre-2026/",
+      "pubDate": "2026-09-15T05:45:02.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
       "id": "319776abe351",
       "title": "Sécuriser ses agents IA : guide de défense en profondeur pour vos systèmes de production",
       "description": "Injection de prompt, exfiltration de system prompt, smuggling Unicode... Vos agents IA sont exposés à des multitudes d'attaques. Découvrez une architecture de défense en profondeur pour sécuriser vos systèmes agentiques : filtres déterministes, LLM-as-a-judge, guardrails, etc.",
