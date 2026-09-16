@@ -2,6 +2,42 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "21d64f41a236",
+      "title": "#376.src - AIgile : L'IA va-t-elle tuer le Scrum Master ? avec Salim Gomri",
+      "description": "\"L'IA propose, l'humain décide.\" Le D.E.V. de la semaine est Salim Gomri, coach agile et coach professionnel d'organisation certifié. Fort de 23 ans d'expérience, il est aussi l'auteur du Système S.A.L.I.M. (Scrum Augmenté Livré Incrémental & Mesurable), un framework sur Scrum Augmenté disponible…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-376-e709b18ac401",
+      "pubDate": "2026-09-16T03:00:50.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/d840392b-9559-4361-903f-f4b3ba4bdf88.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/6c9ac4af-668b-4466-9319-e709b18ac401.mp3?_=1789473650",
+      "duration": "01:07:50"
+    },
+    {
+      "id": "c6af0e57d10f",
+      "title": "Le Context Engineering pour les Product people ",
+      "description": "Le context engineering vous connaissez ? Il nous concerne tous, découvrez en quoi il consiste, pourquoi il est important d'y prêter attention et les leviers pour le mettre en pratique en tant que product people.",
+      "link": "https://blog.octo.com/le-context-engineering-pour-les-product-people",
+      "pubDate": "2026-09-15T16:39:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "a3e0de4513d6",
       "title": "Liens Tech - Septembre 2026",
       "description": "Ce mois-ci : un enregistreur d'écran dans le navigateur, un tracker d'inventaire domestique, un outil de diapos en markdown, une plateforme d'observabilité et un convertisseur de fichiers universel, avec un documentaire sur la cybersurveillance et des formations Anthropic sur l'IA en bonus.",
@@ -14,6 +50,21 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2df56b025a73",
+      "title": "Un ralentissement du développement de l'IA ?",
+      "description": "Coup de théâtre, plusieurs acteurs de l’IA demandent un ralentissement sur le développement des modèles frontières et la mise en place d’une régulation. Les progrès de l’IA seraient trop rapides et pourraient poser de sérieux problèmes à l’avenir.",
+      "link": "https://eventuallycoding.com/p/un-ralentissement-du-developpement-de-l-ia",
+      "pubDate": "2026-09-15T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1789479275601-4salxv9.png",
       "type": "blog"
     },
     {
