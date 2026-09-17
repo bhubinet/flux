@@ -891,6 +891,21 @@
       "type": "blog"
     },
     {
+      "id": "fba99740edd8",
+      "title": "L’équilibre charge-capacité : basique ? Oui mais…",
+      "description": "Comment l’équilibre charge-capacité peut devenir un vrai avantage compétitif ! C’est l’été. Nous venons de le vivre, la récente vague de chaleur a provoqué un afflux massif de patients dans […] Cet article L’équilibre charge-capacité : basique ? Oui mais… est apparu en premier sur Institut Lean…",
+      "link": "https://institut-lean-france.local/lequilibre-charge-capacite-basique-oui-mais/",
+      "pubDate": "2026-07-13T10:04:24.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://institut-lean-france.local/medias/2026/07/charge-capacte.png",
+      "type": "blog"
+    },
+    {
       "id": "33927d9db05a",
       "title": "Cyber Resilience Act : mainteneur, steward ou simple passant ?",
       "description": "Le 11 septembre 2026, les obligations de signalement du CRA s'activent. Fabricant, steward ou hors champ : ce qui tombe (ou pas) sur un dev PHP.",
@@ -1231,6 +1246,21 @@
         "IA"
       ],
       "image": "https://www.institut-lean-france.fr/medias/2026/07/espoir.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "a9efe9e07508",
+      "title": "Se préparer, c’est déjà espérer",
+      "description": "Juin 2026 restera comme l’un des épisodes caniculaires les plus sévères jamais enregistrés en France. Les premiers bilans sanitaires, encore provisoires, montrent que le nombre de malaises dus à la […] Cet article Se préparer, c’est déjà espérer est apparu en premier sur Institut Lean France.",
+      "link": "https://institut-lean-france.local/se-preparer-cest-deja-esperer/",
+      "pubDate": "2026-07-06T08:31:36.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://institut-lean-france.local/medias/2026/07/espoir.jpg",
       "type": "blog"
     },
     {

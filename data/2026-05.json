@@ -314,6 +314,21 @@
       "type": "blog"
     },
     {
+      "id": "302c2888121f",
+      "title": "Refus d’apprendre !",
+      "description": "Le Lean ne se heurte pas à la résistance. Il se heurte au refus d’apprendre. Quand une transformation Lean cale, on parle presque toujours de « résistance au changement ». […] Cet article Refus d’apprendre ! est apparu en premier sur Institut Lean France.",
+      "link": "https://institut-lean-france.local/refus-dapprendre/",
+      "pubDate": "2026-05-26T08:53:22.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://institut-lean-france.local/medias/2026/05/Refus-d-apprendre.jpg",
+      "type": "blog"
+    },
+    {
       "id": "750a09d1b5e5",
       "title": "L'Event-Driven Architecture chez Octo : épisode 1, le pourquoi",
       "description": "Un legacy de 13 ans à bichonner, une vingtaine d'applis à faire causer entre elles, et des SaaS externes à intégrer toujours plus vite. Pour sortir de la spaghetti d'APIs, on a misé sur l'Event-Driven Architecture. Premier article d'une série : on pose les bases, et on raconte comment ça nous a…",
@@ -686,6 +701,21 @@
         "IA"
       ],
       "image": "https://www.institut-lean-france.fr/medias/2026/05/karakuri-kaizen.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "9b37e1882b1a",
+      "title": "Le chemin que l’industrie mondiale n’ose pas emprunter…",
+      "description": "… et qui est l’essence même du TPS ! Pour les chanceux qui ont pu voyager au Japon, visiter des usines du groupe Toyota ou assister à une conférence d’un […] Cet article Le chemin que l’industrie mondiale n’ose pas emprunter… est apparu en premier sur Institut Lean France.",
+      "link": "https://institut-lean-france.local/le-chemin-que-lindustrie-mondiale-nose-pas-emprunter/",
+      "pubDate": "2026-05-18T15:40:40.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://institut-lean-france.local/medias/2026/05/karakuri-kaizen.jpg",
       "type": "blog"
     },
     {

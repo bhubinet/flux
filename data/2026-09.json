@@ -2,6 +2,72 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "97016b27e775",
+      "title": "Retours vers la Transfo, saison 1 : 3 histoires qui n'ont pas suivi le plan",
+      "description": "and quot;Retours vers la Transfo and quot; est une série de récits venus du terrain, racontés par celles et ceux qui les ont vécus : le changement ne vient pas d'un plan figé ou d'un modèle sur étagère, il germe de l'intérieur, dans les conversations et les expérimentations. Bilan de la saison 1 :…",
+      "link": "https://blog.octo.com/retours-vers-la-transfo-saison-1--3-histoires-qui-n'ont-pas-suivi-le-plan",
+      "pubDate": "2026-09-17T04:52:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "3ca54b1227d4",
+      "title": "Se former fait partie du travail",
+      "description": "Dans la lignée de ma publication précédente sur les side projects, il existe une autre injonction qui poursuit les développeurs: la veille technique. Et non, elle ne devrait pas reposer sur le temps personnel. C’est pourtant une attente implicite dans beaucoup d’équipes. Le développeur “passionné”,…",
+      "link": "https://www.jdecool.fr/blog/2026/09/17/se-former-fait-partie-du-travail.html",
+      "pubDate": "2026-09-16T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0c1a76f47de9",
+      "title": "Forward-Deployed Product Manager : (presque) rien de nouveau",
+      "description": "Dans le sillage des Forward Deployed Engineers, que les labos d'IA et les hyperscalers recrutent par milliers, le titre de Forward-Deployed Product Manager débarque côté Produit avec la promesse de résoudre les problèmes chez le client, dans son environnement, avec ses données. N'importe quel PM…",
+      "link": "https://www.media.thiga.co/forward-deployed-product-manager-presque-rien-de-nouveau",
+      "pubDate": "2026-09-16T17:24:23.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Image%20from%20iOS.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f9d7efd7bedf",
+      "title": "Prioriser par la valeur, ou comment devenir un mini-entrepreneur",
+      "description": "and quot;Prioriser par la valeur and quot; est devenu un mantra agile : la promesse de rendre enfin rationnels des choix trop souvent arbitraires. Mais cette évidence cache un vrai casse-tête, pour de nombreuses raisons. Le coût du délai (Cost of Delay) offre un cadre pour avancer malgré tout.",
+      "link": "https://blog.octo.com/prioriser-par-la-valeur-ou-comment-devenir-un-mini-entrepreneur",
+      "pubDate": "2026-09-16T17:12:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "21d64f41a236",
       "title": "#376.src - AIgile : L'IA va-t-elle tuer le Scrum Master ? avec Salim Gomri",
       "description": "\"L'IA propose, l'humain décide.\" Le D.E.V. de la semaine est Salim Gomri, coach agile et coach professionnel d'organisation certifié. Fort de 23 ans d'expérience, il est aussi l'auteur du Système S.A.L.I.M. (Scrum Augmenté Livré Incrémental & Mesurable), un framework sur Scrum Augmenté disponible…",
@@ -18,6 +84,39 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/6c9ac4af-668b-4466-9319-e709b18ac401.mp3?_=1789473650",
       "duration": "01:07:50"
+    },
+    {
+      "id": "78629cd8d5f1",
+      "title": "N+1 GraphQL dans NestJS : le détecter et le corriger avec NestJS Profiler",
+      "description": "Une query GraphQL NestJS peut cacher un N+1 : 10 allers-retours SQL, MongoDB et HTTP pour 4 produits. Détectez-le avec NestJS Profiler, corrigez-le avec DataLoader et vérifiez le gain.",
+      "link": "https://blog.eleven-labs.com/fr/diagnostiquer-n-plus-un-graphql-nestjs-profiler/",
+      "pubDate": "2026-09-16T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "dfd457ffc190",
+      "title": "News septembre 2026 RC2, Tailwind rejoint Shopify, des tokens gratuits et Homebrew UI",
+      "description": "Nous évoquons Tailwind Labs qui rejoint Shopify, Homebrew 7 avec son app native macOS, Omarchy M sur Apple Silicon, le CSS @scope, Is your site agent ready, le débat petit modèle vs énorme modèle avec Desert Ant, et quelques outils comme 9Router, Modal, Docs7, Recorder Select ou PR Lens. Retrouvez…",
+      "link": "https://double-slash.dev/podcasts/news-sept26-rc2/",
+      "pubDate": "2026-09-16T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1789550110/episode/ART_140_h8gqbr.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_140_news-sept26-rc2.mp3",
+      "duration": "3215"
     },
     {
       "id": "c6af0e57d10f",
@@ -589,6 +688,21 @@
         "IA"
       ],
       "image": "https://www.institut-lean-france.fr/medias/2026/09/2026-2027.png",
+      "type": "blog"
+    },
+    {
+      "id": "1efc1a9fe318",
+      "title": "Pourquoi s’engageraient-ils ?",
+      "description": "Quel futur proposez-vous à ceux qui vous entourent ? Savent-ils se projeter à trois ou cinq ans dans leur poste ou un autre ? Ou bien se disent-ils « on […] Cet article Pourquoi s’engageraient-ils ? est apparu en premier sur Institut Lean France.",
+      "link": "https://institut-lean-france.local/pourquoi-sengageraient-ils/",
+      "pubDate": "2026-09-03T08:41:50.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://institut-lean-france.local/medias/2026/09/2026-2027.png",
       "type": "blog"
     },
     {
