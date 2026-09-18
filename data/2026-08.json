@@ -146,6 +146,22 @@
       "type": "blog"
     },
     {
+      "id": "c6ee13623b41",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 3 : le stockage de la mémoire",
+      "description": "All those moments will be lost in time, like tears in rain. ©Roy Batty",
+      "link": "https://philippart-s.github.io/blog/2026-08-27-java-and-ai-part3/",
+      "pubDate": "2026-08-27T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "199fe31e9e5a",
       "title": "La seule règle qu'une IA respecte vraiment, c'est une erreur ESLint",
       "description": "Lâcher une IA dans votre projet sans le voir se dégrader : le dispositif complet.",
