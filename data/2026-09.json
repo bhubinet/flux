@@ -2,6 +2,22 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "6e504bcedd8b",
+      "title": "Des statistiques sans robots avec GoatCounter auto-hébergé sur NixOS",
+      "description": "En 2016, j’ai de ce blog pour ne pas me rendre complice de la plus grande machine à aspirer les données personnelles. À la place, j’analysais les journaux de mes serveurs avec . Depuis quelques années, les statistiques ne veulent plus rien dire, malgré mes tentatives pour filtrer les robots :…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-goatcounter",
+      "pubDate": "2026-09-20T19:44:50.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": "https://d2pzklc15kok91.cloudfront.net/images/goatcounter@1x.66acd322278cc7.png",
+      "type": "blog"
+    },
+    {
       "id": "8a19d15cee30",
       "title": "Homebrew, Docker, nvm, worktrees : une seule commande pour tout nettoyer",
       "description": "Ma fonction Zsh update : topgrade, Homebrew, Docker, nvm et les worktrees Claude Code sous une seule commande, avec un bilan d'espace en Go.",
