@@ -2,6 +2,55 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "b30a8801c408",
+      "title": "[OCTO] Utiliser Claude sans coder",
+      "description": "Vous utilisez déjà l'IA, chacun à votre façon, donc l'idée n'est pas de vous réapprendre à écrire un prompt. Voici quelques apprentissages d’une formation en ligne “Anthropic Certificate Foundations” pour acquérir quelques réflexes pour sublimer votre utilisation de l’IA générative en 2026 :-)",
+      "link": "https://blog.octo.com/octo-utiliser-claude-sans-coder",
+      "pubDate": "2026-09-22T08:08:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9d0af6e17ee4",
+      "title": "Retrouvez-moi à Cloud Nord 2026 et au DevFest Toulouse !",
+      "description": "TL;DR : je serai speaker à Cloud Nord le 30 octobre pour un talk inédit sur Kubernetes tassé dans un Raspberry Pi Zero, et au DevFest Toulouse le 19 novembre pour présenter ma boîte à coucou des Guignols. De quoi finir l’année en beauté. Cloud Nord 2026 - Kubernetes dans 512 Mo de RAM, et un peu de…",
+      "link": "https://blog.zwindler.fr/2026/09/21/retrouvez-moi-cloud-nord-2026-devfest-toulouse/",
+      "pubDate": "2026-09-21T19:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/07/sketch.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5cbc4efb8efd",
+      "title": "From an ADE to an Orchestrator: Building PABLO",
+      "description": "My agents got faster. My brain did not. Where we left off In my previous article, I described my working environment: an Agent Development Environment, not an IDE with a chat panel bolted on, but a tool built around tasks, worktrees, and agents. I pick an issue, the ADE opens an isolated worktree…",
+      "link": "https://jolicode.com/blog/from-an-ade-to-an-orchestrator-building-pablo",
+      "pubDate": "2026-09-21T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/pablo-orchestrator/mermaid-diagram-2026-09-21-100259.png",
+      "type": "blog"
+    },
+    {
       "id": "6e504bcedd8b",
       "title": "Des statistiques sans robots avec GoatCounter auto-hébergé sur NixOS",
       "description": "En 2016, j’ai de ce blog pour ne pas me rendre complice de la plus grande machine à aspirer les données personnelles. À la place, j’analysais les journaux de mes serveurs avec . Depuis quelques années, les statistiques ne veulent plus rien dire, malgré mes tentatives pour filtrer les robots :…",
