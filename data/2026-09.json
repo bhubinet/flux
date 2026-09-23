@@ -2,6 +2,71 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "89c9d3c7e1f5",
+      "title": "Cybersécurité pour développeurs : 6 pièges qu'on voit chez nos clients",
+      "description": "En 2025, l'exploitation de vulnérabilités a dépassé le vol d'identifiants comme premier point d'entrée des brèches. Injection SQL, XSS, secrets en dur, dépendances vulnérables, race conditions, IDOR : 6 pièges vus en mission chez nos clients, le correctif, et quand déléguer à la cybersécurité.",
+      "link": "https://blog.ippon.fr/2026/09/23/cybersecurite-pour-developpeurs-6-pieges-quon-voit-chez-nos-clients/",
+      "pubDate": "2026-09-23T07:17:16.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/08/corporate_9.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "df342c0cce8f",
+      "title": "#377.src - DBT: Pourquoi dbt est devenu le standard (avec ses qualités et défauts) avec Jeremy Cohen",
+      "description": "\"C'est plus efficace pour une équipe d'utiliser l'outil standard qu'imaginer de recréer une solution parfaite\" Le D.E.V. de la semaine est Jérémy Cohen, Principal Product Manager chez dbt Labs. Avec plus de huit ans d'expérience chez dbt, Jérémy nous plonge dans l'évolution des pipelines data, de…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-377-8d0382d0be15",
+      "pubDate": "2026-09-23T03:00:34.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/f80c5f94-ab59-4983-8042-a93d10ee788d.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/495563fb-1354-4dfd-8b0f-8d0382d0be15.mp3?_=1790078494",
+      "duration": "52:07"
+    },
+    {
+      "id": "721535199223",
+      "title": "Castor 1.8: Windows, self-update, et des binaires vérifiables",
+      "description": "La dernière fois que nous avons parlé de Castor sur ce blog, c'était pour annoncer la sortie de la 1.0, en octobre 2025. Depuis, notre rongeur préféré a pris un rythme mensuel : une version mineure toutes les quatre à cinq semaines, avec à chaque fois quelques helpers et quelques correctifs,…",
+      "link": "https://jolicode.com/blog/castor-1-8-windows-self-update-et-des-binaires-verifiables",
+      "pubDate": "2026-09-22T08:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f7084f58eaf2",
+      "title": "Castor 1.8: Windows, self-update, and binaries you can verify",
+      "description": "The last time we talked about Castor on this blog was to announce the 1.0 release, in October 2025. Since then, our favorite rodent has settled into a monthly rhythm: a minor version every four to five weeks, with a few helpers and fixes each time, sometimes a deprecation to prepare 2.0. 1.8 breaks…",
+      "link": "https://jolicode.com/blog/castor-1-8-windows-self-update-and-binaries-you-can-verify",
+      "pubDate": "2026-09-22T08:41:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b30a8801c408",
       "title": "[OCTO] Utiliser Claude sans coder",
       "description": "Vous utilisez déjà l'IA, chacun à votre façon, donc l'idée n'est pas de vous réapprendre à écrire un prompt. Voici quelques apprentissages d’une formation en ligne “Anthropic Certificate Foundations” pour acquérir quelques réflexes pour sublimer votre utilisation de l’IA générative en 2026 :-)",
