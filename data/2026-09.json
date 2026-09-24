@@ -2,6 +2,37 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "fac00fb2259c",
+      "title": "Agents IA sur du code legacy : le guide brownfield",
+      "description": "Sur un produit existant, une partie des règles n'est écrite nulle part dans le code, et un agent IA ne peut pas la deviner. Les agents rendent pourtant la modernisation d'un code legacy moins chère à tenter, à condition de leur écrire ce que le code ne dit pas et de vérifier qu'ils n'ont rien…",
+      "link": "https://www.media.thiga.co/brownfield-agentic-engineering-faire-travailler-des-agents-ia-sur-du-code-legacy",
+      "pubDate": "2026-09-23T14:44:01.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/shutterstock_2760056607%20(1).jpg",
+      "type": "blog"
+    },
+    {
+      "id": "4904f67475b5",
+      "title": "Découverte des Container query en CSS",
+      "description": "🔗 Article : https://grafikart.fr/tutoriels/container-query-2353 Les media queries permettent d'adapter une interface à la taille de l'écran. C'est généralement suffisant, mais un composant peut aussi être placé dans une zone beaucoup plus étroite, comme une sidebar. Les container queries…",
+      "link": "https://www.youtube.com/watch?v=iVrmngkmCmU",
+      "pubDate": "2026-09-23T13:00:27.000Z",
+      "source": "Grafikart (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://i.ytimg.com/vi/iVrmngkmCmU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "iVrmngkmCmU"
+    },
+    {
       "id": "89c9d3c7e1f5",
       "title": "Cybersécurité pour développeurs : 6 pièges qu'on voit chez nos clients",
       "description": "En 2025, l'exploitation de vulnérabilités a dépassé le vol d'identifiants comme premier point d'entrée des brèches. Injection SQL, XSS, secrets en dur, dépendances vulnérables, race conditions, IDOR : 6 pièges vus en mission chez nos clients, le correctif, et quand déléguer à la cybersécurité.",
@@ -35,6 +66,38 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/495563fb-1354-4dfd-8b0f-8d0382d0be15.mp3?_=1790078494",
       "duration": "52:07"
+    },
+    {
+      "id": "6be2d3f85436",
+      "title": "On a rendu Double Slash 100 % Agent Ready, et voilà comment",
+      "description": "Votre site est-il prêt pour les agents IA ? On a tout implémenté sur le podcast, on explique pourquoi et comment. Retrouvez toutes les notes et les liens de l'épisode sur cette page : https://double-slash.dev/podcasts/agent-ready/",
+      "link": "https://double-slash.dev/podcasts/agent-ready/",
+      "pubDate": "2026-09-23T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1790161315/episode/ART_141_unbyjg.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_141_agent-ready.mp3",
+      "duration": "3115"
+    },
+    {
+      "id": "0905ecc3a3f2",
+      "title": "Utilisez le produit que vous construisez",
+      "description": "Il existe une pratique que j’apprécie particulièrement et qui reste pour moi le meilleur moyen de repérer les problèmes d’un produit, se nomme le “dog fooding”. Elle consiste à utiliser ses propres produits et services. C’est malheureusement une pratique que je vois trop peu utilisée. Et encore…",
+      "link": "https://www.jdecool.fr/blog/2026/09/23/utilisez-le-produit-que-vous-construisez.html",
+      "pubDate": "2026-09-22T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "721535199223",
