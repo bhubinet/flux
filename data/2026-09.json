@@ -2,6 +2,41 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "27f08fc22b3d",
+      "title": "Nantes Craft 2026",
+      "description": "Retour sur la 2e édition de Nantes Craft avec Ippon Technologies : découvrez notre résumé des conférences les plus captivantes de cette édition",
+      "link": "https://blog.ippon.fr/2026/09/25/nantes-craft-2026/",
+      "pubDate": "2026-09-25T08:24:09.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/PXL_20260910_133655569.MP.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "031102da6493",
+      "title": "#349.exe - Tech et Soft Skills: Pourquoi l'empathie fait la différence dans une équipe de dev ? par Salim Gomri",
+      "description": "Pour l'épisode #349 je recevais Sébastien Deleuze. On en débrief avec Salim. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-349-2f37f1e68483",
+      "pubDate": "2026-09-25T03:00:01.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/27d8368d-1a7d-4b00-ad17-2f37f1e68483.mp3?_=1790251261",
+      "duration": "15:37"
+    },
+    {
       "id": "fac00fb2259c",
       "title": "Agents IA sur du code legacy : le guide brownfield",
       "description": "Sur un produit existant, une partie des règles n'est écrite nulle part dans le code, et un agent IA ne peut pas la deviner. Les agents rendent pourtant la modernisation d'un code legacy moins chère à tenter, à condition de leur écrire ce que le code ne dit pas et de vérifier qu'ils n'ont rien…",
