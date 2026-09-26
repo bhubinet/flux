@@ -2,6 +2,21 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "e2a8a89a99f5",
+      "title": "D'un ADE à un orchestrator : la construction de PABLO",
+      "description": "Mes agents sont devenus plus rapides. Mon cerveau, non. Où nous en étions Dans mon article précédent, je décrivais mon environnement de travail : un Agent Development Environment, non pas un IDE avec un panneau de conversation greffé, mais un outil construit autour de tâches, de worktrees et…",
+      "link": "https://jolicode.com/blog/d-un-ade-a-un-orchestrator-la-construction-de-pablo",
+      "pubDate": "2026-09-25T09:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/pablo-orchestrator/mermaid-diagram-2026-09-21-100259.png",
+      "type": "blog"
+    },
+    {
       "id": "27f08fc22b3d",
       "title": "Nantes Craft 2026",
       "description": "Retour sur la 2e édition de Nantes Craft avec Ippon Technologies : découvrez notre résumé des conférences les plus captivantes de cette édition",
