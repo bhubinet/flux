@@ -2,6 +2,23 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "5f8c5260c555",
+      "title": "FrankenDeploy : votre application Symfony en production sur un VPS, en cinq commandes",
+      "description": "Docker, pare-feu, certificat HTTPS, mise en ligne sans coupure : l'essentiel de ce qui sépare « ça marche en local » de « c'est en ligne », FrankenDeploy s'en charge. Démonstration avec la Symfony Demo, d'un VPS nu jusqu'au HTTPS.",
+      "link": "https://yoandev.co/frankendeploy-deployer-symfony-vps",
+      "pubDate": "2026-09-26T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/frankendeploy-deployer-symfony-vps.webp",
+      "type": "blog"
+    },
+    {
       "id": "e2a8a89a99f5",
       "title": "D'un ADE à un orchestrator : la construction de PABLO",
       "description": "Mes agents sont devenus plus rapides. Mon cerveau, non. Où nous en étions Dans mon article précédent, je décrivais mon environnement de travail : un Agent Development Environment, non pas un IDE avec un panneau de conversation greffé, mais un outil construit autour de tâches, de worktrees et…",
