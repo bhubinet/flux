@@ -2,6 +2,76 @@
   "month": "2026-09",
   "articles": [
     {
+      "id": "29d1a4d80d89",
+      "title": "Ce que le numérique responsable doit à l'autonomie stratégique (et réciproquement)",
+      "description": "Numérique responsable et souveraineté numérique sont parfois traité séparément, alors qu'ils reposent sur une même logique décrite dans deux vocabulaires distincts. Tous deux refusent le même réflexe : faire payer ailleurs, ou plus tard, le prix de ce qu'on décide ici et maintenant. Et ces deux…",
+      "link": "https://blog.octo.com/ce-que-le-numerique-responsable-doit-a-l'autonomie-strategique-(et-reciproquement)",
+      "pubDate": "2026-09-30T09:01:32.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "e9491ff5e423",
+      "title": "Générer son UI avec l'IA : intégrer GenUI et Firebase AI Logic dans une app Flutter",
+      "description": "Et si l'interface de votre application n'était plus figée dans le code, mais générée à la volée par un modèle d'IA en fonction de la conversation avec l'utilisateur ? C'est la promesse de la generative UI (GenUI).",
+      "link": "https://blog.ippon.fr/2026/09/30/generer-son-ui-avec-lia-integrer-genui-et-firebase-ai-logic-dans-une-app-flutter/",
+      "pubDate": "2026-09-30T07:53:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/ChatGPT-Image-23-sept.-2026--15_37_47.png",
+      "type": "blog"
+    },
+    {
+      "id": "8b3e755e8302",
+      "title": "#378.ad - Renforcer la donnée: La donnée, grande oubliée du multicloud avec Christophe Francois",
+      "description": "\"Aujourd'hui, tout le monde s'enorgueillit de faire du cloud native, mais qui pense vraiment à construire sa sauvegarde et à restaurer ses données partout, et soit vraiment partout ?\" Le D.E.V. de la semaine est Christophe François, Directeur des ventes Europe du Sud chez Veeam, en charge de…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/-378-faec7756bbd7",
+      "pubDate": "2026-09-30T03:00:23.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/b1ae5438-5035-49c3-acc2-201f0df8da9e.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/44d3561f-a515-4e23-9ca1-faec7756bbd7.mp3?_=1790683283",
+      "duration": "51:07"
+    },
+    {
+      "id": "dbfa0667a0e3",
+      "title": "Mon second cerveau, pour moi et pour mes agents : Obsidian alimenté par Claude Code",
+      "description": "Je n'écris plus mes notes, je les dicte. Claude les range dans Obsidian, les retrouve dans n'importe quelle session, depuis mon téléphone comme depuis mon ordinateur. Retour sur un second cerveau alimenté par l'IA, sans usine à gaz.",
+      "link": "https://yoandev.co/second-cerveau-ia-obsidian-claude",
+      "pubDate": "2026-09-29T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/second-cerveau-ia-obsidian-claude.webp",
+      "type": "blog"
+    },
+    {
       "id": "b2a31e008f21",
       "title": "PMania 6/6 - Du prompt au produit : votre premier workflow IA de bout en bout",
       "description": "Cinq épisodes pour comprendre l'IA, un seul pour l'assembler. Des retours bruts jusqu'au sprint validé, en passant par la synthèse, les user stories et les tickets : voici le workflow complet, avec deux points d'arrêt humains bien placés, pour de vrai, de bout en bout.",
@@ -105,6 +175,22 @@
         "Cloud",
         "IA",
         "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "ae7d66e30a56",
+      "title": "Auto-unseal d'OpenBao avec le KMS d'OVHcloud",
+      "description": "Sceller la root key d'OpenBao avec une clé AES-256 qui ne quitte jamais le KMS d'OVHcloud, via le seal KMIP intégré",
+      "link": "https://une-tasse-de.cafe/expresso/openbao-unseal-ovh-kms/",
+      "pubDate": "2026-09-28T16:00:00.000Z",
+      "source": "Une Tasse de Café",
+      "sourceUrl": "https://une-tasse-de.cafe/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Cybersécurité"
       ],
       "image": null,
       "type": "blog"
