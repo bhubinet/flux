@@ -2,6 +2,56 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "826e64ddcef1",
+      "title": "L’investigation de la réalité sur le terrain est plus que jamais indispensable",
+      "description": "Michel Foucault, qui a beaucoup réfléchi au pouvoir et au savoir, bien avant internet, a démontré qu’ils s’impliquaient mutuellement : le pouvoir produit du savoir, et tout savoir renforce ou […] Cet article L’investigation de la réalité sur le terrain est plus que jamais indispensable est apparu…",
+      "link": "https://www.institut-lean-france.fr/linvestigation-de-la-realite-sur-le-terrain-est-plus-que-jamais-indispensable/",
+      "pubDate": "2026-10-02T08:28:20.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/10/gemba-scaled.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "f026138b797b",
+      "title": "#353.exe - IA et Java: Le nouvel âge d'or de Java par Quentin Pleplé",
+      "description": "Pour l'épisode #353 je recevais Julien Dubois. On en débrief avec Quentin. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/353-d33be92ee917",
+      "pubDate": "2026-10-02T03:00:36.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/dcc5cf50-f40b-4906-8f2e-d33be92ee917.mp3?_=1790856096",
+      "duration": "12:06"
+    },
+    {
+      "id": "21f8ea1aa15c",
+      "title": "Antigravity CLI, pilote et assistant de mon activité quotidienne dans GitLab",
+      "description": "🗓️ Mon quotidien avec GitLab Gérer mon activité professionnelle est un sujet de réflexion que j’ai depuis plusieurs années. J’y",
+      "link": "https://blog.zenika.com/2026/10/01/antigravity-cli-pilote-et-assistant-de-mon-activite-quotidienne-dans-gitlab/",
+      "pubDate": "2026-10-01T21:04:29.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f5d3.png",
+      "type": "blog"
+    },
+    {
       "id": "358b2a5a6747",
       "title": "Sortie d’API Platform 4.4 et 5.0 ",
       "description": "Les versions 4.4 et 5.0 d’API Platform ont été publiées en direct il y a quelques jours lors de l’API Platform Conference 2026 à Lille, à l’occasion du talk d’Antoine Bluchet « Are APIs still relevant in the AI era? » (dont vous pouvez retrouver les slides en ligne). La version originale de cet…",
