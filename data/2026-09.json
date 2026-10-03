@@ -274,6 +274,21 @@
       "type": "blog"
     },
     {
+      "id": "f84028e43923",
+      "title": "dotAI 2026 : De l’illusion d’autonomie à la réalité du terrain, reprendre le contrôle sur nos agents",
+      "description": "Nous étions à la dotAI 2026. Et comme il est de coutume, voici notre retour sur ce qu’on a aimé, ce qui s'y est dit et ce qu’on y a appris. Bonne lecture ! L’année écoulée a été marquée par l’essor des architectures multi-agents et des harnesses, ces surcouches qui entourent un LLM pour le…",
+      "link": "https://jolicode.com/blog/dotai-2026-de-l-illusion-d-autonomie-a-la-realite-du-terrain-reprendre-le-controle-sur-nos-agents",
+      "pubDate": "2026-09-25T13:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/dot-ai/dotai_2026_intro.png",
+      "type": "blog"
+    },
+    {
       "id": "e2a8a89a99f5",
       "title": "D'un ADE à un orchestrator : la construction de PABLO",
       "description": "Mes agents sont devenus plus rapides. Mon cerveau, non. Où nous en étions Dans mon article précédent, je décrivais mon environnement de travail : un Agent Development Environment, non pas un IDE avec un panneau de conversation greffé, mais un outil construit autour de tâches, de worktrees et…",
