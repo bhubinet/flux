@@ -18,6 +18,38 @@
       "type": "blog"
     },
     {
+      "id": "8c4a2817c8bb",
+      "title": "Dix pannes, dix bascules : le premier banc haute disponibilité de Maintenant sur OpenSVC",
+      "description": "Dans le bilan de mai à août, j’annonçais le chantier haute disponibilité du programme Hyper Open X : Maintenant devient un service OpenSVC sur deux nœuds, avec une adresse de service qui suit l’instance active et une bascule automatique quand ce nœud tombe. Je parlais aussi d’un banc d’essai, deux…",
+      "link": "https://kolapsis.com/blog/maintenant-ha-opensvc-premier-banc/",
+      "pubDate": "2026-10-03T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "7b9d17b82a82",
+      "title": "EmDash, le « successeur de WordPress » piloté par un agent IA",
+      "description": "Cloudflare a sorti EmDash 1.0, un CMS open source pensé dès le départ pour être piloté par des agents IA. Ce qu'il est (et n'est pas) pour un utilisateur WordPress, puis six prompts pour monter un blog tech, le mettre en ligne et le piloter depuis Claude via MCP.",
+      "link": "https://yoandev.co/emdash-cms-blog-agent-ia",
+      "pubDate": "2026-10-03T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/emdash-cms-blog-agent-ia.webp",
+      "type": "blog"
+    },
+    {
       "id": "bd982885fa1c",
       "title": "L'agentic sur le divan du coach : 24 questions, huit projets",
       "description": "Nous avons évalué nos huit projets menés avec des agents IA : 24 questions, des preuves lues dans le code, jamais des impressions. Les résultats nous ont surpris. En tant que coach, j'en tire une cinquième source pour la prise de contexte : lire les traces du travail agentic avant de rencontrer les…",
