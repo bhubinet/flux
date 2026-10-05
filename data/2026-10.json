@@ -2,6 +2,141 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "2b2148200a83",
+      "title": "Passer de la transformation à l’amélioration",
+      "description": "Hôpital Universitaire de Martinique, 2018 – 2021 « Le lean ? C’est passer de la transformation à l’amélioration. » Cette phrase résonnait encore dans ma tête en Martinique alors que […] Cet article Passer de la transformation à l’amélioration est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/passer-de-la-transformation-a-lamelioration/",
+      "pubDate": "2026-10-05T07:53:53.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/10/changement-amelioration.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e448c6c94f6f",
+      "title": "Le futur du développement : à quoi ressemblera le métier d'ici 2035",
+      "description": "Le futur du développement : à quoi ressemblera le métier d'ici 2035",
+      "link": "https://blog.ippon.fr/2026/10/05/futur-du-developpement-2035/",
+      "pubDate": "2026-10-05T07:01:03.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/pexels-kevin-ku-92347-577585.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "b87212fc2e8a",
+      "title": "API Platform Conference 2026 - Marion Hurteau - MCP : votre API a un nouvel utilisateur",
+      "description": "MCP : votre API a un nouvel utilisateur (et ce n’est pas un humain) Pendant des années, votre API a servi deux usagers : le front qui l’affiche, et les développeurs qui l’intègrent. La dernière version d’API Platform vous permet d’en accueillir un troisième : l’agent IA. Avec le MCP, vos ressources…",
+      "link": "https://www.youtube.com/watch?v=2TOLCl27Usg",
+      "pubDate": "2026-10-05T05:34:28.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/2TOLCl27Usg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "2TOLCl27Usg"
+    },
+    {
+      "id": "20b6003f8dc3",
+      "title": "API Platform Conference 2026 - Antoine Bluchet  - Are APIs Still Relevant in the AI Era",
+      "description": "Every release of API Platform has bet on the same idea: model your domain once, and let the framework expose it everywhere. This year that bet meets its biggest test — agents that operate your software without a human ever touching the interface. In this opening keynote I'll walk through what's new…",
+      "link": "https://www.youtube.com/watch?v=9_B_ZoebjFY",
+      "pubDate": "2026-10-05T05:33:10.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/9_B_ZoebjFY/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "9_B_ZoebjFY"
+    },
+    {
+      "id": "72dd1c96a39f",
+      "title": "API Platform Conference 2026 - Kévin Dunglas - Opening Keynote",
+      "description": "Simpler, Smarter, Faster: Redefining Real-Time for the AI Era. ___________ More info: https://api-platform.com/con/2026/ X: https://x.com/ApiPlatform Music credits : Alexandre Daubois - About Tonight",
+      "link": "https://www.youtube.com/watch?v=yegtXUWYSus",
+      "pubDate": "2026-10-05T05:32:08.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/yegtXUWYSus/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "yegtXUWYSus"
+    },
+    {
+      "id": "5d745a186a1a",
+      "title": "« On est toujours dans une roue » : à la rencontre de Martin Dufresne",
+      "description": "Pourquoi l'IA nous fatigue-t-elle plus qu'elle ne nous soulage ? Où est passé le plaisir de développer ? Comment apprendre quand la machine a déjà la réponse ? Autant de sujets que nous avons abordés avec Martin Dufresne, développeur, chercheur indépendant et formateur, pour le deuxième épisode des…",
+      "link": "https://www.elao.com/blog/methodo/voix-de-notre-veille/a-la-rencontre-de-martin-dufresne",
+      "pubDate": "2026-10-05T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "d806881800ea",
+      "title": "Le développement agentique est-il le fossoyeur de la modélisation métier ? - Part 1",
+      "description": "À l’ère des agents, notre avantage ne viendra peut-être plus de notre capacité à produire plus vite ce que nous savons déjà, mais de notre capacité à apprendre plus vite ce que nous devons réellement construire.",
+      "link": "https://blog.octo.com/le-developpement-agentique-est-il-le-fossoyeur-de-la-modelisation-metier-part-1",
+      "pubDate": "2026-10-04T15:10:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "468371eb9d6b",
+      "title": "Bidouiller le compilateur Go pour convertir efficacement les IPv4 en IPv6",
+      "description": "expose une méthode qui renvoie l’adresse IPv4 contenue dans une (). À partir de ou de , elle renvoie . Il n’existe pas de méthode ou pour l’opération inverse. Une telle méthode est triviale à écrire, mais les mainteneurs de Go l’ont au motif que les utilisateurs devraient écrire et laisser le…",
+      "link": "https://vincent.bernat.ch/fr/blog/2026-go-netip-addrto6",
+      "pubDate": "2026-10-04T14:12:19.000Z",
+      "source": "Vincent Bernat",
+      "sourceUrl": "https://vincent.bernat.ch/fr/blog/atom.xml",
+      "categories": [
+        "DevOps",
+        "Programmation",
+        "Cybersécurité"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "e81d4c1e5261",
       "title": "Tunnels HTTP auto-hébergés avec SSH et nginx",
       "description": "Un ami veut relire votre article de blog en cours de rédaction, mais sa prévisualisation ne tourne que sur . peuvent aider. Certains sont des services commerciaux, comme ou . D’autres peuvent être auto-hébergés, mais exigent un client dédié, comme ou . D’autres encore se contentent d’un simple…",
