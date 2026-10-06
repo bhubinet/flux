@@ -2,6 +2,23 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "cccbd0d3086e",
+      "title": "PlatformCon 2026 : ce qu'il faut vraiment en retenir",
+      "description": "Shift Down, Governed Path, agents IA devenus utilisateurs de la plateforme : les 6 enseignements de la PlatformCon 2026, croisés avec les chiffres des rapports State of Platform Engineering.",
+      "link": "https://blog.ippon.fr/2026/10/05/platformcon-2026-platform-engineering-ia/",
+      "pubDate": "2026-10-05T12:29:42.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/platformcon-2026-couverture.jpg",
+      "type": "blog"
+    },
+    {
       "id": "2b2148200a83",
       "title": "Passer de la transformation à l’amélioration",
       "description": "Hôpital Universitaire de Martinique, 2018 – 2021 « Le lean ? C’est passer de la transformation à l’amélioration. » Cette phrase résonnait encore dans ma tête en Martinique alors que […] Cet article Passer de la transformation à l’amélioration est apparu en premier sur Institut Lean France.",
