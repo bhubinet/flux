@@ -2,6 +2,73 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "5ba23a5c8931",
+      "title": "Les-Tilleuls.coop annonce le lancement de Tilia, son offre d’accompagnement sur mesure en intelligence artificielle",
+      "description": "Depuis plus de 15 ans, nous construisons des logiciels et des architectures robustes : des API, des applications web, des infrastructures cloud. Nous avons créé et maintenons API Platform, FrankenPHP, Mercure, et nous contribuons quotidiennement à PHP, Symfony, Caddy, Go… Des outils libres que des…",
+      "link": "https://les-tilleuls.coop/blog/decouvrir-tilia-expertise-intelligence-artificielle",
+      "pubDate": "2026-10-07T08:49:42.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/image-1024x341.png",
+      "type": "blog"
+    },
+    {
+      "id": "f9c3f5008848",
+      "title": "De l'architecture au code : une pipeline de subagents Claude pensée pour l’apprentissage",
+      "description": "Peut-on accélérer le développement avec des agents IA sans perdre la maîtrise de son code ? Pour le tester, j'ai construit une pipeline de quatre subagents Claude Code qui s'arrête avant la logique métier, afin de monter en compétences sur un nouveau framework tout en codant aux côtés de l'IA.",
+      "link": "https://blog.ippon.fr/2026/10/07/de-larchitecture-au-code-une-pipeline-de-subagents-claude-pensee-pour-lapprentissage/",
+      "pubDate": "2026-10-07T07:31:53.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/09/article_image.png",
+      "type": "blog"
+    },
+    {
+      "id": "51437d8cd2ba",
+      "title": "#379.src - Productivité sans IA: Le mythe de la productivité avec Bastien Albertus",
+      "description": "\"l'IA n'est pas le seul levier pour qu'un dev travaille mieux\" Le D.E.V. de la semaine est Bastien Albertus, CIO chez lesfurets.com. Face à l'injonction des comités de direction d'augmenter la productivité des devs grâce à l'IA, Bastien remet en question la définition même de cette productivité et…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/379-2117b12ab830",
+      "pubDate": "2026-10-07T03:00:10.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/5cfd8a3b-9a47-4161-9228-71c9272e7819.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/a66ae0ae-9d90-450d-b3d6-2117b12ab830.mp3?_=1791288070",
+      "duration": "01:18:17"
+    },
+    {
+      "id": "c4ce5e1eb975",
+      "title": "Une époque formidable",
+      "description": "Je me dis que l’on vit une époque formidable avec l’IA. Pendant des années, j’ai accumulé des idées de projets et d’outils que j’aurais aimé avoir. Des problèmes que je rencontrais personnellement et que je souhaitais résoudre. Mais comme tout le monde, j’ai un temps qui est limité : famille,…",
+      "link": "https://www.jdecool.fr/blog/2026/10/07/une-epoque-formidable.html",
+      "pubDate": "2026-10-06T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "cccbd0d3086e",
       "title": "PlatformCon 2026 : ce qu'il faut vraiment en retenir",
       "description": "Shift Down, Governed Path, agents IA devenus utilisateurs de la plateforme : les 6 enseignements de la PlatformCon 2026, croisés avec les chiffres des rapports State of Platform Engineering.",
