@@ -339,6 +339,22 @@
       "duration": "15:37"
     },
     {
+      "id": "a2ce8bdb5934",
+      "title": "Trouver des vulnérabilités dans l'open source quand on n'est pas spécialiste en sécurité",
+      "description": "TL;DR Trouver des failles dans l’open source en 2026, “grâce” aux LLM : facile, OUI Être le premier à les remonter : possible, MAIS Trouver des failles est devenu banal. Le vrai défi, c’est d’être le premier, et de survivre au triage. C’est de ça que parle le reste de l’article. Pourquoi faire ça,…",
+      "link": "https://blog.zwindler.fr/2026/09/23/finding-vulnerabilities-oss-not-security-specialist/",
+      "pubDate": "2026-09-23T18:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/09/20260919_152513.webp",
+      "type": "blog"
+    },
+    {
       "id": "fac00fb2259c",
       "title": "Agents IA sur du code legacy : le guide brownfield",
       "description": "Sur un produit existant, une partie des règles n'est écrite nulle part dans le code, et un agent IA ne peut pas la deviner. Les agents rendent pourtant la modernisation d'un code legacy moins chère à tenter, à condition de leur écrire ce que le code ne dit pas et de vérifier qu'ils n'ont rien…",
