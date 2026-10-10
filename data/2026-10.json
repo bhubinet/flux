@@ -2,6 +2,24 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "d11793f61ec2",
+      "title": "Le développement agentique est-il le fossoyeur de la modélisation métier ? - Part 2",
+      "description": "Dans la première partie, nous avons vu que le développement agentique ne remet pas seulement en question notre manière de produire du code : il transforme aussi la manière dont nous construisons notre compréhension du problème.",
+      "link": "https://blog.octo.com/le-developpement-agentique-est-il-le-fossoyeur-de-la-modelisation-metier",
+      "pubDate": "2026-10-10T07:06:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "40c8d98cb24d",
       "title": "#354.exe - Self Hosting: Tout refaire pour être indépendant par Alexandre Bouchard",
       "description": "Pour l'épisode #354 je recevais Loic Tosser. On en débrief avec Alexandre. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
