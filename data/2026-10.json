@@ -2,6 +2,87 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "81b9529fce87",
+      "title": "Cyberattaques : les bonnes pratiques à adopter pour éviter d’en être victime",
+      "description": "Les cyberattaques ne visent pas que les grandes organisations : les particuliers et les homelabs sont aussi concernés. Voici les réflexes que j’applique chez moi, et ceux que je dois encore corriger.",
+      "link": "https://domopi.eu/cyberattaques-les-bonnes-pratiques-a-adopter-pour-eviter-den-etre-victime/",
+      "pubDate": "2026-10-13T08:05:19.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2026/10/article_security.webp",
+      "type": "blog"
+    },
+    {
+      "id": "84e7fbc6d0db",
+      "title": "Le doute, une compétence à préserver",
+      "description": "Dans les entreprises, les nouveaux venus posent souvent les questions les plus fécondes. Non parce qu’ils savent davantage, mais précisément parce qu’ils ne savent pas encore. Pour un manager Lean, […] Cet article Le doute, une compétence à préserver est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/le-doute-une-competence-a-preserver/",
+      "pubDate": "2026-10-12T16:11:29.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/10/Alois.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "800833b796ee",
+      "title": "Repenser nos pratiques pour un numérique durable : notre retour sur ParisWeb 2026 (partie 2)",
+      "description": "Après notre premier récit, découvrez notre retour sur la deuxième journée de ParisWeb 2026. Le juste prix, ou ce que l’accessibilité coûte pour de vrai Lison Fanuel et Frédéric Halna ont discuté avec nous des informations qu’ils ont recueillies pendant la préparation de leur présentation. Un…",
+      "link": "https://les-tilleuls.coop/blog/repenser-nos-pratiques-pour-un-numerique-durable-notre-retour-sur-parisweb-2026-partie-2",
+      "pubDate": "2026-10-12T14:32:26.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/paris-web-jour-2-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1af467ae3429",
+      "title": "Cultiver l’accessibilité et la sobriété : les grands enseignements de ParisWeb 2026 (partie 1)",
+      "description": "Jeudi 24 et vendredi 25 septembre derniers, se tenait à Paris un événement auquel nous sommes très attaché·es, la 21ème édition de ParisWeb, la conférence qui place l’accessibilité et l’inclusion au cœur du système. Ce qui manque souvent dans nos métiers, c’est le sens. C’est précisément le fil…",
+      "link": "https://les-tilleuls.coop/blog/cultiver-laccessibilite-et-la-sobriete-les-grands-enseignements-de-parisweb-2026-partie-1",
+      "pubDate": "2026-10-12T14:31:23.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/paris-web-jour-1-1024x569.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1683e244885c",
+      "title": "Modernisation applicative avec Kiro + AWS Transform (ATX) : on a modernisé un application legacy Node.js en 2 jours - Le REX complet",
+      "description": "Comment Kiro et AWS Transform (ATX) ont modernisé Club Manager v3, une appli Node.js legacy de 10 ans, en 2 jours au lieu de 6 semaines : coûts, ROI x15 et limites de l'automatisation.",
+      "link": "https://blog.ippon.fr/2026/10/12/modernisation-legacy-nodejs-kiro-aws-transform/",
+      "pubDate": "2026-10-12T13:14:18.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/Capture-d---e--cran-2026-06-26-a---12.58.51.png",
+      "type": "blog"
+    },
+    {
       "id": "58008f672f17",
       "title": "Je ne code pas, BMAD code pour moi avec ses agents : sur parole ou sur preuves ?",
       "description": "Je ne code pas, mais des agents IA cadrés par BMAD écrivent et testent le code de huit projets. Sur quoi fonder ma confiance ? Nous avons mesuré la qualité des produits en quatre questions : deux restent sans réponse partout, deux donnent des chiffres honnêtes mais partiels. Ce que je lis à la…",
