@@ -2,6 +2,24 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "69b3740e77b9",
+      "title": "#380.src - Hookdeck: La fausse simplicité des webhooks avec Alexandre Bouchard",
+      "description": "\"Les webhooks, ça a toujours été des events\" Le D.E.V. de la semaine est Alexandre Bouchard, fondateur chez Hookdeck. Dans cet épisode, il nous plonge dans l'univers méconnu des webhooks, cette fameuse gateway drug vers l'event-driven architecture. On y parle d'idempotence, de sécurité, de gestion…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/380-5e58e53171c0",
+      "pubDate": "2026-10-14T03:00:48.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/6a5dce63-a62f-4849-96be-fb0c09250c63.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/6755f068-6c42-487b-bc07-5e58e53171c0.mp3?_=1791892908",
+      "duration": "55:44"
+    },
+    {
       "id": "81b9529fce87",
       "title": "Cyberattaques : les bonnes pratiques à adopter pour éviter d’en être victime",
       "description": "Les cyberattaques ne visent pas que les grandes organisations : les particuliers et les homelabs sont aussi concernés. Voici les réflexes que j’applique chez moi, et ceux que je dois encore corriger.",
