@@ -2,6 +2,58 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "ae87491bdd35",
+      "title": "Jumeau Numérique Systémique : Collecte des activités sur le terrain",
+      "description": "Peut-on construire un jumeau numérique à partir de ce que l’on observe sur le terrain, plutôt qu’à partir de la conception des bureaux d’études ?",
+      "link": "https://blog.octo.com/jumeau-numerique-systemique--referentiel-et-data",
+      "pubDate": "2026-10-15T08:21:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a10af58dbca5",
+      "title": "Visibilité à l’ère de l’IA : les leçons tirées du SEO Square 2026",
+      "description": "Nous avons eu l’opportunité de participer à plusieurs talks et workshops de la conférence en ligne SEO Square, un événement organisé par Semji comprenant conférences et tables rondes axées cette année sur la transition du SEO au GEO et l’impact de l’IA. Notre équipe d’experts accompagne déjà nos…",
+      "link": "https://les-tilleuls.coop/blog/visibilite-ia-seo-square-2026",
+      "pubDate": "2026-10-15T07:06:06.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/vignette-SEO-Square-600x338.png",
+      "type": "blog"
+    },
+    {
+      "id": "ac56cf684fcb",
+      "title": "AWS Transform: ce que notre “trousse à outils agentique” automatise vraiment",
+      "description": "Cinq familles d'agents, une modernisation Python exécutée de bout en bout avec la CLI atx, ses coûts et ses pièges : le deuxième volet de notre série sur la migration augmentée par l'IA précise la part d'AWS et celle du travail d'expert.",
+      "link": "https://blog.ippon.fr/2026/10/14/aws-transform-trousse-outils-agentique/",
+      "pubDate": "2026-10-14T16:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/f1825c25-00e4-4a88-a929-0af2ef0410bc.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "69b3740e77b9",
       "title": "#380.src - Hookdeck: La fausse simplicité des webhooks avec Alexandre Bouchard",
       "description": "\"Les webhooks, ça a toujours été des events\" Le D.E.V. de la semaine est Alexandre Bouchard, fondateur chez Hookdeck. Dans cet épisode, il nous plonge dans l'univers méconnu des webhooks, cette fameuse gateway drug vers l'event-driven architecture. On y parle d'idempotence, de sécurité, de gestion…",
@@ -18,6 +70,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/6755f068-6c42-487b-bc07-5e58e53171c0.mp3?_=1791892908",
       "duration": "55:44"
+    },
+    {
+      "id": "710359466890",
+      "title": "Le temps de mise en production est un problème d'organisation",
+      "description": "Beaucoup d’équipes de développement souhaiteraient accélérer les mises en productions. Pour y parvenir, on se concentre généralement sur toute la pipeline d’automatisation: build, tests, déploiement. Seulement, ce n’est pas la technique qui coince le plus. De ce que j’ai pu observer, ce qui…",
+      "link": "https://www.jdecool.fr/blog/2026/10/14/le-temps-de-mise-en-production-est-un-probleme-d-organisation.html",
+      "pubDate": "2026-10-13T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "81b9529fce87",
