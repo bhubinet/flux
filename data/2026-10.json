@@ -2,6 +2,77 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "276b0d7288d7",
+      "title": "API Platform Conference 2026 - Benjamin Eberlei - Is FrankenPHP the Fastest Way to Run PHP?",
+      "description": "What are the performance benefits and implications of using FrankenPHP over PHP with FPM, Apache2, or Swoole exactly? In this talk Benjamin will look at FrankenPHP from all angles, classic and worker mode, explain and contrast them with other solutions and provide some numbers from benchmarks and…",
+      "link": "https://www.youtube.com/watch?v=3tQ7o4jjAtE",
+      "pubDate": "2026-10-19T07:46:03.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/3tQ7o4jjAtE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "3tQ7o4jjAtE"
+    },
+    {
+      "id": "6a47afd43d7c",
+      "title": "API Platform Conference 2026 - Johan Janssens - Building Desktop Apps with FrankenPHP",
+      "description": "PHP on the desktop sounds like a bad idea. Until it works. FrankenPHP isn’t just a Caddy module, it’s a Go library you can embed anywhere. FrankenWails combines it with Wails, Go’s answer to Electron. The result: native desktop apps where PHP handles the backend, HTML/CSS/JS handles the UI, and Go…",
+      "link": "https://www.youtube.com/watch?v=VGnTzTWQYDc",
+      "pubDate": "2026-10-19T07:44:20.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/VGnTzTWQYDc/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "VGnTzTWQYDc"
+    },
+    {
+      "id": "adaa78c62177",
+      "title": "API Platform Conference 2026 - Brent Roose - Building a framework by accident",
+      "description": "For the past three years — and by total accident — I’ve had the chance to work on the most impactful project of my programming career. In this talk, I want to walk you through how that happened, and share the many lessons I learned along the way. We’ll talk about the power of open source, designing…",
+      "link": "https://www.youtube.com/watch?v=JmEEQDCVb8s",
+      "pubDate": "2026-10-19T07:42:57.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/JmEEQDCVb8s/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "JmEEQDCVb8s"
+    },
+    {
+      "id": "777cb4c573c9",
+      "title": "Colonnes Doctrine chiffrées avec Symfony 8.2 : votre base peut fuiter, pas vos données",
+      "description": "Un dump de base de données qui fuite, et ce sont des emails, des téléphones et des dates de naissance en clair. Symfony 8.2 arrive avec le composant KeyManagement et un attribut #[Encrypted] qui chiffre vos colonnes Doctrine. Tutoriel pas à pas avec dépôt de démonstration : chiffrement, clés de…",
+      "link": "https://yoandev.co/symfony-colonnes-doctrine-chiffrees",
+      "pubDate": "2026-10-18T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/symfony-colonnes-doctrine-chiffrees.webp",
+      "type": "blog"
+    },
+    {
       "id": "adfb2ceb4910",
       "title": "Les salles d'agents : le seul endroit où l'on est content d'être contredit",
       "description": "Un agent IA seul gagne toujours : il boxe contre son ombre. Alors j'ai réuni cinq agents autour d'une table, chacun avec son rôle, pour voir ce qu'ils attrapent… ou ratent. Surprise : un matin, 3 « salles » sur 4 étaient tenues par un seul agent jouant tous les rôles. Des preuves, et le droit…",
