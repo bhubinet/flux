@@ -2,6 +2,58 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "4d73d315c514",
+      "title": "LLM local sur iOS 27 : ce qu'Apple ne dit pas dans la doc",
+      "description": "iOS 27 fait tourner un LLM local sur iPhone : Core AI charge un modèle .aimodel derrière les mêmes API que FoundationModels, en une dizaine de lignes. Mesures sur iPhone 16, iOS 27.0 : 3 des 10 familles du catalogue exportables, 874 Mo pour Qwen2.5-1.5B, 2 min au premier lancement, 14 à 25 s par…",
+      "link": "https://blog.octo.com/llm-local-sur-ios-27--ce-qu'apple-ne-dit-pas-dans-la-doc",
+      "pubDate": "2026-10-20T08:39:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a0afca37bb19",
+      "title": "Jev : et si les LLM n’étaient plus les seuls modèles dont nous avions besoin ?",
+      "description": "Jev, modèle System One de TypeSafe AI, évalue un état et renvoie une décision typée. Où l’utiliser à côté d’un LLM, sur un projet dbt ou dans un chatbot bancaire, et quelles limites garder en tête.",
+      "link": "https://blog.ippon.fr/2026/10/19/jev-modele-system-one-llm/",
+      "pubDate": "2026-10-19T13:27:31.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/Capture-d-----cran-2026-10-12----17.04.02.png",
+      "type": "blog"
+    },
+    {
+      "id": "ce9df86fb353",
+      "title": "Forum PHP 2026 : notre retour sur les conférences",
+      "description": "Découvrez notre retour sur le Forum PHP 2026 : IA, Symfony 8.2, sécurité, et REX inspirants ! Cet article, Forum PHP 2026 : notre retour sur les conférences, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/forum-php-2026-notre-retour-sur-les-conferences",
+      "pubDate": "2026-10-19T10:10:59.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/10/1791562027685-1024x676.jpg",
+      "type": "blog"
+    },
+    {
       "id": "276b0d7288d7",
       "title": "API Platform Conference 2026 - Benjamin Eberlei - Is FrankenPHP the Fastest Way to Run PHP?",
       "description": "What are the performance benefits and implications of using FrankenPHP over PHP with FPM, Apache2, or Swoole exactly? In this talk Benjamin will look at FrankenPHP from all angles, classic and worker mode, explain and contrast them with other solutions and provide some numbers from benchmarks and…",
@@ -54,6 +106,40 @@
       "image": "https://i.ytimg.com/vi/JmEEQDCVb8s/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "JmEEQDCVb8s"
+    },
+    {
+      "id": "886871196086",
+      "title": "Dev With AI 2026: la 1re conférence française du dev avec l'IA",
+      "description": "L'IA écrit du code plus vite qu'on ne sait le relire. Vérification, contexte, outillage léger, relecture des conversations, coûts : ce qu'il faut retenir des talks de Dev With AI, les désaccords entre intervenants, et un avis sur les hooks, grands oubliés de la journée.",
+      "link": "https://blog.ippon.fr/2026/10/19/dev-with-ai-2026-conference/",
+      "pubDate": "2026-10-19T07:00:00.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/10/IMG_4396.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ef97ee60d8ed",
+      "title": "La tech bascule dans le fascisme",
+      "description": "Le créateur de Rails a écrit que l'immigration était une catastrophe pour l'Europe. Je lui ai dit de fermer sa grande bouche, et j'ai passé la soirée à bloquer des racistes. Ce billet, c'est ce que j'ai compris en creusant.",
+      "link": "https://yoandev.co/la-tech-bascule-dans-le-fascisme",
+      "pubDate": "2026-10-19T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/la-tech-bascule-dans-le-fascisme.webp",
+      "type": "blog"
     },
     {
       "id": "777cb4c573c9",
