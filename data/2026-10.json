@@ -2,6 +2,24 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "4b6c65e3f2ab",
+      "title": "API Platform Conference 2026 x À La French (avec Mehdi Medjaoui)",
+      "description": "À l'occasion de l'API Platform Conference 2026, nous avons eu le plaisir d'accueillir Mehdi Medjaoui (entrepreneur et fondateur d'Olympe) pour une table ronde captivante, organisée en partenariat avec le podcast À La French, partenaire média de cette édition. Au programme : 35 minutes d'échanges…",
+      "link": "https://www.youtube.com/watch?v=EEShIRFFH00",
+      "pubDate": "2026-10-22T07:02:11.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/EEShIRFFH00/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "EEShIRFFH00"
+    },
+    {
       "id": "3beb6a1a3603",
       "title": "#381.src - AI Coding: Réécrire des applications legacy avec Quentin Pleplé",
       "description": "\"On se fiche de savoir quelle est l'architecture du legacy. La seule chose qui est importante, c'est qu'est-ce qu'on veut à la fin.\" Le D.E.V. de la semaine est Quentin Pleplé, CTO de la practice de modernisation par l'IA chez Théodo. Depuis un an, ses équipes réécrivent des applications legacy…",
@@ -18,6 +36,38 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/7f6177aa-a4f3-4ae9-a71b-83c5b350b8b0.mp3?_=1792497680",
       "duration": "01:10:47"
+    },
+    {
+      "id": "b581e76f42d7",
+      "title": "News octobre 2026 RC2, Deno file chez Cloudflare, qui possède l'open source JS et PHP sonne l'alerte",
+      "description": "Nous évoquons Deno qui rejoint Cloudflare et la fin annoncée de Deno Deploy, la vague de rachats de l'open source JS par Cloudflare, Vercel, Anthropic et OpenAI, la course aux compilateurs TypeScript avec tsgo, bun check, tsc-rs, tsrs et tsc-ts, les deux failles critiques annoncées côté PHP, OSS…",
+      "link": "https://double-slash.dev/podcasts/news-oct-26-rc2/",
+      "pubDate": "2026-10-21T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1792571027/episode/ART_144_xz4non.png",
+      "type": "podcast",
+      "audioUrl": "https://double-slash.ams3.cdn.digitaloceanspaces.com/DS_144_news-oct-rc2.mp3",
+      "duration": "2698"
+    },
+    {
+      "id": "c0c66060de1e",
+      "title": "Qui comprend encore ce qui est livré ?",
+      "description": "Avec l’IA, tout va plus vite, parfois beaucoup trop vite. Un ticket arrive, il est pris en charge par un agent. Dans les minutes qui suivent, une PR est ouverte, la demande est implémentée, testée et vérifiée. Dans un cycle de livraison continue, elle peut alors être déployée dans la foulée. Tout…",
+      "link": "https://www.jdecool.fr/blog/2026/10/21/qui-comprend-encore-ce-qui-est-livre.html",
+      "pubDate": "2026-10-20T22:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "3d4dbc35d16e",
