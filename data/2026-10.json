@@ -2,6 +2,87 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "19bc832ab415",
+      "title": "Mes agents lisaient trop : ce que dix semaines de chasse aux tokens m'ont appris",
+      "description": "Mes agents IA relisaient tout le journal pour y trouver une ligne. Depuis le 30 juillet, je chasse les tokens : mesurer d'abord, écrire des règles de lecture, retirer ce qui ne sert pas, borner chaque tâche. Des chiffres sourcés, des estimations assumées, et cinq gestes à appliquer dès demain, sans…",
+      "link": "https://blog.octo.com/mes-agents-lisaient-trop--ce-que-dix-semaines-de-chasse-aux-tokens-m'ont-appris",
+      "pubDate": "2026-10-23T08:36:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "f020e82e32f8",
+      "title": "#325.exe - Dev, un métier d'avenir ?: Mutation ou disparition ? par Nikolay Rodionov",
+      "description": "Pour l'épisode #325 je recevais Greg Lhotellier. On en débrief avec Nikolay. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/325-e6462a964116",
+      "pubDate": "2026-10-23T03:00:53.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/59840407-6fdf-44da-a536-e6462a964116.mp3?_=1792670513",
+      "duration": "15:34"
+    },
+    {
+      "id": "575dd339ac29",
+      "title": "Engineering Manager : rôle, missions, impact de l'IA en 2027",
+      "description": "L'Engineering Manager est le manager d'une équipe de développeurs : il recrute, fait progresser chacun et organise la delivery. Avec l'IA, son poste se recompose, la revue de code devient le goulot d'étranglement et le contexte donné aux agents passe sous sa responsabilité.",
+      "link": "https://www.media.thiga.co/engineering-manager",
+      "pubDate": "2026-10-22T15:09:36.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/shutterstock_2736820821.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "014a9e3ca95d",
+      "title": "FinOps : définition, principes et phases du framework",
+      "description": "Le FinOps est un cadre opérationnel et une pratique culturelle qui aide les entreprises à tirer le maximum de valeur de leurs dépenses technologiques. Né avec le cloud, il couvre depuis 2025 toutes les catégories de technologie.",
+      "link": "https://www.media.thiga.co/glossaire/finops",
+      "pubDate": "2026-10-22T12:52:33.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/chub_backup/product%20Dico-Feb-06-2024-03-41-46-2722-PM.svg",
+      "type": "blog"
+    },
+    {
+      "id": "db3999b49f5e",
+      "title": "DORA metrics : les 5 métriques de livraison et l'IA",
+      "description": "Les DORA metrics sont cinq indicateurs issus du programme de recherche DORA, mené par Google Cloud, qui mesurent la performance de livraison logicielle en débit et en instabilité. D'après le rapport DORA 2025, l'IA augmente le débit des équipes, mais aussi leur instabilité.",
+      "link": "https://www.media.thiga.co/dora-metrics",
+      "pubDate": "2026-10-22T09:18:30.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20DORA%20metrics.png",
+      "type": "blog"
+    },
+    {
       "id": "4b6c65e3f2ab",
       "title": "API Platform Conference 2026 x À La French (avec Mehdi Medjaoui)",
       "description": "À l'occasion de l'API Platform Conference 2026, nous avons eu le plaisir d'accueillir Mehdi Medjaoui (entrepreneur et fondateur d'Olympe) pour une table ronde captivante, organisée en partenariat avec le podcast À La French, partenaire média de cette édition. Au programme : 35 minutes d'échanges…",
