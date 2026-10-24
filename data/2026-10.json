@@ -2,6 +2,24 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "129979ed03b4",
+      "title": "Harnais agentiques (1/2) : pourquoi les bonnes pratiques d'hier coûtent cher aujourd'hui",
+      "description": "Un agent de codage ne se résume pas au modèle qui l'anime. Le modèle de langage en est le moteur, mais il ne travaille jamais seul : il est intégré dans un harnais, c'est-à-dire l'ensemble des instructions, outils, règles, étapes d'orchestration et mécanismes de contrôle qui encadrent son travail.",
+      "link": "https://blog.octo.com/harnais-agentiques-(12)--pourquoi-les-bonnes-pratiques-d'hier-coutent-cher-aujourd'hui",
+      "pubDate": "2026-10-23T09:08:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "19bc832ab415",
       "title": "Mes agents lisaient trop : ce que dix semaines de chasse aux tokens m'ont appris",
       "description": "Mes agents IA relisaient tout le journal pour y trouver une ligne. Depuis le 30 juillet, je chasse les tokens : mesurer d'abord, écrire des règles de lecture, retirer ce qui ne sert pas, borner chaque tâche. Des chiffres sourcés, des estimations assumées, et cinq gestes à appliquer dès demain, sans…",
@@ -36,6 +54,23 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/59840407-6fdf-44da-a536-e6462a964116.mp3?_=1792670513",
       "duration": "15:34"
+    },
+    {
+      "id": "06839060474f",
+      "title": "Sécurité à l'ère de l'IA : la veille n'est plus une option",
+      "description": "PHP, Node.js, GitLab : une semaine de failles critiques, dont deux trouvées grâce à l'IA. J'ai donné l'alerte la veille, presque par chance. Qui doit faire la veille quand les failles vont plus vite que nous ?",
+      "link": "https://yoandev.co/securite-ia-veille",
+      "pubDate": "2026-10-23T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/securite-ia-veille.webp",
+      "type": "blog"
     },
     {
       "id": "575dd339ac29",
