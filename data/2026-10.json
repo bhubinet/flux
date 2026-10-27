@@ -2,6 +2,39 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "d937815092fb",
+      "title": "Harnais agentiques (2/2) : huit réflexes à désapprendre pour un harnais frugal",
+      "description": "Ce volet est consacré à un sujet délicat : le désapprentissage. Contrairement à ce que l'on pourrait croire, se défaire d'un savoir demande souvent plus d'effort que d'en acquérir un nouveau. Dans notre cas, nous avons longuement tâtonné pour construire un harnais qui nous semblait satisfaisant.",
+      "link": "https://blog.octo.com/harnais-agentiques-(22)--huit-reflexes-a-desapprendre-pour-un-harnais-frugal-1",
+      "pubDate": "2026-10-27T06:53:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "12d9e161a205",
+      "title": "Dans les coulisses de mon dernier side project: l'infrastructure",
+      "description": "Je me suis lancé dans un side project pour gérer les rétrospectives de mon équipe, une application que je construis depuis plusieurs mois et dont j’ai décidé de raconter les coulisses de la création. 1/X - L’architecture technique 2/X - Le harness 3/X - Les tests automatisés 4/X - L’infrastructure…",
+      "link": "https://www.jdecool.fr/blog/2026/10/27/dans-les-coulisses-de-mon-dernier-side-project-l-infrastructure.html",
+      "pubDate": "2026-10-26T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "30192d8179c2",
       "title": "API Platform Conference 2026 - Pauline Vos - No OSS, No Users: Why Investing in Open Source Matters",
       "description": "At MongoDB, I help maintain the open-source tools that help PHP developers use our product. Without active, stable OSS, we shrimply wouldn’t have any users. In this session, I’ll share why open source is essential to your product’s success, and how to get involved in the ecosystems that support it.…",
@@ -72,6 +105,21 @@
       "image": "https://i.ytimg.com/vi/i3aFQ4vEYfs/maxresdefault.jpg",
       "type": "youtube",
       "videoId": "i3aFQ4vEYfs"
+    },
+    {
+      "id": "18d38e948c88",
+      "title": "Sortir de Google Workspace : mail, agendas, visio et bureautique sur un serveur dédié, un seul SSO",
+      "description": "Ce qui tourne aujourd’hui Le 24 octobre 2026, l’enregistrement MX de mon domaine a cessé de pointer vers Google. Depuis, le mail arrive sur un serveur dédié, dans Stalwart, et je le lis dans Bulwark, un webmail installé comme application sur le bureau et sur Android. Les agendas et les contacts…",
+      "link": "https://kolapsis.com/blog/how-to-exit-google-workspace/",
+      "pubDate": "2026-10-26T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "89aac718bd43",
