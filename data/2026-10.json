@@ -2,6 +2,54 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "c639bef6d8b8",
+      "title": "Dette technique IA : définition et pilotage",
+      "description": "Depuis que des assistants et des agents IA codent aux côtés des équipes Produit et Tech, celles-ci produisent bien plus de code qu'avant. Mais une partie de ce code part en production sans que personne l'ait vraiment compris, et laisse derrière lui une dette d'un genre nouveau : la dette technique…",
+      "link": "https://www.media.thiga.co/dette-technique-ia",
+      "pubDate": "2026-10-30T08:29:40.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/shutterstock_2387472959.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "52a8216fdadf",
+      "title": "#358.exe - DevSecOps: Pourquoi l'automatisation ne sauvera pas (toute seule) la sécu par Florian Bruniaux",
+      "description": "Pour l'épisode #358 je recevais Tugdual Grall. On en débrief avec Florian. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/358-c0fb9bb02c67",
+      "pubDate": "2026-10-30T04:00:16.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/733f8263-ed68-47d2-aa36-c0fb9bb02c67.mp3?_=1793278876",
+      "duration": "21:07"
+    },
+    {
+      "id": "05f0c89bbb01",
+      "title": "Greenfield vs brownfield avec l'IA : quelle différence ?",
+      "description": "Un projet greenfield part de zéro ; un projet brownfield se construit sur un logiciel qui existe déjà, avec son historique et des règles métier que personne n'a jamais écrites. Les agents IA de code ne se comportent pas du tout pareil sur l'un et sur l'autre, et ça se voit jusque dans la façon de…",
+      "link": "https://www.media.thiga.co/brownfield-greenfield-ia",
+      "pubDate": "2026-10-29T13:44:53.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Gemini_Generated_Image_yrg3h9yrg3h9yrg3.jpeg",
+      "type": "blog"
+    },
+    {
       "id": "2051519a0518",
       "title": "Harnais agentiques (épilogue) : travailler au quotidien avec un agent frontière",
       "description": "Plutôt que de rédiger vous-même une longue spécification, la méthode recommandée aujourd'hui consiste à inverser les rôles : c'est Claude qui vous interroge et extrait de votre tête le contexte dont il a besoin. Le prompt « interview ». La documentation officielle propose un modèle de prompt qui…",
