@@ -2,6 +2,39 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "824e2cefd394",
+      "title": "Claude Design : prix, usages et limites (guide 2027)",
+      "description": "Anthropic présente Claude Design comme un moyen de créer des prototypes en discutant avec Claude, et vise ouvertement les Product Managers et les designers. Pour une équipe Produit, la promesse a de quoi faire saliver : quand un prototype ne coûte presque plus rien, on peut montrer une hypothèse de…",
+      "link": "https://www.media.thiga.co/claude-design",
+      "pubDate": "2026-11-02T10:59:20.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/shutterstock_2633673393.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "e73ca8e644f3",
+      "title": "Plugin Modernization by Anthropic ",
+      "description": "Avant l’essor des approches agentiques, moderniser un système legacy exigeait du courage, de la persévérance et une solide maîtrise technique. Ces projets pouvaient mobiliser pendant plusieurs mois de nombreux professionnels, avec un budget parfois difficile à engager.",
+      "link": "https://blog.octo.com/moderniser-un-systeme-legacy-avec-le-plugin-modernization-12",
+      "pubDate": "2026-11-02T10:05:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "27b20530b3ee",
       "title": "Labo virtuel avec QEMU",
       "description": "J’utilisais jusqu’ici des pour toutes mes expérimentations relatives au réseau. De nombreuses alternatives existent : , , ou . Malgré leurs qualités, je considère encore ma propre solution comme la plus adaptée à mes attentes :machines virtuelles UMLGNS3NetkitMarionnetCloonix L’utilisation d’ me…",
