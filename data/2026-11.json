@@ -2,6 +2,87 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "6c4b3bfd5e30",
+      "title": "Échelle de Dan Shapiro : les 6 niveaux de l'IA en dev",
+      "description": "Des specs entrent et du logiciel sort, sans qu’un humain lise le code : c’est la dark factory. Dan Shapiro, CEO de Glowforge, en a fait le dernier niveau de l’échelle qu’il a publiée en janvier 2026. Calquée sur la conduite autonome, cette échelle mesure en six niveaux la maturité d’une équipe dans…",
+      "link": "https://www.media.thiga.co/echelle-dan-shapiro",
+      "pubDate": "2026-11-04T10:58:25.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20%C3%A9chelle%20de%20Shapiro.png",
+      "type": "blog"
+    },
+    {
+      "id": "6cda0fb68389",
+      "title": "PHP 8.6 : l’essentiel des nouveautés",
+      "description": "PHP 8.6 sort le 19 novembre 2026. Découvrez dans cet article ce qu'il faut retenir de cette version. Cet article, PHP 8.6 : l’essentiel des nouveautés, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/ce-quil-faut-retenir-des-nouveautes-de-php-8-6",
+      "pubDate": "2026-11-04T10:00:28.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/laptop-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "535565d1c594",
+      "title": "#383.src - Contexte Engineering: Dresser ses agents IA avec Florian Bruniaux",
+      "description": "\"Il vaut mieux un très bon harnais et un modèle plus low cost qu'un très bon modèle avec un mauvais harnais.\" Le D.E.V. de la semaine est Florian Bruniaux, développeur et harness engineer chez Méthode Aristote. Après un parcours tech passant par le dev, le lead dev, l'EM, le VP et le CTO, il est…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/383-5fb716849506",
+      "pubDate": "2026-11-04T04:00:40.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/d40de32c-7def-46fa-940a-2f0bf6ed8f71.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/1c3c40a5-bd08-49fd-bdaa-5fb716849506.mp3?_=1793710900",
+      "duration": "01:00:26"
+    },
+    {
+      "id": "3b9700403e01",
+      "title": "Spec Kit : comment l'utiliser (et quand s'en passer)",
+      "description": "Spec Kit, c'est la réponse de GitHub au vibe coding qui part dans tous les sens : un toolkit open source qui fait écrire la spécification avant de laisser un agent coder. Décryptage d'un outil à cheval entre le Produit et la Tech, de son fonctionnement à ses limites.",
+      "link": "https://www.media.thiga.co/spec-kit",
+      "pubDate": "2026-11-03T19:05:42.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20Spec%20Kit.png",
+      "type": "blog"
+    },
+    {
+      "id": "72042431b7f1",
+      "title": "Talos : un certificat en lecture seule qui reboot votre serveur",
+      "description": "TL;DR Sur Talos Linux reboot # rpc error: code = PermissionDenied desc = not authorized Ensuite, un test inoffensif pour prouver que la traversée passe : talosctl -n time --check \"/dev/../proc/version\" # rpc error ... error querying PTP device \"/dev/../proc/version\": invalid argument # open() a…",
+      "link": "https://blog.zwindler.fr/2026/11/03/talos-timecheck-watchdog-os-reader-reboot/",
+      "pubDate": "2026-11-03T17:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/10/talos.webp",
+      "type": "blog"
+    },
+    {
       "id": "cb8b29e9d428",
       "title": "API Platform Conference 2026 - Damien Fernandes - Extension 101 : Invisibles mais indispensables",
       "description": "Vous avez sûrement déjà croisé des noms comme ext-json, ext-mbstring, ou ext-libxml dans vos fichiers composer.json, sans forcément comprendre ce qu’ils font — à part qu’ils sont indispensables au bon fonctionnement de vos applications. Mais ces packages ne viennent pas de Packagist : ce sont des…",
