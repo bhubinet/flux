@@ -2,6 +2,41 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "2e1d2b250451",
+      "title": "React Native, encore valable en 2026 ? avec David Leuliette",
+      "description": "React Native et Expo tiennent-ils toujours la route face à une IA qui sait écrire du Swift et du Kotlin pour faire du natif ? David Leuliette, qui livre des apps React Native depuis plus de 10 ans pour des startups comme pour des grands comptes, nous donne sa vision du terrain : ce qui marche, ce…",
+      "link": "https://double-slash.dev/podcasts/react-native/",
+      "pubDate": "2026-11-05T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1793787451/episode/ART_146_utower.png",
+      "type": "podcast",
+      "audioUrl": "https://cdn.double-slash.dev/episodes/DS_146_react-native.mp3",
+      "duration": "3687"
+    },
+    {
+      "id": "2a30922557d9",
+      "title": "J'ai demandé un PowerPoint à des agents : le premier, on voulait l'oublier ; le dernier, tout le monde l'a accepté",
+      "description": "Répondre vite à un appel d'offres avec un deck PowerPoint soigné sur le fond comme sur la forme, en le confiant à des agents. 113 scripts jetables plus tard, le deck est devenu des données qu'un script reconstruit sans tokens, sous des gardes qui refusent d'abîmer ce qui est fini. Le récit, la…",
+      "link": "https://blog.octo.com/j'ai-demande-un-powerpoint-a-des-agents--le-premier-on-voulait-l'oublier-le-dernier-tout-le-monde-l'a-accepte",
+      "pubDate": "2026-11-04T17:04:48.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "6c4b3bfd5e30",
       "title": "Échelle de Dan Shapiro : les 6 niveaux de l'IA en dev",
       "description": "Des specs entrent et du logiciel sort, sans qu’un humain lise le code : c’est la dark factory. Dan Shapiro, CEO de Glowforge, en a fait le dernier niveau de l’échelle qu’il a publiée en janvier 2026. Calquée sur la conduite autonome, cette échelle mesure en six niveaux la maturité d’une équipe dans…",
@@ -50,6 +85,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/1c3c40a5-bd08-49fd-bdaa-5fb716849506.mp3?_=1793710900",
       "duration": "01:00:26"
+    },
+    {
+      "id": "bd4e3af20e1a",
+      "title": "Quand l'IA devient un réflexe",
+      "description": "Il y a un dicton assez connu en informatique : “quand on a un marteau, tout ressemble à un clou”. Depuis l’arrivée de l’IA, j’ai l’impression de le voir appliqué dans de nombreuses équipes de développement. L’IA est une révolution, c’est certain. Elle rend faciles des tâches qui étaient longues ou…",
+      "link": "https://www.jdecool.fr/blog/2026/11/04/quand-l-ia-devient-un-reflexe.html",
+      "pubDate": "2026-11-03T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "3b9700403e01",
