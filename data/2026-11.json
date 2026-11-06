@@ -2,6 +2,39 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "d93d4eca24e2",
+      "title": "#371.exe - Everyone can build: La révolution du code ouvert chez Alan par Yves Brissaud",
+      "description": "Pour l'épisode #371 je recevais Alexandre Gerlic. On en débrief avec Yves. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/371-e25b74a02356",
+      "pubDate": "2026-11-06T04:00:01.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/ddeb6928-74b0-4076-94a3-e25b74a02356.mp3?_=1793883661",
+      "duration": "17:26"
+    },
+    {
+      "id": "c6f9c6f04636",
+      "title": "20 ans plus tard, la grande leçon du Gold Mine",
+      "description": "Mon père et moi avons écrit Le Gold Mine il y a maintenant vingt ans pour présenter le lean différemment. Lorsqu’il a pris sa retraite, après avoir essayé (sans succès) […] Cet article 20 ans plus tard, la grande leçon du Gold Mine est apparu en premier sur Institut Lean France.",
+      "link": "https://www.institut-lean-france.fr/20-ans-plus-tard-la-grande-lecon-du-gold-mine/",
+      "pubDate": "2026-11-05T20:07:55.000Z",
+      "source": "Institut Lean France",
+      "sourceUrl": "https://www.institut-lean-france.fr/feed/",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.institut-lean-france.fr/medias/2026/11/pepites-d-or.jpg",
+      "type": "blog"
+    },
+    {
       "id": "2e1d2b250451",
       "title": "React Native, encore valable en 2026 ? avec David Leuliette",
       "description": "React Native et Expo tiennent-ils toujours la route face à une IA qui sait écrire du Swift et du Kotlin pour faire du natif ? David Leuliette, qui livre des apps React Native depuis plus de 10 ans pour des startups comme pour des grands comptes, nous donne sa vision du terrain : ce qui marche, ce…",
