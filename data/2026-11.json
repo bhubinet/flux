@@ -2,6 +2,24 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "314c3b513372",
+      "title": "#384.src -  Usine logicielle 100% AI: Qui réveille-t-on quand l'usine prend feu ? avec Nikolay Rodionov",
+      "description": "\"tu sais que c'est du code que tu vas devoir jeter à la poubelle assez vite.\" Le D.E.V. de la semaine est Nikolay Rodionov, ingénieur et entrepreneur, fondateur d'Alpic. Avec lui, on plonge dans l'usine logicielle qu'il a construite en quelques mois : des agents autonomes qui codent dans des…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/384-3680913dce53",
+      "pubDate": "2026-11-11T04:00:45.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/c5894487-18ae-4d40-92bc-a28c647dfa67.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/2d2ae4ea-acb6-4ff5-883b-3680913dce53.mp3?_=1794315645",
+      "duration": "01:01:41"
+    },
+    {
       "id": "2f1714a0cd01",
       "title": "Mise en place de Ntfy : un point d'entrée unique pour toutes vos notifications",
       "description": "Alertes éparpillées entre mails, Telegram et applis dédiées ? Un serveur Ntfy auto-hébergé réunit tout et vous laisse décider de leur destination.",
