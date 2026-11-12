@@ -2,6 +2,22 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e4ecd213843f",
+      "title": "L'usine à vulnérabilités : R0 planifie, R1 audite, R2 contre-expertise",
+      "description": "TL;DR Suite de l’article de septembre : je concluais que trouver des vulns était devenu trivial et que le goulot d’étranglement, c’était moi, l’humain dans la boucle. Depuis, j’ai industrialisé la partie triage : mon repo d’audit est devenu une usine à findings, avec des agents aux rôles distincts…",
+      "link": "https://blog.zwindler.fr/2026/11/12/usine-agentique-a-findings/",
+      "pubDate": "2026-11-12T11:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/11/20250611_191900.webp",
+      "type": "blog"
+    },
+    {
       "id": "314c3b513372",
       "title": "#384.src -  Usine logicielle 100% AI: Qui réveille-t-on quand l'usine prend feu ? avec Nikolay Rodionov",
       "description": "\"tu sais que c'est du code que tu vas devoir jeter à la poubelle assez vite.\" Le D.E.V. de la semaine est Nikolay Rodionov, ingénieur et entrepreneur, fondateur d'Alpic. Avec lui, on plonge dans l'usine logicielle qu'il a construite en quelques mois : des agents autonomes qui codent dans des…",
@@ -18,6 +34,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/2d2ae4ea-acb6-4ff5-883b-3680913dce53.mp3?_=1794315645",
       "duration": "01:01:41"
+    },
+    {
+      "id": "e0b2e468d3ea",
+      "title": "Les tests passent. Ça ne dit pas que ça marche.",
+      "description": "Je développe mes produits avec un agent de code. Il écrit, je cadre, je relis, je décide. Cette façon de travailler pose une question que tout le monde finit par se poser : comment savoir que ce qui a été produit fait vraiment ce qui était demandé ? Ma réponse tient en deux étages. Le premier…",
+      "link": "https://kolapsis.com/blog/how-to-validate-ai-written-code/",
+      "pubDate": "2026-11-11T00:00:00.000Z",
+      "source": "Kolapsis (Benjamin Touchard)",
+      "sourceUrl": "https://kolapsis.com/index.xml",
+      "categories": [
+        "Programmation",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "2f1714a0cd01",
