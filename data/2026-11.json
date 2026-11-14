@@ -2,6 +2,23 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "5540bde74641",
+      "title": "Être fail-safe, c'est avant tout une question produit",
+      "description": "La résilience n'est pas qu'une affaire de retry et de DLQ : sans décision produit, ces mécanismes provoquent doublons, fausses alertes et incohérences. Une méthode pour cadrer les failure paths dès les ateliers produit.",
+      "link": "https://blog.ippon.fr/2026/11/13/resilience-fail-safe-question-produit/",
+      "pubDate": "2026-11-13T12:58:20.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/06/fail-safe-safe-to-fail.jpg",
+      "type": "blog"
+    },
+    {
       "id": "bf33d99556e0",
       "title": "Comprendre Git : Les worktree",
       "description": "🔗 Article : https://grafikart.fr/tutoriels/git-worktree-2356 Avec git il est possible de travailler sur plusieurs fonctionnalité à l'aide de branche, mais lorsque l'on passe d'une branche à l'autre cela change le code dans notre copie de travaille. Avec les **worktree** on peut créer une copie du…",
