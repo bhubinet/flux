@@ -2,6 +2,113 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "c48b20cb5584",
+      "title": "Cisco Missed the Cloud. Now It’s Selling the Roads the AI Economy Can’t Run Without.",
+      "description": "Cisco expects $9 billion in AI infrastructure revenue from hyperscalers in fiscal 2027. The remarkable part isn’t the number. It’s the seven-year-old strategic bet that made it possible.",
+      "link": "https://upskiller.substack.com/p/cisco-missed-the-cloud-now-its-selling",
+      "pubDate": "2026-11-16T12:05:42.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!ag65!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb1bae74-a3eb-4710-a14a-ea22da8fda04_886x470.png",
+      "type": "blog"
+    },
+    {
+      "id": "50d7fe7be4b2",
+      "title": "IA générative : l'avantage revient aux acteurs historiques",
+      "description": "Pendant dix ans, les challengers digitaux ont pris l'avantage sur les banques et les assureurs historiques grâce à des produits plus simples à utiliser. Avec l'IA générative, cette avance peut désormais se rattraper en quelques mois. Pour les acteurs historiques, c'est l'occasion de reprendre la…",
+      "link": "https://www.media.thiga.co/ia-moat-avantage-acteurs-historiques-challengers",
+      "pubDate": "2026-11-16T11:52:15.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20MOAT%20historiques%20vs%20challengers.png",
+      "type": "blog"
+    },
+    {
+      "id": "757b15f8b315",
+      "title": "API Platform Conference 2026 -  Imen Ezzine & Benjamin Georgeaut - Transition avec API Platform",
+      "description": "Face à une équipe en pleine expansion, nous avons fait le choix de découper notre monolithe Symfony en plusieurs applications distinctes, gravitant autour d’une application centrale. Notre allié ? API Platform. Dans ce talk à deux voix, nous vous proposons un retour d’expérience sans filtre sur la…",
+      "link": "https://www.youtube.com/watch?v=J9Xd9kUSJbU",
+      "pubDate": "2026-11-16T08:00:13.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/J9Xd9kUSJbU/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "J9Xd9kUSJbU"
+    },
+    {
+      "id": "702c931ad091",
+      "title": "Liens Tech - Novembre 2026",
+      "description": "Au menu ce mois-ci : du stockage cloud hébergé en Europe, un outil d'accessibilité pour les mathématiques, un outil de traitement de fichiers auto-hébergé, un téléchargeur de vidéos, un serveur MCP pour sa médiathèque et un outil de visualisation de données, avec un webinar cybersécurité en clôture.",
+      "link": "https://domopi.eu/liens-tech-novembre-2026/",
+      "pubDate": "2026-11-16T06:45:58.000Z",
+      "source": "DomoPi",
+      "sourceUrl": "https://domopi.eu/rss/",
+      "categories": [
+        "DevOps",
+        "Cybersécurité"
+      ],
+      "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "687d8d561b76",
+      "title": "Sequoia Is Leaving London. Silicon Valley Just Delivered Its Verdict on Europe.",
+      "description": "Sequoia came to Europe looking for the next big thing. Six years later, it decided the talent was worth investing in, but the continent wasn’t worth staying for.",
+      "link": "https://upskiller.substack.com/p/sequoia-is-leaving-london-silicon",
+      "pubDate": "2026-11-15T22:15:04.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Y-Fs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F431e60d4-8484-4667-88bf-838e5f87742a_978x617.jpeg",
+      "type": "blog"
+    },
+    {
+      "id": "ecfbacc85c4f",
+      "title": "J'ai construit un projet troué de partout : ce que voit stackalarm, et pas vos audits",
+      "description": "composer audit et npm audit trouvent des failles. Mais pas dans le runtime, l'image Docker, la forge auto-hébergée ni le code copié. Démonstration sur La Passoire, un monorepo Symfony, Next.js et Python troué de partout.",
+      "link": "https://yoandev.co/stackalarm-la-passoire",
+      "pubDate": "2026-11-15T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/stackalarm-la-passoire.webp",
+      "type": "blog"
+    },
+    {
+      "id": "1615340cb368",
+      "title": "Jensen Huang is gone. Nvidia is Discovering what it really lost.",
+      "description": "Investors are threatening to stop investing. Employees want their founder back. Musk says critical deals could disappear. Nvidia’s board may have removed its CEO, but it has exposed a bigger problem.",
+      "link": "https://upskiller.substack.com/p/jensen-huang-is-gone-nvidia-is-discovering",
+      "pubDate": "2026-11-14T16:36:00.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!d1AU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ae9ec4c-5e31-4531-9074-7b9ea370b552_1926x1342.png",
+      "type": "blog"
+    },
+    {
       "id": "d9a0cd1caf22",
       "title": "PHP, Brotli et autres raisons de devenir ébéniste",
       "description": "Deux failles critiques dans PHP, une vulnérabilité dans Brotli et quelques envies de reconversion. Retour sur un mois d'octobre mouvementé.",
@@ -17,6 +124,20 @@
       "type": "blog"
     },
     {
+      "id": "afc6ec9eb69f",
+      "title": "Microsoft went down. The real problem is that everyone else went down With It.",
+      "description": "The cloud promised to make businesses more resilient. Microsoft's latest outage raises an uncomfortable question: have we simply made the entire economy dependent on the same points of failure?",
+      "link": "https://upskiller.substack.com/p/microsoft-went-down-the-real-problem",
+      "pubDate": "2026-11-14T12:39:28.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!_G0-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebf4de6-c812-4c43-8131-cfde060eff4d_2400x1662.png",
+      "type": "blog"
+    },
+    {
       "id": "8116cea0b0fd",
       "title": "Le développeur, gardien du harness",
       "description": "Tout le monde semble s’accorder sur le fait que les développeurs vont devenir de moins en moins techniques pour devenir plus orientés fonctionnel. J’ai moi-même partagé plusieurs réflexions dans ce sens. Mais je me demande s’il n’y a pas également un autre chemin possible. Dans un monde où l’IA…",
@@ -29,6 +150,20 @@
         "Web"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0a766b8eeb41",
+      "title": "Anthropic’s $1.4 Trillion IPO: The Most Fascinating Part Isn’t the Valuation. It’s Who Gets Paid.",
+      "description": "Anthropic could be worth $1.4 trillion. But what if the biggest winners of the AI revolution aren't the companies building the models, but the ones selling them the infrastructure?",
+      "link": "https://upskiller.substack.com/p/anthropics-14-trillion-ipo-the-most",
+      "pubDate": "2026-11-13T16:18:29.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!XRhA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7968f910-1505-4401-82f9-2ee13e467bc0_1542x1042.png",
       "type": "blog"
     },
     {
@@ -65,6 +200,22 @@
       "videoId": "PxXHoCTd6YQ"
     },
     {
+      "id": "fbb52ad2818f",
+      "title": "30 heures au lieu de 11 jours",
+      "description": "Mais aussi : Jensen Huang quitte Nvidia, Claude s’invite dans Google Meet et Meta sort un modèle à 0,10 dollar",
+      "link": "https://codecodecoders.substack.com/p/30-heures-au-lieu-de-11-jours",
+      "pubDate": "2026-11-13T09:47:22.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!fdlD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2677488-e8bb-4550-ba75-82acad07019b_1456x816.png",
+      "type": "blog"
+    },
+    {
       "id": "f9ea36455699",
       "title": "AI SDLC : piloter le développement agentique en équipe",
       "description": "Avec les agents IA, le cycle de développement logiciel change de forme : les agents écrivent une bonne partie du code, les équipes fixent l’intention et valident chaque étape. Ce nouveau cycle, l’AI SDLC, bouscule Scrum comme l’organisation des équipes produit et tech, et il oblige à regarder ce…",
@@ -96,6 +247,34 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/a1a2f062-9387-43eb-ab07-60d955870338.mp3?_=1794488441",
       "duration": "15:00"
+    },
+    {
+      "id": "428019f12eea",
+      "title": "Trump Wants Tim Cook to Run Nvidia. But is Apple’s greatest operator the right man for the Job?",
+      "description": "Jensen Huang is out. Donald Trump has already suggested his replacement: Tim Cook. But behind this unexpected recommendation lies a fascinating question about leadership and innovation.",
+      "link": "https://upskiller.substack.com/p/trump-wants-tim-cook-to-run-nvidia",
+      "pubDate": "2026-11-12T21:14:22.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!3gib!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3668a5d-b38c-4d9d-9b40-7a5e06e088c1_1860x1582.png",
+      "type": "blog"
+    },
+    {
+      "id": "526faf545051",
+      "title": "Pattern to Revenue: Stop Scaling Activity. Scale What Actually Works. ",
+      "description": "The future of Go-to-Market isn’t about prospecting more. It’s about identifying the precise patterns that actually generate revenue. Understand what works, reproduce it, and scale it.",
+      "link": "https://upskiller.substack.com/p/pattern-to-revenue-stop-scaling-activity",
+      "pubDate": "2026-11-12T20:22:19.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Su1w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7946958-06c4-4491-b9bb-51920ce855d3_572x308.png",
+      "type": "blog"
     },
     {
       "id": "827ddaa90703",
@@ -161,6 +340,20 @@
       "type": "blog"
     },
     {
+      "id": "f2983d101f2f",
+      "title": "Le Pattern-to-Revenue : arrêtons de scaler l’activité, scalons simplement ce qui marche",
+      "description": "Le futur du Go-to-Market ne consiste pas à prospecter davantage, mais à identifier les patterns précis qui génèrent réellement du revenu. Comprendre, reproduire et scaler ce qui fonctionne.",
+      "link": "https://upskiller.substack.com/p/le-pattern-to-revenue-arretons-de",
+      "pubDate": "2026-11-11T15:06:42.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!Y81u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf2041f1-90bc-4a81-b522-26ad2a7a3a91_2396x1306.png",
+      "type": "blog"
+    },
+    {
       "id": "314c3b513372",
       "title": "#384.src -  Usine logicielle 100% AI: Qui réveille-t-on quand l'usine prend feu ? avec Nikolay Rodionov",
       "description": "\"tu sais que c'est du code que tu vas devoir jeter à la poubelle assez vite.\" Le D.E.V. de la semaine est Nikolay Rodionov, ingénieur et entrepreneur, fondateur d'Alpic. Avec lui, on plonge dans l'usine logicielle qu'il a construite en quelques mois : des agents autonomes qui codent dans des…",
@@ -206,6 +399,22 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2026/10/Notification-bleue-dans-un-espace-tech.webp",
+      "type": "blog"
+    },
+    {
+      "id": "5d154170e90a",
+      "title": "Ce réglage n’est pas dans la doc de Claude Code. Il devrait.",
+      "description": "Votre quota fond sans que vous le sachiez. Voici comment reprendre la main en 15 minutes.",
+      "link": "https://codecodecoders.substack.com/p/15-minutes-pour-economiser-des-tokens",
+      "pubDate": "2026-11-10T06:16:15.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!tHff!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb5946b9-aa13-48cd-91c0-ad08fbbf7449_1456x816.png",
       "type": "blog"
     },
     {
@@ -410,6 +619,22 @@
       "type": "blog"
     },
     {
+      "id": "dddbd45ce516",
+      "title": "Le coût de l'IA rattrape Anthropic, Apple et Canva",
+      "description": "Mais aussi : Google menace de couper sa recherche aux écoles, ChatGPT et Codex vont partager un seul quota et Meta rachète Conductor",
+      "link": "https://codecodecoders.substack.com/p/le-cout-de-lia-rattrape-anthropic",
+      "pubDate": "2026-11-06T09:27:36.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!KC_3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a4d9c6b-6e8e-4fee-9697-0ef27b68ff6e_1456x816.png",
+      "type": "blog"
+    },
+    {
       "id": "d93d4eca24e2",
       "title": "#371.exe - Everyone can build: La révolution du code ouvert chez Alan par Yves Brissaud",
       "description": "Pour l'épisode #371 je recevais Alexandre Gerlic. On en débrief avec Yves. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
@@ -574,6 +799,22 @@
       "type": "blog"
     },
     {
+      "id": "faa5b8b95d15",
+      "title": "Claude Design : créer une interface SaaS pro sans designer",
+      "description": "Pourquoi le premier rendu ressemble souvent à tous les autres et comment je lui donne un vrai design system.",
+      "link": "https://codecodecoders.substack.com/p/claude-design-creer-une-interface",
+      "pubDate": "2026-11-03T06:31:07.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!yUD0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38deaa80-47c8-4077-a6c1-7a36dddb5df3_2912x1632.png",
+      "type": "blog"
+    },
+    {
       "id": "cb8b29e9d428",
       "title": "API Platform Conference 2026 - Damien Fernandes - Extension 101 : Invisibles mais indispensables",
       "description": "Vous avez sûrement déjà croisé des noms comme ext-json, ext-mbstring, ou ext-libxml dans vos fichiers composer.json, sans forcément comprendre ce qu’ils font — à part qu’ils sont indispensables au bon fonctionnement de vos applications. Mais ces packages ne viennent pas de Packagist : ce sont des…",
@@ -709,6 +950,22 @@
         "Programmation"
       ],
       "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "44b52f0949d5",
+      "title": "Veille : Claude Code, moteur de la croissance d’Anthropic",
+      "description": "Google lance Gemini 4 Carbon, 40 % des pull requests GitHub démarrent avec un agent et l’abonnement Max 20x de Claude devient Ultra",
+      "link": "https://codecodecoders.substack.com/p/veille-claude-code-moteur-de-la-croissance",
+      "pubDate": "2026-11-01T16:21:50.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!EEYM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F618e2806-bf2a-4680-9a68-1197f77d6950_2912x1632.png",
       "type": "blog"
     },
     {
