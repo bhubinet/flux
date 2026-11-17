@@ -2,6 +2,172 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "837810a3d42e",
+      "title": "Cas client : la Caisse de Solidarité reprend la main sur sa plateforme de dons",
+      "description": "La Caisse de Solidarité est une association loi 1901 créée en 2020 et une activité militante existante depuis 2016. Elle collecte des dons et les reverse aux salarié·es grévistes et aux personnes en difficulté lors de mouvements sociaux. Elle soutient aussi les personnes victimes de…",
+      "link": "https://les-tilleuls.coop/blog/etude-de-cas-caisse-de-solidarite",
+      "pubDate": "2026-11-17T10:44:57.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/Vignette-blog-1200×630@1x-1024x538.png",
+      "type": "blog"
+    },
+    {
+      "id": "e15beb8636c0",
+      "title": "Vue et React : même route, deux boîtes de vitesses",
+      "description": "Vue, c'est l'automatique ; React, la manuelle. Un même composant écrit dans les deux, ce qui se passe sous le capot (réactivité, setup et hooks, écosystème), comment les deux se rapprochent par le compilateur, et les questions à poser avant de choisir.",
+      "link": "https://blog.eleven-labs.com/fr/vue-react-meme-route-deux-boites-de-vitesses/",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "0bc8b05b85a0",
+      "title": "Vue and React: same road, two gearboxes",
+      "description": "Vue is the automatic; React, the stick shift. The same component written in both, what happens under the hood (reactivity, setup and hooks, ecosystem), how the two are converging through the compiler, and the questions to ask before choosing.",
+      "link": "https://blog.eleven-labs.com/en/vue-react-same-road-two-gearboxes/",
+      "pubDate": "2026-11-17T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "135863e501b6",
+      "title": "Stage optimisation d'un calcul haute performance pour ingénieur⋅e fin d'études ",
+      "description": "Contrat : Stage de 6 mois Lieu : Toulouse",
+      "link": "https://makina-corpus.com/devops/stage-optimisation-dun-calcul-haute-performance-pour-ingenieure-fin-detudes",
+      "pubDate": "2026-11-16T18:32:30.000Z",
+      "source": "Makina Corpus",
+      "sourceUrl": "https://makina-corpus.com/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "4067a06f16b1",
+      "title": "Combien est payée une semaine d'astreinte dans la tech en France ?",
+      "description": "TL;DR Une semaine d’astreinte “complète” (4 nuits de semaine + un week-end, soit 123 heures où on peut te réveiller) est payée entre 150 € (fonction publique) et 765 € brut (le haut du panier dans le privé), hors majorations. La médiane de mon échantillon tourne autour de 500 €, soit à peine plus…",
+      "link": "https://blog.zwindler.fr/2026/11/16/combien-paye-astreinte-tech-france/",
+      "pubDate": "2026-11-16T17:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/11/astreinte-marathon.webp",
+      "type": "blog"
+    },
+    {
+      "id": "8f2e05b33517",
+      "title": "Lean, AI et Delivery Tech - J’ai observé le futur du développement",
+      "description": "Comment travaille une équipe qui a une longueur d’avance sur l’IA ? J’ai passé du temps avec Sara, Lead Tech, pour le découvrir. Documentation dans le repo, standards Lean devenus le carburant de l’IA, Jidoka retrouvé… et une question qui reste ouverte : développons-nous encore les personnes ?",
+      "link": "https://blog.octo.com/lean-ai-et-delivery-tech-j'ai-observe-le-futur-du-developpement",
+      "pubDate": "2026-11-16T16:45:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "9c4f8258c3f5",
+      "title": "API Platform Conference 2026 - Mathieu Santostefano - Des APIs sécurisées sans perdre la tête",
+      "description": "La sécurisation d’une API n’a pas toujours été facile, mais ces dernières années, l’authentification a été standardisée. Des solutions modernes et robustes ont vu le jour. Vous avez peut-être rencontré les mots-clés Oauth2, OIDC, JWT, Rate Limiting au cours des dernières années. Ce sont les…",
+      "link": "https://www.youtube.com/watch?v=BQEkktjNNmw",
+      "pubDate": "2026-11-16T15:44:37.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/BQEkktjNNmw/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "BQEkktjNNmw"
+    },
+    {
+      "id": "544886b9b0a9",
+      "title": "API Platform Conference 2026 - Sébastien Rogier - 5 ans d'évolution d'une stack LLM en PHP",
+      "description": "En 2021, l’effet “magique” : nous intégrons GPT-3 à notre SaaS SEO (stack Symfony/API Platform). Un simple appel à une API, un prompt, et nous avons des suggestions de titres dans notre application. Deux ans plus tard, l’effet magique s’estompe. Nous maintenons des dizaines de “générateurs”.…",
+      "link": "https://www.youtube.com/watch?v=2M7brQYkKVo",
+      "pubDate": "2026-11-16T15:25:09.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/2M7brQYkKVo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "2M7brQYkKVo"
+    },
+    {
+      "id": "35b537255280",
+      "title": "Coraza dans FrankenPHP : ce que ça coûte vraiment d’embarquer un WAF",
+      "description": "Coraza dans FrankenPHP : benchmarks WAF et coût Kubernetes Cet article, Coraza dans FrankenPHP : ce que ça coûte vraiment d’embarquer un WAF, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/coraza-frankenphp-waf-benchmarks-kubernetes",
+      "pubDate": "2026-11-16T14:58:10.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/magnific_MBsFFMbDCm-1024x572.png",
+      "type": "blog"
+    },
+    {
+      "id": "a5429c84710c",
+      "title": "Dark Factory : qui pilote quand l'IA développe seule ?",
+      "description": "Une production logicielle largement autonome, pilotée par des intentions et validée par des preuves : la Dark Factory a tout d'un horizon, et j'y crois. Elle se construit en plaçant l'usine au centre du système, en la confiant à une capacité Product Builder qui couvre la Tech, le Produit, le Design…",
+      "link": "https://www.media.thiga.co/dark-factory-piloter-ia",
+      "pubDate": "2026-11-16T12:55:28.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20Dark%20Factory%20Olivier-1.png",
+      "type": "blog"
+    },
+    {
       "id": "c48b20cb5584",
       "title": "Cisco Missed the Cloud. Now It’s Selling the Roads the AI Economy Can’t Run Without.",
       "description": "Cisco expects $9 billion in AI infrastructure revenue from hyperscalers in fiscal 2027. The remarkable part isn’t the number. It’s the seven-year-old strategic bet that made it possible.",
