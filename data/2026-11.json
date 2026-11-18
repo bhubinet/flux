@@ -2,6 +2,85 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "b28f0ea62045",
+      "title": "Product Manager et P&L : les 4 indicateurs à défendre",
+      "description": "Sprint tenu, NPS au vert, et pourtant, en comité, la question qui tombe porte sur l’argent. Avec l’IA qui accélère le delivery, le Product Manager est attendu sur la valeur de ce qu’il livre et sur sa capacité à la chiffrer. Voici les quatre indicateurs qu’on lui demandera de défendre, et ce qu’ils…",
+      "link": "https://www.media.thiga.co/product-manager-pilote-pl",
+      "pubDate": "2026-11-18T11:29:13.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20P%26L.png",
+      "type": "blog"
+    },
+    {
+      "id": "7db11e469128",
+      "title": "Défi Zéro Déchet : 10 ans aux côtés des collectivités",
+      "description": "Défi Zéro Déchet : la plateforme libre des collectivités créée par Les-Tilleuls.coop Cet article, Défi Zéro Déchet : 10 ans aux côtés des collectivités, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/defi-zero-dechet-plateforme-collectivites",
+      "pubDate": "2026-11-18T11:25:15.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/flat-lay-zero-waste-spoons-concept-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "d2bca330ff67",
+      "title": "#385.src -  AT Protocol: Décentraliser son identité numérique avec Julien Wittouck",
+      "description": "\"Quitter un réseau social, d'habitude c'est tout perdre. BlueSky, eux, promettent l'inverse : vos données ne lui appartiennent pas.\" Le D.E.V. de la semaine est Julien Wittouck, développeur back-end, architecte et associé chez Ekité, enseignant à l'université de Lille et conférencier. Dans cet…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/385-0e842b5cd5a9",
+      "pubDate": "2026-11-18T04:00:31.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/d10145c3-79c4-48ee-a732-a60756f68418.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/1ebca351-8f11-461b-9acf-0e842b5cd5a9.mp3?_=1794920431",
+      "duration": "01:04:25"
+    },
+    {
+      "id": "391f8eec7e72",
+      "title": "Wall Street Wants to Tokenize Your Shares. Corporate America Just Said No.",
+      "description": "The owner of the New York Stock Exchange is preparing a blockchain-based stock market.",
+      "link": "https://upskiller.substack.com/p/wall-street-wants-to-tokenize-your",
+      "pubDate": "2026-11-17T17:39:30.000Z",
+      "source": "Mind Upskiller",
+      "sourceUrl": "https://upskiller.substack.com/feed",
+      "categories": [
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!tnEE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6568b678-47a6-4fa7-be9e-cd1ce7e31565_1608x930.png",
+      "type": "blog"
+    },
+    {
+      "id": "8e8299ef977f",
+      "title": "Many small reads, a few huge invalidations: what I learned alongside Symfony Cache on Redis Cluster",
+      "description": "On our e-commerce API, we invalidate a few hundred cache entries all the time, and that is easy with any cache. But switching the active catalogue means invalidating around a million entries at once, and that has to be fast too. With the first version of my cache, it blocked everything else for…",
+      "link": "https://jolicode.com/blog/many-small-reads-a-few-huge-invalidations-what-i-learned-alongside-symfony-cache-on-redis-cluster",
+      "pubDate": "2026-11-17T14:42:00.000Z",
+      "source": "JoliCode",
+      "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://jolicode.com//media/cache/content/2026/redis-performance/mermaid-diagram-2026-11-17-160842.png",
+      "type": "blog"
+    },
+    {
       "id": "837810a3d42e",
       "title": "Cas client : la Caisse de Solidarité reprend la main sur sa plateforme de dons",
       "description": "La Caisse de Solidarité est une association loi 1901 créée en 2020 et une activité militante existante depuis 2016. Elle collecte des dons et les reverse aux salarié·es grévistes et aux personnes en difficulté lors de mouvements sociaux. Elle soutient aussi les personnes victimes de…",
@@ -16,6 +95,22 @@
         "IA"
       ],
       "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/Vignette-blog-1200×630@1x-1024x538.png",
+      "type": "blog"
+    },
+    {
+      "id": "cc4a8842410a",
+      "title": "Votre agent n’ignorera plus vos règles",
+      "description": "Je vous montre comment l’empêcher de contourner vos règles.",
+      "link": "https://codecodecoders.substack.com/p/votre-agent-nignorera-plus-vos-regles",
+      "pubDate": "2026-11-17T06:01:58.000Z",
+      "source": "CodeCodeCoders",
+      "sourceUrl": "https://codecodecoders.substack.com/feed",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA"
+      ],
+      "image": "https://substackcdn.com/image/fetch/$s_!qGvI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe7bf9454-a3af-4fa2-92a7-924c6b6c46b3_1456x816.png",
       "type": "blog"
     },
     {
