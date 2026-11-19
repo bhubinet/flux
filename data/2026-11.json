@@ -2,6 +2,24 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "18de0c9f546a",
+      "title": "Modèle et effort de raisonnement : trouver le bon équilibre pour vos agents",
+      "description": "La plupart des fournisseurs de modèles d’intelligence artificielle permettent aujourd’hui d’ajuster le niveau d’effort de raisonnement consacré à une tâche. Cette possibilité constitue un levier important pour maîtriser la consommation de tokens, optimiser les coûts et adapter les performances à la…",
+      "link": "https://blog.octo.com/modele-et-effort-de-raisonnement--trouver-le-bon-equilibre-pour-vos-agents",
+      "pubDate": "2026-11-19T08:24:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "b28f0ea62045",
       "title": "Product Manager et P&L : les 4 indicateurs à défendre",
       "description": "Sprint tenu, NPS au vert, et pourtant, en comité, la question qui tombe porte sur l’argent. Avec l’IA qui accélère le delivery, le Product Manager est attendu sur la valeur de ce qu’il livre et sur sa capacité à la chiffrer. Voici les quatre indicateurs qu’on lui demandera de défendre, et ce qu’ils…",
@@ -50,6 +68,21 @@
       "type": "podcast",
       "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/1ebca351-8f11-461b-9acf-0e842b5cd5a9.mp3?_=1794920431",
       "duration": "01:04:25"
+    },
+    {
+      "id": "db953577ceec",
+      "title": "Comment l'IA pourrait faire disparaitre l'humanité ?",
+      "description": "Entre 1 et 99 % de risque selon les experts. Mais concrètement, comment l'IA nous ferait disparaître ? Cinq scénarios, du plus proche au plus lointain.",
+      "link": "https://eventuallycoding.com/p/comment-l-ia-pourrait-faire-disparaitre-l-humanite",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "source": "EventuallyCoding",
+      "sourceUrl": "https://eventuallycoding.com/rss.xml",
+      "categories": [
+        "Programmation",
+        "IA"
+      ],
+      "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1795019634005-ahaqp3r.png",
+      "type": "blog"
     },
     {
       "id": "391f8eec7e72",
