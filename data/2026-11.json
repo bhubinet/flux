@@ -2,6 +2,74 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "d112d3cf21a0",
+      "title": "DevFest Toulouse 2026 - Récap express",
+      "description": "Un DevFest Toulouse en coup de vent Comme je vous l’avais annoncé en septembre, j’étais ce jeudi 19 novembre au DevFest Toulouse, au Diagora de Labège, pour présenter ma boîte à coucou des Guignols. J’avais VRAIMENT envie de faire ce talk (comme le précédent sur KubeSolo, Raspberry Pi Zero et…",
+      "link": "https://blog.zwindler.fr/2026/11/20/recap-devfest-toulouse-2026/",
+      "pubDate": "2026-11-20T11:00:00.000Z",
+      "source": "Zwindler's Reflection",
+      "sourceUrl": "https://blog.zwindler.fr/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "Programmation"
+      ],
+      "image": "https://blog.zwindler.fr/2026/11/devfest-toulouse-2026.webp",
+      "type": "blog"
+    },
+    {
+      "id": "0f0fc19b63f7",
+      "title": "Trop d’outils IA pour développer : lequel installer ?",
+      "description": "Trop d’outils IA pour développer ? ADE, IDE, terminal : notre tour des environnements pour orchestrer des agents. Cet article, Trop d’outils IA pour développer : lequel installer ?, est paru en premier sur Les-Tilleuls.coop.",
+      "link": "https://les-tilleuls.coop/blog/outils-ia-developpement-agentique-ade",
+      "pubDate": "2026-11-20T09:48:30.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/artisanat-1024x683.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "8faabefc1d8b",
+      "title": "#360.exe - Docker Sandbox: Sécuriser les agents IA sans ralentir les devs par Quentin de Quelen",
+      "description": "Pour l'épisode #360 je recevais Guillaume Lours. On en débrief avec Quentin. 🎙️ Soutenez le podcast If This Then Dev ! 🎙️ Chaque contribution aide à maintenir et améliorer nos épisodes. Cliquez ici pour nous soutenir sur Tipeee 🙏 Retrouvez toutes les expertises de tous les experts et expertes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/360-6e8e07e7ad53",
+      "pubDate": "2026-11-20T04:00:35.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/podcast/b0f6c0ee-41d3-4406-9d0c-7ef45174c4b8.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/c87ad1ee-c3c1-4a4a-b813-6e8e07e7ad53.mp3?_=1795093235",
+      "duration": "14:43"
+    },
+    {
+      "id": "3353b6af7447",
+      "title": "Maintenir ses projets open source à jour avec Renovate et Antigravity",
+      "description": "Renovate Renovate est un outil que j’apprécie et que j’utilise beaucoup. J’ai d’ailleurs écrit un article de blog à son",
+      "link": "https://blog.zenika.com/2026/11/19/maintenir-ses-projets-open-source-a-jour-avec-renovate-et-antigravity/",
+      "pubDate": "2026-11-19T14:07:37.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://i0.wp.com/blog.zenika.com/wp-content/uploads/2026/11/image-797095ae.png?resize=800%2C237&#038;ssl=1",
+      "type": "blog"
+    },
+    {
       "id": "18de0c9f546a",
       "title": "Modèle et effort de raisonnement : trouver le bon équilibre pour vos agents",
       "description": "La plupart des fournisseurs de modèles d’intelligence artificielle permettent aujourd’hui d’ajuster le niveau d’effort de raisonnement consacré à une tâche. Cette possibilité constitue un levier important pour maîtriser la consommation de tokens, optimiser les coûts et adapter les performances à la…",
@@ -83,6 +151,23 @@
       ],
       "image": "https://writizzy.b-cdn.net/blogs/3d2c312a-df80-4b93-b164-0dfd3902f0f8/1795019634005-ahaqp3r.png",
       "type": "blog"
+    },
+    {
+      "id": "36ec626d73b3",
+      "title": "News novembre 2026, Discord lâche Electron, OVH lance son premier LLM et Cactus met l'IA dans une montre",
+      "description": "Nous évoquons un répertoire des newsletters tech francophones, Discord qui prépare Project Phoenix en Rust et GPUI, Kiri et Colima pour se passer de Docker Desktop, KiviDB compatible Redis, my-bad de Daniel Roe, eve 1.0 de Vercel, les modèles Cactus de moins de 30 Mo, Olala mini d'OVHcloud,…",
+      "link": "https://double-slash.dev/podcasts/news-nov-26-rc1/",
+      "pubDate": "2026-11-18T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1794997906/ART_147_lyu4f7.png",
+      "type": "podcast",
+      "audioUrl": "https://cdn.double-slash.dev/episodes/DS_147_news-nov26.mp3",
+      "duration": "2733"
     },
     {
       "id": "391f8eec7e72",
@@ -355,6 +440,22 @@
         "Cybersécurité"
       ],
       "image": "https://domopi.eu/content/images/2025/10/liens-tech-1.webp",
+      "type": "blog"
+    },
+    {
+      "id": "2be317edd4f7",
+      "title": "☕️ Java à l'ère de l'IA 🤖 - partie 5 : le function calling",
+      "description": "Enhance 224 to 176. Enhance, stop. ©Rick Deckard",
+      "link": "https://philippart-s.github.io/blog/2026-11-16-java-and-ai-part5/",
+      "pubDate": "2026-11-16T00:00:00.000Z",
+      "source": "Ourson's Blog (Stéphane Philippart)",
+      "sourceUrl": "https://philippart-s.github.io/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "DevOps",
+        "IA"
+      ],
+      "image": null,
       "type": "blog"
     },
     {
