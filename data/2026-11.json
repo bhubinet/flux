@@ -2,6 +2,24 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "d06762e0c01b",
+      "title": "Qualité interne et ralentissement du rythme de livraison : pourquoi le code se dégrade et comment l'éviter",
+      "description": "Un étonnement revient souvent dans les équipes avec qui je travaille : and quot;Pourquoi est-ce que faire un changement prend deux semaines ? Il y a deux ans, faire un changement similaire prenait deux jours. and quot; Qu'est-ce qui cause ce phénomène ? Comment le mitiger ?",
+      "link": "https://blog.octo.com/qualite-interne-et-rythme-de-livraison--pourquoi-le-code-se-degrade-et-comment-l'eviter",
+      "pubDate": "2026-11-20T14:41:10.000Z",
+      "source": "Octo Talks",
+      "sourceUrl": "https://blog.octo.com/feed",
+      "categories": [
+        "Product Management",
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d112d3cf21a0",
       "title": "DevFest Toulouse 2026 - Récap express",
       "description": "Un DevFest Toulouse en coup de vent Comme je vous l’avais annoncé en septembre, j’étais ce jeudi 19 novembre au DevFest Toulouse, au Diagora de Labège, pour présenter ma boîte à coucou des Guignols. J’avais VRAIMENT envie de faire ce talk (comme le précédent sur KubeSolo, Raspberry Pi Zero et…",
