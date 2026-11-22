@@ -2,6 +2,23 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "b0f10c50b77e",
+      "title": "Les news d'août et septembre 2026 : la rentrée du durcissement",
+      "description": "FlyD sur Unsplash Je vous avais donné rendez-vous en septembre… et nous voici bientôt en décembre. Je n’ai pas chômé pour autant : la rentrée a été dense côté pro, et je n’ai pas pris le temps d’écrire de nouveaux articles même si mon backlog déborde d’idées ou de thèmes pour l’alimenter. Cela fait…",
+      "link": "https://david.drugeon-hamon.bzh/blog/2026/09/news-aout-septembre/",
+      "pubDate": "2026-11-21T00:00:00.000Z",
+      "source": "David Drugeon-Hamon",
+      "sourceUrl": "https://david.drugeon-hamon.bzh/index.xml",
+      "categories": [
+        "DevOps",
+        "Cloud",
+        "IA",
+        "Programmation"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
       "id": "d06762e0c01b",
       "title": "Qualité interne et ralentissement du rythme de livraison : pourquoi le code se dégrade et comment l'éviter",
       "description": "Un étonnement revient souvent dans les équipes avec qui je travaille : and quot;Pourquoi est-ce que faire un changement prend deux semaines ? Il y a deux ans, faire un changement similaire prenait deux jours. and quot; Qu'est-ce qui cause ce phénomène ? Comment le mitiger ?",
