@@ -2,6 +2,78 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "d1d1b7a57f7b",
+      "title": "Migrating Zend Framework 1 to API Platform 4 | Robin Chalas – API Platform Con 2026",
+      "description": "Migrating a large, complex legacy application is never just a technical challenge, it’s a matter of finding the right equations between business constraints, team capacity, and long-term maintainability. This talk is a real-world experience report of an ongoing migration from Zend Framework 1 to…",
+      "link": "https://www.youtube.com/watch?v=rzkUHGmM4gg",
+      "pubDate": "2026-11-23T08:00:38.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/rzkUHGmM4gg/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "rzkUHGmM4gg"
+    },
+    {
+      "id": "fa529e98c00d",
+      "title": "Own Your Content: ActivityPub & the Open Web | Derick Rethans – API Platform Con 2026",
+      "description": "In this keynote we are having a critical look at how the web went wrong. How we went from using common and open protocols to create a rich digital culture, to an environment were everything seems to turn into walled gardens and platforms, controlled by “big tech”, and algorithms, that can, at a…",
+      "link": "https://www.youtube.com/watch?v=8IkTPwRWbEE",
+      "pubDate": "2026-11-23T08:00:31.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/8IkTPwRWbEE/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "8IkTPwRWbEE"
+    },
+    {
+      "id": "f28c66e00e12",
+      "title": "Event-Driven APIs with Symfony Messenger & Redis | Abdellah El Ghailani – API Platform Con 2026",
+      "description": "Modern enterprise systems can’t afford to be fragile. When a critical downstream service is slow, an ERP takes 3 seconds to respond, or traffic spikes unexpectedly, your API needs to keep serving gracefully. In this talk, I’ll share hard-won lessons from a real-world migration: replacing a legacy…",
+      "link": "https://www.youtube.com/watch?v=HFvNjoHpZjo",
+      "pubDate": "2026-11-23T08:00:20.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/HFvNjoHpZjo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "HFvNjoHpZjo"
+    },
+    {
+      "id": "e82cd67211ab",
+      "title": "Run FrankenPHP Locally with DDEV | Stephan Hochdörfer – API Platform Con 2026",
+      "description": "DDEV offers a powerful yet accessible approach to containerized development. In this session, we will walk through setting up a DDEV environment explicitly for FrankenPHP. This talk explores adding FrankenPHP to a DDEV environment, covering both server configuration and the practicalities of daily…",
+      "link": "https://www.youtube.com/watch?v=TxNWGJYZSlo",
+      "pubDate": "2026-11-23T08:00:09.000Z",
+      "source": "Les-Tilleuls.coop (YouTube)",
+      "sourceUrl": "https://www.youtube.com/channel/UCGP6SKfBAQDlEO2QZXPb_Ew",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://i.ytimg.com/vi/TxNWGJYZSlo/maxresdefault.jpg",
+      "type": "youtube",
+      "videoId": "TxNWGJYZSlo"
+    },
+    {
       "id": "b0f10c50b77e",
       "title": "Les news d'août et septembre 2026 : la rentrée du durcissement",
       "description": "FlyD sur Unsplash Je vous avais donné rendez-vous en septembre… et nous voici bientôt en décembre. Je n’ai pas chômé pour autant : la rentrée a été dense côté pro, et je n’ai pas pris le temps d’écrire de nouveaux articles même si mon backlog déborde d’idées ou de thèmes pour l’alimenter. Cela fait…",
