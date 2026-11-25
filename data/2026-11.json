@@ -2,6 +2,137 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "f3f565d3e023",
+      "title": "Comment transcrire en texte l’audio d’une réunion, en local et gratuitement avec Whisper",
+      "description": "Transcription Google Meet oubliée ? Avec ffmpeg et whisper.cpp, convertissez l'audio de votre réunion en texte sur votre laptop, en quelques minutes, sans coût de tokens et sans envoyer de données dans le cloud.",
+      "link": "https://blog.ippon.fr/2026/11/25/transcrire-audio-reunion-whisper/",
+      "pubDate": "2026-11-25T08:01:30.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/11/image_f4706479.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "61d38405be3e",
+      "title": "#386.src - ESN AI Native: Remettre l'humain au coeur de l'Agentic Software Factory avec Jordan Nourry",
+      "description": "\"Vous voulez quelque chose qui va plus vite, mais quelle organisation voulez-vous créer autour de ça ?\" Le D.E.V. de la semaine est Jordan Nourry, cofondateur de Shodo Studio. Face à l'arrivée massive de l'IA générative, Jordan explique comment son ESN a complètement repensé son modèle : équipes…",
+      "link": "https://podcasts.audiomeans.fr/ifttd-if-this-then-dev-a6c7a443ffca/386-1d1a7e0f66d5",
+      "pubDate": "2026-11-25T04:00:27.000Z",
+      "source": "IFTTD - If This Then Dev",
+      "sourceUrl": "https://feeds.audiomeans.fr/feed/03d88297-85c1-475f-a491-a6c7a443ffca.xml",
+      "categories": [
+        "Programmation",
+        "IA",
+        "Web"
+      ],
+      "image": "https://static.audiomeans.fr/img/episode/ebcefb2c-2e00-4a52-9294-8f218234f6c7.jpg",
+      "type": "podcast",
+      "audioUrl": "https://audio.audiomeans.fr/file/jnKxuEOkpA/65ceec49-da35-4c8e-b8f7-1d1a7e0f66d5.mp3?_=1795525227",
+      "duration": "01:13:08"
+    },
+    {
+      "id": "3ab1d1884a31",
+      "title": "Recruter avec méthode, sans perdre l’humain (épisode 5)",
+      "description": "Trois entretiens de deux heures pour s'apercevoir, à la fin, qu'on n'était pas sur la même fourchette de salaire. L'erreur qui a tout changé dans notre façon de recruter.",
+      "link": "https://www.elao.com/blog/elao/rh-tpe-ep-05-recruter",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Elao",
+      "sourceUrl": "https://www.elao.com/blog/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "8e44c9c780e6",
+      "title": "On a gagné du temps. Rendons-le aux humains",
+      "description": "Il y a quelques mois, le backlog de mon équipe s'est vidé. Plutôt que de coder des features pour remplir le vide, on a remis de la discussion entre métier, produit et tech. Ce que l'IA ne fera pas à notre place : décider.",
+      "link": "https://yoandev.co/rendre-le-temps-aux-humains",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "YoanDev",
+      "sourceUrl": "https://yoandev.co/rss.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps",
+        "IA"
+      ],
+      "image": "https://yoandev.co/img/rendre-le-temps-aux-humains.webp",
+      "type": "blog"
+    },
+    {
+      "id": "c8f17d7e10c4",
+      "title": "Modèles de décision, une IA qui répond en 10 ms",
+      "description": "Depuis le marketing de septembre 2026 autour de JEV, une petite famille de decision models s'est formée : JEV, Clef, D1 et Laya. L'idée, c'est un modèle rapide et automatique, qui classe, route, score ou filtre, là où un LLM, plus lent et plus coûteux, reste le bon outil pour écrire, coder,…",
+      "link": "https://double-slash.dev/podcasts/decision_model/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Double Slash",
+      "sourceUrl": "https://double-slash.dev/podcast-rss-feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": "https://res.cloudinary.com/doubleslash/image/upload/v1795540127/episode/ART_148_biw0zb.png",
+      "type": "podcast",
+      "audioUrl": "https://cdn.double-slash.dev/episodes/DS_148_decision_model.mp3",
+      "duration": "2559"
+    },
+    {
+      "id": "07d3b8445526",
+      "title": "Product Builder : définition, rôle et compétences en 2027",
+      "description": "En décembre 2025, LinkedIn a remplacé son programme d'Associate Product Manager, la porte d'entrée historique du métier, par un programme d'Associate Product Builder. Le terme désigne ces Product Managers, Product Designers ou développeurs qui construisent eux-mêmes un produit de bout en bout grâce…",
+      "link": "https://www.media.thiga.co/product-builder",
+      "pubDate": "2026-11-24T16:41:56.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/Article%20PB.png",
+      "type": "blog"
+    },
+    {
+      "id": "1558c6d1d49b",
+      "title": "Citizen Developer : retour d'expérience avec l'IA",
+      "description": "Avec l'IA, n'importe quel salarié peut coder, et les équipes métiers s'y mettent, souvent hors des radars de l'IT. Les outils de vibe coding ne s'occupent pas de la sécurité à leur place : une application montée en quelques heures peut exposer des données clients sans que personne ne s'en…",
+      "link": "https://www.media.thiga.co/citizen-developer-ia",
+      "pubDate": "2026-11-24T16:08:59.000Z",
+      "source": "Thiga",
+      "sourceUrl": "https://www.media.thiga.co/rss.xml",
+      "categories": [
+        "Product Management",
+        "IA"
+      ],
+      "image": "https://www.media.thiga.co/hubfs/xg8z6z0xf8w41.jpg",
+      "type": "blog"
+    },
+    {
+      "id": "3cb6a22ea502",
+      "title": "Parvis : l’assistant IA des communes qui cite ses sources",
+      "description": "À l’occasion du Salon des Maires et des Collectivités Locales, où nous sommes présent·es, notre coopérative et Tilia lancent Parvis, un assistant pour les communes qui répond aux questions des habitants et habitantes à partir du site et des documents de la mairie. Chaque réponse cite sa source : un…",
+      "link": "https://les-tilleuls.coop/blog/parvis-assistant-ia-communes",
+      "pubDate": "2026-11-24T14:27:11.000Z",
+      "source": "Les-Tilleuls.coop",
+      "sourceUrl": "https://les-tilleuls.coop/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "Cloud",
+        "IA"
+      ],
+      "image": "https://les-tilleuls.coop/wp-content/uploads/2026/11/vignette-parvis-1024x538.png",
+      "type": "blog"
+    },
+    {
       "id": "6f6f5622cff9",
       "title": "BMAD Method : guide complet et avis (2027)",
       "description": "La BMAD Method est un framework open source qui fait jouer à des agents IA les rôles d'une équipe agile, de l'Analyste au Développeur, pour qu'un agent de code arrête de deviner ce qu'on attend de lui. Créée par Brian Madison et distribuée sous licence MIT, elle s'installe dans Claude Code, Cursor,…",
@@ -24,6 +155,21 @@
       "pubDate": "2026-11-24T13:42:00.000Z",
       "source": "JoliCode",
       "sourceUrl": "https://jolicode.com/feed",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "b75879382016",
+      "title": "Déployer un projet Symfony sur Scaleway Functions",
+      "description": "Je l’ai évoqué plusieurs fois au travers de différents articles de ce blog, mais je porte une attention particulière à utiliser et héberger mes outils sur des infrastructures françaises ou (à défaut) européennes. Pour des sites statiques simples, je passe généralement par un hébergement Alwaysdata…",
+      "link": "https://www.jdecool.fr/blog/2026/11/24/deployer-un-projet-symfony-sur-scaleway-functions.html",
+      "pubDate": "2026-11-23T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
       "categories": [
         "Programmation",
         "Web"
