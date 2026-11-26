@@ -2,6 +2,55 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "63067913e21d",
+      "title": "Comment automatiser les tests d'un jeu vidéo avec Playwright ?",
+      "description": "Découvrez comment utiliser Playwright pour automatiser les tests d'un jeu vidéo dans le navigateur : déplacements, interactions, clavier et détection des erreurs JavaScript.",
+      "link": "https://code-garage.com/blog/comment-automatiser-les-tests-d-un-jeu-video-avec-playwright",
+      "pubDate": "2026-11-26T09:55:22.000Z",
+      "source": "Code-Garage",
+      "sourceUrl": "https://code-garage.com/blog/rss",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "a9618eadf7f9",
+      "title": "Développement augmenté : bien outiller son agent",
+      "description": "Vous confiez un petit correctif à votre agent : « Empêche les doublons à la création d’une facture ». L’agent ouvre quelques",
+      "link": "https://blog.zenika.com/2026/11/25/developpement-augmente-bien-outiller-son-agent/",
+      "pubDate": "2026-11-25T20:06:40.000Z",
+      "source": "Zenika",
+      "sourceUrl": "https://blog.zenika.com/feed/",
+      "categories": [
+        "Programmation",
+        "Web",
+        "IA",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "19c0f223a0e5",
+      "title": "React Native Connection 2026",
+      "description": "Résumé talk par talk de la React Native Connection 2026 : agents IA, desktop, web, navigation, animations et les tendances à retenir.",
+      "link": "https://blog.ippon.fr/2026/11/25/react-native-connection-2026/",
+      "pubDate": "2026-11-25T13:49:51.000Z",
+      "source": "Ippon Technologies",
+      "sourceUrl": "https://blog.ippon.fr/feed/",
+      "categories": [
+        "Programmation",
+        "Cloud",
+        "IA",
+        "DevOps"
+      ],
+      "image": "https://blog.ippon.fr/content/images/2026/11/data-src-image-2ba30b1a-c1c6-47ee-a3d0-fb296a746396-1.png",
+      "type": "blog"
+    },
+    {
       "id": "f3f565d3e023",
       "title": "Comment transcrire en texte l’audio d’une réunion, en local et gratuitement avec Whisper",
       "description": "Transcription Google Meet oubliée ? Avec ffmpeg et whisper.cpp, convertissez l'audio de votre réunion en texte sur votre laptop, en quelques minutes, sans coût de tokens et sans envoyer de données dans le cloud.",
@@ -84,6 +133,53 @@
       "type": "podcast",
       "audioUrl": "https://cdn.double-slash.dev/episodes/DS_148_decision_model.mp3",
       "duration": "2559"
+    },
+    {
+      "id": "c51bbfd31fee",
+      "title": "jsdom ou happy-dom : l'envers du décor",
+      "description": "J'ai passé les tests de composants d'un jeu React de jsdom à happy-dom pour gagner une minute de CI par PR. Les chiffres de la migration, trois tests rouges et 406 erreurs réseau, ce qu'ils disent des deux faux navigateurs, et les questions à se poser avant de changer.",
+      "link": "https://blog.eleven-labs.com/fr/jsdom-ou-happy-dom-envers-du-decor/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "40cca57bf596",
+      "title": "jsdom or happy-dom: behind the scenes",
+      "description": "I moved the component tests of a React game from jsdom to happy-dom to shave a minute of CI off every PR. The numbers from the migration, three red tests and 406 network errors, what they reveal about the two fake browsers, and what to ask yourself before switching.",
+      "link": "https://blog.eleven-labs.com/en/jsdom-or-happy-dom-behind-the-scenes/",
+      "pubDate": "2026-11-25T00:00:00.000Z",
+      "source": "Eleven Labs",
+      "sourceUrl": "https://blog.eleven-labs.com/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web",
+        "DevOps"
+      ],
+      "image": null,
+      "type": "blog"
+    },
+    {
+      "id": "95b0d275f719",
+      "title": "Et si le bon ratio était un PO pour un développeur ?",
+      "description": "Pendant des années, on a dimensionné les équipes de développement sur le modèle des “pizza teams” inspiré du fonctionnement d’Amazon. Le principe est simple: une équipe doit être assez petite pour être nourrie avec deux pizzas. C’est ainsi qu’on se retrouve fréquemment avec des équipes d’à peu près…",
+      "link": "https://www.jdecool.fr/blog/2026/11/25/et-si-le-bon-ratio-etait-un-po-pour-un-developpeur.html",
+      "pubDate": "2026-11-24T23:00:00.000Z",
+      "source": "Jérémy Decool",
+      "sourceUrl": "https://www.jdecool.fr/feed.xml",
+      "categories": [
+        "Programmation",
+        "Web"
+      ],
+      "image": null,
+      "type": "blog"
     },
     {
       "id": "07d3b8445526",
